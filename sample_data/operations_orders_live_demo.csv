@@ -1,0 +1,2061 @@
+order_id,order_date,region,state,city,category,product,quantity,unit_price,status,delivery_days
+ORD-301682,04/08/2026,West,goa,Panaji,Home & Kitchen,LED Bulb Pack,3,414.47,Pending,
+ORD-300224,2026-07-29,North,Uttar Pradesh,Lucknow,Grocery,Atta 10kg,4,499.64,Delivered,3
+ORD-301125,2026-08-25,Central,Madhya Pradesh,Indore,Apparel,Denim Jeans,2,1448.32,Delivered,3
+ORD-300646,2026-06-18,Central,Madhya Pradesh,Bhopal,Apparel,Running Shoes,1,2950.38,DELIVERED,5
+ORD-301254,2026-08-26,North,  Rajasthan ,jaipur,Grocery,Basmati Rice 5kg,4,671.46,Delivered,2
+ORD-300726,2026-06-01,Central,,Indore,home & kitchen,Non-Stick Pan,1,1046.93,Shipped,
+ORD-301425,03/04/2026,South,Karnataka,bengaluru,CLOTHING,Winter Jacket,2,2734.81,Delivered,2
+ORD-300686,yesterday,South,Tamil Nadu,Chennai,  Grocery ,Dry Fruits 500g,1,724.54,Returned,3
+ORD-301150,2026-05-16,West,Gujarat,Ahmedabad,ELECTRONICS,Smartwatch,3,5294.58,delivered,2
+ORD-300073,2026-02-02,North,Rajasthan,Jaipur,Groceries,Dry Fruits 500g,4,860.72,Delivered,3
+ORD-301404,13-Sep-2026,South,,Kochi,Electronics,Smartwatch,1,5344.46,Lost,5
+ORD-301252,2026-08-25,SOUTH,Kerala,Kochi,Grocery,Dry Fruits 500g,8,801.66,Delivered,4
+ORD-301335,2026-04-06,North,Uttar Pradesh,Lucknow,Home & Kitchen,  Pressure Cooker ,1,2077.54,Returned,1
+ORD-301847,2026-09-12,West,Maharashtra,  Pune ,Home & Kitchen,Bedsheet Set,2,1107.90,In Transit,
+ORD-300896,2026-08-04,South,Telangana,Hyderabad,Electronics,Smartwatch,2,4683.89,Cancelled,
+ORD-301894,28-Aug-2026,East,West Bengal,  Kolkata ,Apparel,Winter Jacket,3,2646.20,Delivered,8
+ORD-300268,15/05/2026,North,HARYANA,Gurugram,Home & Kitchen,LED Bulb Pack,1,373.68,Shipped,
+ORD-300115,2026-09-04,Central,Maharashtra,  Nagpur ,Health & Beauty,Shampoo 400ml,2,432.64,Delivered,3
+ORD-301835,04-May-2026,E,Bihar,Patna,Apparel,Winter Jacket,2,2594.34,Delivered,6
+ORD-301926,06-Jul-2026,North,Uttar Pradesh,Lucknow,Grocery,Cooking Oil 1L,1,178.04,Lost,3
+ORD-301650,2026-09-07,South,Tamil Nadu,Chennai,Electronics,Smartwatch,1,5356.10,Completed,5
+ORD-301130,2026-08-05,North,Rajasthan,Jaipur,Grocery,Cooking Oil 1L,1,199.81,Delivered,4
+ORD-301932,22/07/2026,West,Maharashtra,Mumbai,Grocery,Dry Fruits 500g,3,841.47,delivered,3
+ORD-300242,2026-06-14,N,delhi,Delhi,Apparel,Denim Jeans,2,1426.40,PENDING,
+ORD-301954,09-Jul-2026,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,1,2467.11,Delivered,2
+ORD-300364,2026-08-25,East,Assam,Guwahati,Electronics,Smartphone,4,18278.73,Delivered,6
+ORD-301018,18-Jul-2026,Southern,Karnataka,Bengaluru,Apparel,Denim Jeans,2,1384.30,Delivered,2
+ORD-300068,2026-03-04,South,Karnataka,BANGALORE,Health & Beauty,Sunscreen,1,465.13,Delivered,1
+ORD-300007,04/09/2026,North,Chandigarh,Chandigarh,Electronics,Wireless Earbuds,4,2648.57,Delivered,2
+ORD-301705,31/08/2026,Central,Madhya Pradesh,Indore,Home & Kitchen,Pressure Cooker,1,2072.85,Delivered,1
+ORD-301053,04/03/2026,Central,Madhya Pradesh,Bhopal,Health & Beauty,Vitamin C Tablets,2,502.24,Delivered,5
+ORD-301913,21/03/2026,South,Kerala,Kochi,Home & Kitchen,LED Bulb Pack,2,406.98,completed,4
+ORD-300428,2026-02-22,Central,madhya pradesh,bhopal,Health & Beauty,Shampoo 400ml,4,434.63,Completed,4
+ORD-301284,2026-06-27,East,Bihar,patna,Electronics,Bluetooth Speaker,4,2835.95,Delivered,5
+ORD-300855,2026-08-28,East,Odisha,Bhubaneswar,  Home & Kitchen ,LED Bulb Pack,3,413.55,Pending,
+ORD-301816,2026-05-04,North,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,2,171.44,Delivered,2
+ORD-301683,2026-07-09,North,Uttar Pradesh,Lucknow,health & beauty,Shampoo 400ml,1,432.91,Delivered,2
+ORD-301435,20/06/2026,Central,Madhya Pradesh,Bhopal,Home & Kitchen,Mixer Grinder,1,3483.28,Shipped,
+ORD-301148,2026-05-05,East,  Assam ,Guwahati,Home & Kitchen,Non-Stick Pan,1,1012.45,Completed,
+ORD-301162,20-Jan-2026,North,Rajasthan,Jaipur,Apparel,Denim Jeans,1,1468.15,Completed,1
+ORD-300036,21-Feb-2026,Southern,Telangana,Hyderabad,Health & Beauty,Hair Dryer,2,1509.00,Delivered,5
+ORD-300411,2026-08-13,West,  Gujarat ,  Ahmedabad ,Grocery,Atta 10kg,2,490.45,Delivered,
+ORD-300101,2026-09-22,North,Uttar Pradesh,Lucknow,Grocery,Atta 10kg,1,467.22,Delivered,2
+ORD-301985,2026-06-06,  South ,Karnataka,Bangalore,Clothing,Denim Jeans,2,1457.34,Completed,1
+ORD-301010,28/06/2026,  North ,Haryana,Gurugram,Electronics,Smartphone,1,19403.71,Delivered,2
+ORD-301655,24-Sep-2026,West,Gujarat,Ahmedabad,electronics,Smartwatch,1,5388.46,shipped,
+ORD-300032,2026-02-14,West,Gujarat,AHMEDABAD,Apparel,RUNNING SHOES,1,2901.13,Delivered,4
+ORD-300443,2026-09-14,North,Uttar Pradesh,Lucknow,Apparel,  Kurta ,1,874.00,  Delivered ,5
+ORD-301732,01/03/2026,South,Telangana,Hyderabad,Apparel,Kurta,3,850.12,Delivered,4
+ORD-301793,2026-03-07,North,Uttar Pradesh,Lucknow,Home & Kitchen,non-stick pan,1,963.38,Delivered,3
+ORD-301497,2026-01-13,North,Uttar Pradesh,Lucknow,Apparel,Cotton T-Shirt,3,542.53,DELIVERED,3
+ORD-300384,2026-08-17,South,Karnataka,Bengaluru,GROCERY,Cooking Oil 1L,1,195.75,delivered,3
+ORD-300527,17-Apr-2026,South,  Telangana ,Hyderabad,Electronics,Wireless Earbuds,1,2298.05,Delivered,3
+ORD-300876,2026-04-24,West,Gujarat,Ahmedabad,home & kitchen,Non-Stick Pan,7,907.75,Delivered,1
+ORD-301500,2026-08-30,  South ,Kerala,Kochi,Grocery,Cooking Oil 1L,4,177.69,Delivered,2
+ORD-301920,2026-08-15,South,Telangana,Hyderabad,Apparel,Kurta,2,930.30,Delivered,4
+ORD-300774,04/07/2026,South,TELANGANA,Hyderabad,  Grocery ,Green Tea 100 Bags,4,318.08,shipped,
+ORD-300456,21/09/2026,Western,Maharashtra,Mumbai,Health & Beauty,Vitamin C Tablets,1,536.17,Pending,
+ORD-300012,26/06/2026,North,chandigarh,Chandigarh,Groceries,Cooking Oil 1L,7,192.14,Delivered,2
+ORD-301724,29/08/2026,North,Delhi,Delhi,Grocery,Dry Fruits 500g,3,733.89,Delivered,2
+ORD-301990,2026-08-25,North,Chandigarh,chandigarh,Health & Beauty,Face Wash,1,241.28,Pending,
+ORD-301051,2026-05-17,Central,Maharashtra,Nagpur,Apparel,Denim Jeans,1,1515.75,Delivered,4
+ORD-301702,2026-06-26,South,Tamil Nadu,CHENNAI,home & kitchen,Non-Stick Pan,1,984.68,Delivered,4
+ORD-300460,2026-01-28,North,Chandigarh,Chandigarh,Home & Kitchen,LED Bulb Pack,1,434.48,Cancelled,
+ORD-300358,2026-07-05,SOUTH,Karnataka,Bengaluru,  Electronics ,Wireless Earbuds,1,2387.82,Canceled,
+ORD-301598,31/05/2026,North,UTTAR PRADESH,  Lucknow ,Electronics,Smartphone,2,19742.70,Delivered,1
+ORD-301401,01/09/2026,CENTRAL,Madhya Pradesh,Indore,Electronics,Bluetooth Speaker,2,2904.50,Shipped,
+ORD-300111,06/06/2026,South,Tamil Nadu,Chennai,Apparel,Running Shoes,1,3234.89,Shipped,
+ORD-301365,2026-07-09,South,  Kerala ,Kochi,ELECTRONICS,Smartwatch,1,4938.49,Delivered,2
+ORD-301698,2026-03-02,West,Goa,Panaji,Grocery,  Green Tea 100 Bags ,1,315.58,Pending,
+ORD-300648,2026-03-16,South,Karnataka,Bengaluru,ELECTRONICS,Smartphone,3,17760.39,delivered,3
+ORD-300637,2026-04-29,West,maharashtra,Mumbai,Grocery,Dry Fruits 500g,3,820.69,Delivered,1
+ORD-300027,2026-04-07,West,Goa,Panaji,Grocery,Basmati Rice 5kg,3,654.24,Delivered,2
+ORD-301670,2026-07-07,West,Goa,PANAJI,Apparel,Denim Jeans,3,1483.88,DELIVERED,1
+ORD-300733,2026-05-16,South,Kerala,Kochi,Electronics,Smartphone,1,17362.46,Returned,3
+ORD-301028,2026-04-21,East,ASSAM,Guwahati,Apparel,  Denim Jeans ,1,1614.09,Delivered,4
+ORD-300104,2026-09-21,Central,,Bhopal,Electronics,POWER BANK,1,1293.07,Shipped,
+ORD-300835,07-Jun-2026,North,rajasthan,Jaipur,Apparel,Running Shoes,1,2706.64,Delivered,3
+ORD-300750,2026-03-27,North,Uttar Pradesh,Lucknow,Grocery,Cooking Oil 1L,1,183.90,Delivered,3
+ORD-300436,2026-04-30,South,Telangana,Hyderabad,Home & Kitchen,  Non-Stick Pan ,2,963.64,Delivered,4
+ORD-300657,2026-03-18,West,Gujarat,Ahmedabad,Apparel,Denim Jeans,-3,1607.79,  Delivered ,1
+ORD-301610,26/09/2026,East,Assam,Guwahati,electronics,Smartphone,1,18852.07,Delivered,5
+ORD-300442,12/09/2026,SOUTH,Telangana,HYDERABAD,APPAREL,Kurta,2,811.75,Shipped,
+ORD-301498,2026-04-02,East,bihar,Patna,Home & Kitchen,Non-Stick Pan,2,1009.06,delivered,4
+ORD-300492,2026-07-04,east,West Bengal,kolkata,Health & Beauty,Sunscreen,1,488.51,Delivered,4
+ORD-300602,18/09/2026,North,Uttar Pradesh,Lucknow,Home & Kitchen,Non-Stick Pan,1,943.45,Delivered,3
+ORD-300752,06/04/2026,South,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,3,780.98,Delivered,3
+ORD-301310,23/01/2026,South,Kerala,Kochi,Health & Beauty,Hair Dryer,5,1520.37,Delivered,1
+ORD-300472,07/06/2026,Central,Madhya Pradesh,Indore,Apparel,Winter Jacket,2,2286.58,Delivered,3
+ORD-300097,2026-09-29,North,Uttar Pradesh,Lucknow,  Electronics ,Smartphone,1,19278.21,Shipped,
+ORD-300449,2026-01-18,South,Kerala,Kochi,Grocery,Cooking Oil 1L,5,193.71,Delivered,1
+ORD-301296,24/07/2026,South,Karnataka,Bengaluru,Home & Kitchen,Bedsheet Set,3,1246.61,Completed,3
+ORD-300208,02-Jun-2026,North,Haryana,  Gurugram ,Electronics,Bluetooth Speaker,1,2721.60,Shipped,
+ORD-300080,13/07/2026,central,,Bhopal,Grocery,Basmati Rice 5kg,1,666.83,Delivered,5
+ORD-300475,2026-01-29,South,Telangana,  Hyderabad ,Apparel,kurta,2,983.56,Delivered,1
+ORD-301022,2026-04-09,North,Haryana,Gurugram,Home & Kitchen,Non-Stick Pan,3,1090.29,returned,4
+ORD-301922,2026-06-17,Central,madhya pradesh,Indore,health and beauty,Shampoo 400ml,2,422.95,Delivered,4
+ORD-301483,13/08/2026,South,Karnataka,Bengaluru,  Electronics ,Smartphone,1,17582.44,  Delivered ,1
+ORD-301939,2026-06-19,East,Bihar,  Patna ,Electronics,Smartwatch,2,4969.21,Delivered,2
+ORD-300535,2026-04-20,North,Delhi,Delhi,Apparel,Denim Jeans,1,1545.69,Returned,3
+ORD-301742,15-Sep-2026,South,  Tamil Nadu ,Chennai,  Electronics ,Wireless Earbuds,2,2252.37,Delivered,2
+ORD-301224,2026-06-06,South,telangana,Hyderabad,Grocery,Cooking Oil 1L,4,175.91,DELIVERED,1
+ORD-301300,07/06/2026,WEST,,Panaji,  Grocery ,Dry Fruits 500g,4,739.12,Delivered,2
+ORD-300100,2026-04-15,  West ,Goa,Panaji,Health & Beauty,Shampoo 400ml,3,392.80,Delivered,1
+ORD-301903,06/06/2026,  North ,Rajasthan,Jaipur,Grocery,Green Tea 100 Bags,5,371.05,DELIVERED,4
+ORD-300829,24/03/2026,West,Maharashtra,Mumbai,electronics,Wireless Earbuds,1,2748.04,Shipped,
+ORD-300886,2026-01-05,western,  Maharashtra ,PUNE,Home & Kitchen,  Pressure Cooker ,1,2006.66,pending,
+ORD-301398,2026-02-20,South,Tamil Nadu,  Madras ,Health & Beauty,Shampoo 400ml,1,385.56,Delivered,3
+ORD-301581,15/03/2026,SOUTH,Karnataka,Bengaluru,Electronics,Smartwatch,1,5215.13,Delivered,2
+12345,2026-04-10,West,Gujarat,Ahmedabad,groceries,Cooking Oil 1L,1,189.61,  Delivered ,3
+ORD-301709,02/09/2026,North,Uttar Pradesh,LUCKNOW,Electronics,Smartphone,1,20577.11,SHIPPED,
+ORD-300895,2026-06-16,EAST,west bengal,Kolkata,Apparel,Running Shoes,1,2893.18,delivered,3
+ORD-300088,2026-06-14,Central,Madhya Pradesh,Indore,Grocery,Green Tea 100 Bags,4,352.72,  Pending ,
+ORD-301955,2026-01-14,west,  Maharashtra ,Mumbai,Grocery,Dry Fruits 500g,1,724.51,Pending,
+ORD-301083,2026-08-10,Central,Madhya Pradesh,Indore,Electronics,smartphone,3,17153.50,Delivered,3
+ORD-301191,2026-07-14,North,Chandigarh,Chandigarh,  Grocery ,Green Tea 100 Bags,5,373.08,Completed,2
+ORD-301988,2026-09-07,West,Maharashtra,Mumbai,Electronics,Smartphone,3,19984.03,Delivered,2
+ORD-300579,2026-04-23,South,Kerala,  Kochi ,Health & Beauty,Shampoo 400ml,1,429.04,Shipped,
+ORD-301452,15-Feb-2026,NORTH,Rajasthan,Jaipur,Electronics,Smartphone,1,17226.07,Shipped,
+ORD-301105,2026-07-26,North,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,1,1784.43,delivered,2
+ORD-300138,18/04/2026,North,,Jaipur,Health & Beauty,Hair Dryer,1,1589.91,Delivered,1
+ORD-300313,2026-06-29,west,Gujarat,Ahmedabad,APPAREL,Kurta,1,838.41,Delivered,2
+ORD-301309,2026-09-12,South,Tamil Nadu,Chennai,Grocery,Basmati Rice 5kg,2,652.04,pending,
+ORD-301426,31/02/2026,North,rajasthan,Jaipur,Home & Kitchen,Bedsheet Set,2,1298.71,Delivered,2
+ORD-300534,08/05/2026,North,RAJASTHAN,Jaipur,Grocery,COOKING OIL 1L,3,207.03,Delivered,2
+ORD-301891,2026-02-04,South,Kerala,Kochi,HOME & KITCHEN,LED Bulb Pack,1,434.51,Delivered,3
+ORD-301481,31-Mar-2026,South,KARNATAKA,Bangalore,Home & Kitchen,Mixer Grinder,1,3589.31,pending,
+ORD-300304,2026-08-05,East,,Kolkata,  Home & Kitchen ,Bedsheet Set,1,1079.38,Returned,7
+ORD-300727,23/07/2026,North,,DELHI,Grocery,Dry Fruits 500g,5,820.46,Shipped,
+ORD-301667,26/07/2026,West,  Goa ,Panaji,Home & Kitchen,LED Bulb Pack,1,361.39,Delivered,4
+ORD-300123,2026-06-08,West,Gujarat,  Ahmedabad ,Groceries,Green Tea 100 Bags,1,377.38,Delivered,2
+ORD-301818,2026-07-11,North,delhi,Delhi,Apparel,Running Shoes,1,2835.66,Delivered,2
+ORD-301905,2026-06-05,West,Gujarat,Ahmedabad,  Electronics ,Wireless Earbuds,1,2568.63,Delivered,3
+ORD-300928,2026-04-30,South,Telangana,Hyderabad,Health & Beauty,Vitamin C Tablets,1,547.02,Delivered,5
+,2026-01-11,North,Delhi,Delhi,Home & Kitchen,Pressure Cooker,4,1832.39,Returned,2
+ORD-300728,2026-08-05,West,  Gujarat ,Ahmedabad,  Apparel ,Cotton T-Shirt,3,518.06,Delivered,1
+ORD-300161,2026-05-08,Central,Madhya Pradesh,Bhopal,Grocery,Atta 10kg,4,469.80,DELIVERED,
+ORD-301193,03/09/2026,West,Gujarat,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1318.01,Delivered,3
+ORD-301247,2026-07-14,Central,Maharashtra,Nagpur,Electronics,Smartwatch,3,5218.81,Completed,3
+ORD-301056,2026-05-29,West,Maharashtra,  Mumbai ,Grocery,Cooking Oil 1L,3,180.73,Returned,1
+ORD-301269,2026-08-01,Central,Maharashtra,nagpur,Home & Kitchen,Pressure Cooker,2,1926.50,Delivered,5
+ORD-301226,2026-02-20,West,Maharashtra,Mumbai,Apparel,denim jeans,4,1400.81,DELIVERED,2
+ORD-301428,24-Aug-2026,EAST,West Bengal,Kolkata,Apparel,Kurta,1,868.37,Delivered,7
+ORD-300241,2026-05-19,Southern,Telangana,Hyderabad,Electronics,Wireless Earbuds,1,2646.77,DELIVERED,1
+ORD-300676,2026-09-05,North,Delhi,Delhi,Electronics,Smartwatch,1,5251.65,Delivered,3
+ORD-300912,25/04/2026,Central,,Nagpur,HOME & KITCHEN,pressure cooker,2,1954.22,Delivered,4
+ORD-301876,16/06/2026,West,Goa,Panaji,Clothing,  Running Shoes ,2,2841.14,Delivered,3
+ORD-301503,20/04/2026,  North ,Chandigarh,Chandigarh,Apparel,Winter Jacket,4,2322.63,Delivered,4
+ORD-300147,2026-03-29,North,Haryana,Gurugram,Electronics,Bluetooth Speaker,2,3215.96,Delivered,2
+ORD-300516,2026-02-25,N,Delhi,Delhi,Electronics,Wireless Earbuds,4,2411.05,Delivered,5
+ORD-300732,10/07/2026,North,Haryana,Gurugram,Grocery,Green Tea 100 Bags,5,383.73,Delivered,2
+ORD-301095,2026-07-06,South,Kerala,Kochi,Apparel,Kurta,1,929.91,Delivered,3
+ORD-300447,2026-07-23,West,Maharashtra,Pune,Apparel,Cotton T-Shirt,1,493.39,Delivered,1
+ORD-301734,2026-09-09,North,Delhi,Delhi,Electronics,Smartwatch,1,5128.80,Delivered,3
+ORD-301949,2026-08-03,east,Bihar,Patna,Home & Kitchen,LED Bulb Pack,1,407.45,Returned,5
+ORD-300512,21-Mar-2026,West,,Mumbai,Apparel,Winter Jacket,3,2281.25,Delivered,2
+ORD-300276,2026-04-21,East,West Bengal,Kolkata,Grocery,Green Tea 100 Bags,3,371.29,DELIVERED,2
+ORD-301456,2026-05-10,North,  Chandigarh ,Chandigarh,Apparel,denim jeans,1,1627.99,Pending,
+ORD-301989,2026-06-18,East,assam,Guwahati,Grocery,ATTA 10KG,2,489.22,Delivered,3
+ORD-300481,2026-09-08,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,2773.15,Delivered,1
+ORD-301885,23/09/2026,EAST,Assam,Guwahati,Electronics,bluetooth speaker,3,2776.42,delivered,6
+ORD-301093,2026-09-01,north,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,3,3051.44,  Delivered ,2
+ORD-300154,20-Jul-2026,East,Odisha,Bhubaneswar,Grocery,Basmati Rice 5kg,4,644.17,Delivered,4
+ORD-301647,2026-07-31,North,Delhi,New Delhi,Grocery,Cooking Oil 1L,3,201.10,Delivered,2
+ORD-301507,2026-03-16,South,Karnataka,BENGALURU,Apparel,Winter Jacket,3,2644.18,Delivered,4
+ORD-300452,2026-03-12,East,Bihar,Patna,Grocery,Basmati Rice 5kg,3,603.32,Delivered,3
+ORD-301901,2026-06-11,South,Tamil Nadu,Chennai,Electronics,  Smartwatch ,5,5346.68,Delivered,2
+ORD-300106,2026-04-12,  West ,,Ahmedabad,Electronics,Smartphone,1,17687.11,Shipped,
+ORD-301943,21/07/2026,South,telangana,Hyderabad,Apparel,Running Shoes,1,3017.45,Completed,4
+ORD-300947,2026-08-25,Central,MADHYA PRADESH,Bhopal,Electronics,Bluetooth Speaker,1,3280.62,shipped,
+ORD-301298,14-Feb-2026,West,  Gujarat ,Ahmedabad,Electronics,Power Bank,3,1347.52,  Shipped ,
+ORD-301998,01-Aug-2026,West,Maharashtra,Mumbai,Home & Kitchen,Bedsheet Set,1,1309.39,Delivered,3
+ORD-300427,2026-05-29,North,haryana,,Grocery,Dry Fruits 500g,3,789.99,Cancelled,
+ORD-300700,20/05/2026,South,Kerala,Kochi,Electronics,Smartphone,2,17478.85,Pending,
+ORD-300913,2026-05-31,North,Chandigarh,Chandigarh,Clothing,Running Shoes,3,3282.38,SHIPPED,
+ORD-301187,2026-05-05,South,  Tamil Nadu ,Chennai,Health & Beauty,Vitamin C Tablets,3,569.75,Pending,
+ORD-301240,21/07/2026,Central,Chhattisgarh,Raipur,Apparel,Running Shoes,1,3242.06,Delivered,6
+ORD-300102,2026-03-13,South,Tamil Nadu,Chennai,apparel,Denim Jeans,2,1548.31,Shipped,
+ORD-301399,11/03/2026,North,,Jaipur,home & kitchen,Bedsheet Set,1,1231.77,Delivered,2
+ORD-300522,2026-03-27,North,Delhi,Delhi,APPAREL,Kurta,3,829.44,Delivered,2
+ORD-301618,2026-02-15,N,Haryana,Gurugram,Grocery,Cooking Oil 1L,3,196.15,SHIPPED,
+ORD-300891,2026-03-31,South,Telangana,Hyderabad,Clothing,Winter Jacket,2,2447.41,Completed,3
+ORD-301588,2026-05-26,South,,Hyderabad,Grocery,Green Tea 100 Bags,1,373.08,Delivered,3
+ORD-300142,2026-06-12,North,Uttar Pradesh,Lucknow,Apparel,Running Shoes,1,3093.99,Delivered,3
+ORD-301878,2026-09-04,WEST,Goa,Panaji,Groceries,Basmati Rice 5kg,3,657.49,Completed,3
+ORD-301228,2026-05-14,South,,Hyderabad,Apparel,denim jeans,5,1420.37,DELIVERED,1
+ORD-300392,2026-04-08,N,Chandigarh,Chandigarh,Home & Kitchen,Mixer Grinder,2,3666.31,Cancelled,
+ORD-301132,2026-07-27,West,Goa,Panaji,Apparel,Kurta,1,924.98,Delivered,3
+ORD-301644,02/09/2026,EAST,West Bengal,Kolkata,Electronics,Bluetooth Speaker,2,3242.51,Pending,
+ORD-300632,2026-09-07,Central,Madhya Pradesh,indore,Health & Beauty,Hair Dryer,3,1650.27,Shipped,
+ORD-301762,2026-02-04,West,Goa,PANAJI,Health & Beauty,Shampoo 400ml,2,429.01,Delivered,3
+ORD-300682,20/09/2026,North,Chandigarh,Chandigarh,Electronics,Wireless Earbuds,2,2710.24,Shipped,
+ORD-300430,2026-04-14,SOUTH,Kerala,Kochi,  Groceries ,Green Tea 100 Bags,1,345.18,Delivered,2
+ORD-301774,24-May-2026,North,Rajasthan,Jaipur,Grocery,Basmati Rice 5kg,5,587.67,Delivered,3
+ORD-300185,2026-03-01,South,Karnataka,Bengaluru,Electronics,Smartphone,1,19756.07,SHIPPED,
+ORD-300862,2026-06-26,North,Uttar Pradesh,Lucknow,Grocery,Basmati Rice 5kg,2,661.37,Delivered,3
+ORD-300387,2026-04-27,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,1,2940.77,Cancelled,
+ORD-300515,2026-05-14,WEST,Maharashtra,mumbai,Grocery,Atta 10kg,4,477.77,Delivered,2
+ORD-300421,01-Sep-2026,South,Kerala,Kochi,Grocery,atta 10kg,1,459.01,Delivered,4
+ORD-301203,05/08/2026,East,Assam,guwahati,Grocery,Dry Fruits 500g,4,763.30,Delivered,7
+ORD-301086,2026-07-16,Central,Maharashtra,Nagpur,  Grocery ,Dry Fruits 500g,5,836.81,  Delivered ,3
+ORD-301279,11-Jul-2026,South,Tamil Nadu,Chennai,Apparel,Running Shoes,4,3055.28,Delivered,
+ORD-300246,2026-06-28,  South ,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,6,708.24,Delivered,3
+ORD-301360,06-Jul-2026,North,Delhi,Delhi,Grocery,Cooking Oil 1L,3,203.75,Delivered,5
+ORD-301866,08/03/2026,North,Chandigarh,  Chandigarh ,GROCERY,Basmati Rice 5kg,4,697.61,Delivered,3
+ORD-300777,10-Jul-2026,North,Haryana,Gurugram,home & kitchen,Pressure Cooker,2,1967.06,Delivered,3
+ORD-300413,2026-07-12,north,Haryana,Gurugram,Grocery,BASMATI RICE 5KG,3,611.88,Returned,3
+ORD-301143,2026-09-15,West,maharashtra,Mumbai,Toys,bluetooth speaker,1,3103.74,returned,5
+ORD-301927,2026-06-26,North,Delhi,DELHI,Clothing,Winter Jacket,3,2267.75,in transit,
+ORD-300135,2026-07-04,east,Assam,Guwahati,Home & Kitchen,Pressure Cooker,1,1762.38,Delivered,4
+ORD-300655,08-Aug-2026,Central,Madhya Pradesh,Indore,Apparel,Kurta,2,858.50,Delivered,6
+ORD-300008,2026-05-30,South,,Chennai,  Home & Kitchen ,LED Bulb Pack,2,367.74,Delivered,3
+ORD-301888,2026-05-29,East,West Bengal,Kolkata,Health and Beauty,Shampoo 400ml,2,408.95,delivered,5
+ORD-301815,2026-03-08,  West ,Gujarat,  Ahmedabad ,Apparel,Denim Jeans,1,1569.31,Pending,
+ORD-301858,2026-01-19,West,Gujarat,Ahmedabad,  Health & Beauty ,Shampoo 400ml,1,412.05,Delivered,4
+ORD-300495,28/01/2026,North,Delhi,Delhi,Apparel,Running Shoes,1,3149.87,Delivered,3
+ORD-300409,2026-02-23,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,5,379.31,Cancelled,
+ORD-301285,19/06/2026,West,Gujarat,ahmedabad,GROCERY,Dry Fruits 500g,2,753.26,  Returned ,2
+ORD-301276,2026-07-08,Central,  Madhya Pradesh ,Indore,Health & Beauty,Hair Dryer,1,1556.67,Shipped,
+ORD-300843,2026-08-14,  North ,Rajasthan,Jaipur,Health & Beauty,  Sunscreen ,4,427.35,Cancelled,
+ORD-300052,2026-04-04,North,Delhi,Delhi,Grocery,Dry Fruits 500g,4,852.10,Delivered,3
+ORD-301584,2026-05-16,South,Karnataka,bengaluru,Grocery,Green Tea 100 Bags,1,327.00,Delivered,
+ORD-301071,2026-04-16,West,Maharashtra,Mumbai,Home & Kitchen,Mixer Grinder,1,3236.71,Delivered,1
+ORD-301918,2026-08-15,Central,Maharashtra,Nagpur,Electronics,Smartwatch,1,5455.90,Delivered,2
+ORD-300474,24/08/2026,North,Haryana,Gurugram,Apparel,Running Shoes,1,3122.00,Delivered,3
+ORD-301412,2026-06-03,North,Delhi,Delhi,Groceries,atta 10kg,3,488.16,Delivered,3
+ORD-301400,2026-09-06,east,BIHAR,Patna,Home & Kitchen,Non-Stick Pan,3,1087.42,Delivered,5
+ORD-301444,2026-03-12,East,West Bengal,Kolkata,Grocery,Atta 10kg,4,544.81,Delivered,2
+ORD-300001,2026-03-01,North,Rajasthan,Jaipur,Health & Beauty,vitamin c tablets,1,524.53,Pending,
+ORD-301839,2026-06-26,CENTRAL,Madhya Pradesh,Bhopal,Grocery,Green Tea 100 Bags,7,346.24,Delivered,2
+ORD-300599,2026-08-02,Central,Madhya Pradesh,Bhopal,Groceries,Basmati Rice 5kg,1,669.22,  Delivered ,2
+ORD-300874,2026-06-19,South,Kerala,Kochi,Electronics,Bluetooth Speaker,3,2727.57,Delivered,4
+ORD-300811,2026-06-19,North,Delhi,  Delhi ,Health and Beauty,Vitamin C Tablets,1,512.43,Delivered,6
+ORD-300558,2026-02-11,WEST,,Ahmedabad,Grocery,Atta 10kg,1,542.91,Completed,1
+ORD-301027,yesterday,West,Maharashtra,Mumbai,Apparel,denim jeans,1,1637.73,Delivered,4
+ORD-300962,2026-05-20,Southern,Kerala,Kochi,Groceries,Dry Fruits 500g,6,770.85,Shipped,
+ORD-301886,2026-01-29,East,Odisha,  Bhubaneswar ,Electronics,BLUETOOTH SPEAKER,1,2871.85,Completed,4
+ORD-300273,29-Jul-2026,North,  Delhi ,Delhi,Apparel,Kurta,2,891.37,Delivered,3
+ORD-300094,2026-03-24,west,Gujarat,AHMEDABAD,Grocery,Green Tea 100 Bags,7,319.91,Delivered,1
+ORD-301229,29-May-2026,north,UTTAR PRADESH,lucknow,Grocery,Green Tea 100 Bags,3,382.78,delivered,3
+ORD-301383,12/08/2026,South,Telangana,Hyderabad,Apparel,Winter Jacket,3,2551.17,delivered,2
+ORD-301464,2026-04-13,West,Goa,Panaji,Apparel,Winter Jacket,1,2444.51,shipped,
+ORD-300822,2026-04-13,North,Chandigarh,Chandigarh,Apparel,Running Shoes,4,3028.80,Shipped,
+ORD-301806,2026-08-30,West,Maharashtra,Pune,HEALTH & BEAUTY,  Vitamin C Tablets ,1,572.71,Delivered,2
+ORD-301884,2026-06-21,Central,maharashtra,Nagpur,Apparel,Running Shoes,3,2972.05,Delivered,4
+ORD-301322,2026-03-20,Central,Madhya Pradesh,indore,Electronics,bluetooth speaker,2,2902.38,Delivered,5
+ORD-300425,2026-08-18,North,RAJASTHAN,Jaipur,Electronics,  Wireless Earbuds ,1,2298.61,Delivered,2
+ORD-301174,2027-03-15,West,Gujarat,Ahmedabad,Electronics,Smartphone,2,18998.23,Shipped,
+ORD-301429,2026-08-22,South,Kerala,Kochi,Grocery,Green Tea 100 Bags,7,338.58,Returned,1
+ORD-301837,2026-06-06,South,Tamil Nadu,Chennai,Apparel,Cotton T-Shirt,2,497.38,Delivered,1
+ORD-301403,2026-04-09,West,Gujarat,Ahmedabad,Home & Kitchen,bedsheet set,2,1227.99,Delivered,4
+ORD-300709,2026-01-04,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,2,2756.51,Delivered,4
+ORD-301212,2026-02-28,  West ,maharashtra,Pune,Grocery,Basmati Rice 5kg,3,673.25,shipped,
+ORD-301085,2026-09-21,West,Maharashtra,Pune,Electronics,Power Bank,1,1254.37,Delivered,4
+ORD-301612,2026-09-07,West,Maharashtra,pune,Toys,Hair Dryer,1,1489.26,Shipped,
+ORD-300256,2026-09-10,  East ,West Bengal,Kolkata,  Electronics ,  Wireless Earbuds ,1,2375.15,Delivered,
+ORD-301721,17/06/2026,North,Rajasthan,Jaipur,Electronics,Power Bank,1,1340.35,  Delivered ,4
+ORD-300781,2026-09-06,West,Goa,Panaji,Grocery,Basmati Rice 5kg,2,699.39,Delivered,
+ORD-300065,2026-09-12,West,Maharashtra,  Mumbai ,Electronics,Power Bank,2,1308.35,  Delivered ,1
+ORD-300651,15/05/2026,Central,Madhya Pradesh,Indore,Electronics,Smartphone,2,17854.66,Delivered,1
+ORD-301661,07/07/2026,  North ,Rajasthan,Jaipur,Electronics,Power Bank,-3,1280.50,Delivered,2
+ORD-300873,2026-07-18,North,Delhi,Delhi,Apparel,Kurta,4,921.54,Delivered,4
+ORD-300151,2026-04-02,Central,Madhya Pradesh,INDORE,Health & Beauty,Sunscreen,2,412.34,Delivered,2
+ORD-301545,27/05/2026,North,Haryana,Gurugram,ELECTRONICS,Smartwatch,1,5496.49,Delivered,2
+ORD-300338,2026-08-18,East,Odisha,Bhubaneswar,Electronics,power bank,1,1211.93,In Transit,
+ORD-300792,2026-08-30,  Central ,Chhattisgarh,Raipur,grocery,Cooking Oil 1L,1,181.42,Cancelled,
+ORD-301725,2026-06-22,west,Gujarat,  Ahmedabad ,HOME & KITCHEN,Non-Stick Pan,1,1008.90,Delivered,3
+ORD-301380,12-Apr-2026,Central,Maharashtra,Nagpur,Electronics,power bank,2,1308.16,Delivered,6
+ORD-301146,19-Aug-2026,east,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,2,2310.18,  Delivered ,5
+ORD-300961,2026-07-05,Central,Madhya Pradesh,Bhopal,Electronics,Wireless Earbuds,3,2275.00,Returned,5
+ORD-301135,17/06/2026,Central,Chhattisgarh,Raipur,  Electronics ,  Power Bank ,1,1378.36,Delivered,3
+ORD-301205,2026-01-07,South,Karnataka,Bengaluru,Health & Beauty,Sunscreen,1,433.20,Returned,2
+ORD-300683,12-Jul-2026,N,Delhi,Delhi,Health & Beauty,Face Wash,2,235.63,shipped,
+ORD-300719,28-May-2026,South,tamil nadu,Chennai,  Grocery ,  Basmati Rice 5kg ,3,710.08,Delivered,3
+ORD-301329,2026-09-28,East,Assam,Guwahati,Electronics,Bluetooth Speaker,1,3103.27,Pending,
+ORD-301813,2026-04-22,North,Chandigarh,Chandigarh,Grocery,  Atta 10kg ,3,541.57,Delivered,1
+ORD-300755,2026-08-05,Western,Gujarat,Ahmedabad,Apparel,Cotton T-Shirt,1,526.80,Delivered,2
+ORD-301929,2026-08-31,CENTRAL,Madhya Pradesh,Bhopal,Grocery,Basmati Rice 5kg,1,637.49,Delivered,5
+ORD-300593,2026-03-05,South,Kerala,Kochi,Grocery,Basmati Rice 5kg,4,642.67,  Delivered ,3
+ORD-300971,2026-06-04,East,West Bengal,Kolkata,home & kitchen,Bedsheet Set,1,1140.24,Delivered,4
+ORD-300118,2026-07-12,West,Maharashtra,Mumbai,Grocery,Atta 10kg,4,513.08,Delivered,4
+ORD-300907,13-Mar-2026,N,Rajasthan,Jaipur,Grocery,Basmati Rice 5kg,1,594.29,Pending,
+ORD-300453,31/03/2026,West,Maharashtra,Pune,Grocery,Dry Fruits 500g,3,801.24,Cancelled,
+ORD-300245,2026-06-11,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,2,472.32,Cancelled,
+ORD-301089,2026-05-04,South,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,4,700.01,Delivered,1
+ORD-300453,31/03/2026,West,Maharashtra,Pune,Grocery,Dry Fruits 500g,3,801.24,Cancelled,
+ORD-301338,20/08/2026,North,Rajasthan,Jaipur,Grocery,Basmati Rice 5kg,1,615.46,Shipped,
+ORD-301731,06-Aug-2026,West,Gujarat,Ahmedabad,Apparel,Kurta,3,883.11,shipped,
+ORD-301897,2026-06-29,West,Maharashtra,Pune,Electronics,bluetooth speaker,1,2740.25,  Completed ,1
+ORD-301237,02/04/2026,West,Maharashtra,Mumbai,Electronics,Power Bank,1,1251.26,Completed,2
+ORD-301475,2026-05-26,South,Kerala,KOCHI,Apparel,Denim Jeans,1,1425.63,Delivered,1
+ORD-300119,31/02/2026,WESTERN,Gujarat,AHMEDABAD,Groceries,Dry Fruits 500g,4,873.30,Pending,
+ORD-300739,12/06/2026,North,DELHI,Delhi,Groceries,Green Tea 100 Bags,1,342.04,Delivered,3
+ORD-301378,2026-08-26,north,Rajasthan,Jaipur,Health and Beauty,VITAMIN C TABLETS,1,583.61,Cancelled,
+ORD-301268,2026-06-27,Western,Gujarat,Ahmedabad,Grocery,Dry Fruits 500g,3,799.47,Delivered,4
+ORD-300749,2026-05-03,South,Karnataka,Bengaluru,apparel,Cotton T-Shirt,2,519.59,Delivered,2
+ORD-300856,2026-08-01,West,Gujarat,Ahmedabad,Home & Kitchen,LED Bulb Pack,1,363.46,Delivered,4
+ORD-300797,2026-03-16,South,Karnataka,bangalore,Electronics,Wireless Earbuds,2,2722.86,Delivered,5
+ORD-301908,2026-04-29,north,  Uttar Pradesh ,Lucknow,Home & Kitchen,LED Bulb Pack,1,432.13,Delivered,5
+ORD-300645,2026-07-18,West,Goa,Panaji,Electronics,Wireless Earbuds,1,2483.01,Delivered,5
+ORD-301048,2026-08-17,South,Tamil Nadu,Chennai,Health & Beauty,Sunscreen,2,436.56,Cancelled,
+ORD-301283,04/08/2026,west,MAHARASHTRA,Pune,Health & Beauty,Hair Dryer,1,1717.12,Delivered,2
+ORD-300238,2026-06-08,West,Gujarat,Ahmedabad,Apparel,Winter Jacket,1,2438.17,pending,
+ORD-301020,2026-06-24,south,,Kochi,Home & Kitchen,Mixer Grinder,1,3662.24,Delivered,4
+ORD-300216,05-Aug-2026,Central,Madhya Pradesh,Indore,  Home & Kitchen ,Pressure Cooker,1,1902.51,Delivered,2
+ORD-301645,2026-04-09,Southern,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,6,808.86,Delivered,3
+ORD-300003,27-Feb-2026,North,Rajasthan,jaipur,GROCERY,Basmati Rice 5kg,4,622.13,Delivered,1
+ORD-301202,2026-05-23,East,,Bhubaneswar,Health & Beauty,Vitamin C Tablets,1,522.68,Returned,4
+ORD-301066,2026-05-07,North,Rajasthan,Jaipur,Apparel,Winter Jacket,2,2301.25,Pending,
+ORD-300938,2026-06-21,West,  Gujarat ,Ahmedabad,Grocery,Cooking Oil 1L,3,193.23,Shipped,
+ORD-301209,2026-07-18,North,Rajasthan,Jaipur,  Electronics ,Power Bank,1,1248.11,Completed,1
+ORD-300464,2026-01-23,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,2,3028.33,Cancelled,
+ORD-300626,26/08/2026,South,Telangana,,Health & Beauty,Face Wash,1,239.99,Delivered,2
+ORD-301012,2026-08-23,South,Telangana,Hyderabad,Electronics,SMARTPHONE,5,20328.89,Returned,2
+ORD-301919,2026-01-30,East,West Bengal,Kolkata,Grocery,Basmati Rice 5kg,2,679.25,canceled,
+ORD-300076,2026-03-12,North,  Rajasthan ,Jaipur,Home & Kitchen,Bedsheet Set,1,1290.52,Delivered,3
+ORD-300745,2026-06-30,South,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,8,702.75,Delivered,4
+ORD-301168,2026-04-04,Southern,Kerala,  Kochi ,  Apparel ,Running Shoes,1,2857.48,Delivered,3
+ORD-300669,2026-07-25,West,  Goa ,Panaji,Grocery,Basmati Rice 5kg,2,591.07,  Delivered ,2
+ORD-300935,16/03/2026,NORTH,,Gurgaon,Grocery,Basmati Rice 5kg,5,642.00,Shipped,
+ORD-300927,2026-07-05,Central,Madhya Pradesh,Indore,  Health & Beauty ,Shampoo 400ml,2,361.47,Shipped,
+ORD-300977,06/02/2026,South,,Hyderabad,Health & Beauty,Face Wash,2,270.21,Delivered,5
+ORD-300347,2026-09-06,Central,  Chhattisgarh ,raipur,GROCERY,Atta 10kg,2,467.95,Shipped,
+ORD-300929,2026-08-12,SOUTHERN,karnataka,  Bengaluru ,Electronics,Power Bank,5,1196.08,Delivered,1
+ORD-300045,2026-06-26,N,Delhi,Delhi,Grocery,Dry Fruits 500g,2,722.14,Delivered,1
+ORD-300180,17/04/2026,North,Chandigarh,  Chandigarh ,Clothing,running shoes,1,2928.26,Delivered,1
+ORD-301563,2026-02-15,WEST,Gujarat,AHMEDABAD,Grocery,ATTA 10KG,8,488.23,Delivered,2
+ORD-301706,2026-03-21,North,Haryana,Gurugram,Apparel,winter jacket,1,2395.47,Delivered,1
+ORD-300756,2026-06-19,East,West Bengal,kolkata,Electronics,Power Bank,1,1304.94,Delivered,3
+ORD-300975,2026-06-02,South,Tamil Nadu,Chennai,Groceries,Basmati Rice 5kg,1,665.77,Delivered,3
+ORD-300270,2026-09-19,South,Telangana,Hyderabad,Electronics,Smartwatch,3,5009.58,returned,2
+ORD-300542,2026-02-09,Central,Maharashtra,Nagpur,Home & Kitchen,  Bedsheet Set ,3,1085.54,Delivered,2
+ORD-301180,15/01/2026,South,  Telangana ,Hyderabad,Grocery,Atta 10kg,4,495.84,Delivered,3
+ORD-300193,2026-01-21,West,Maharashtra,Pune,HEALTH & BEAUTY,Hair Dryer,1,1455.45,Delivered,5
+ORD-300694,2026-08-12,South,Tamil Nadu,Chennai,Apparel,Kurta,2,845.60,Cancelled,
+ORD-301887,2026-09-07,Southern,Tamil Nadu,Chennai,Home & Kitchen,Pressure Cooker,1,1905.30,Returned,2
+ORD-300002,2026-05-04,north,Delhi,Delhi,Grocery,  Dry Fruits 500g ,1,792.56,Delivered,4
+ORD-300341,06/09/2026,North,RAJASTHAN,Jaipur,Electronics,Smartwatch,1,5068.49,Pending,
+ORD-300924,2026-02-20,North,Chandigarh,Chandigarh,Home & Kitchen,Pressure Cooker,1,1738.33,Returned,2
+ORD-301986,2026-06-27,Central,Chhattisgarh,RAIPUR,Electronics,power bank,1,1293.56,Delivered,4
+ORD-301059,2026-06-22,South,Telangana,Hyderabad,Electronics,Smartphone,1,18970.35,Delivered,3
+ORD-300953,21-Jan-2026,N,Rajasthan,Jaipur,Electronics,Power Bank,2,1346.61,Completed,3
+ORD-300144,2026-05-15,N,Delhi,Delhi,health & beauty,Shampoo 400ml,1,425.26,Delivered,2
+ORD-300349,2026-08-26,West,Goa,Panaji,Electronics,Bluetooth Speaker,1,3057.57,Shipped,
+ORD-300832,2026-02-14,North,Rajasthan,Jaipur,  Grocery ,Dry Fruits 500g,4,N/A,Completed,4
+ORD-300869,10/06/2026,West,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,4,2572.65,Delivered,1
+ORD-301003,2026-04-10,North,  Haryana ,Gurugram,Home & Kitchen,Bedsheet Set,1,1133.52,Delivered,4
+ORD-300659,13-Sep-2026,Central,maharashtra,NAGPUR,Electronics,Smartwatch,8,4900.14,Delivered,4
+ORD-301332,2026-08-24,  East ,West Bengal,kolkata,Electronics,Smartphone,2,18379.97,DELIVERED,7
+ORD-301072,03/09/2026,South,Karnataka,Bengaluru,Electronics,Smartphone,1,18939.75,Delivered,5
+ORD-300963,23-Mar-2026,West,Maharashtra,Mumbai,Electronics,Power Bank,5,1413.95,Delivered,3
+ORD-301290,2026-05-24,West,MAHARASHTRA,Mumbai,Health & Beauty,Shampoo 400ml,1,432.26,Delivered,1
+ORD-301551,2026-09-01,West,Maharashtra,Mumbai,Electronics,Smartphone,2,17846.20,delivered,2
+ORD-301165,2026-08-05,N,,Gurugram,electronics,Smartwatch,2,4808.13,Delivered,2
+ORD-301856,27-Feb-2026,East,Assam,Guwahati,Apparel,Winter Jacket,1,2677.37,Completed,3
+ORD-301253,2026-04-17,Central,Madhya Pradesh,BHOPAL,Home & Kitchen,Mixer Grinder,1,3814.68,DELIVERED,4
+ORD-300823,yesterday,North,Chandigarh,Chandigarh,Electronics,smartphone,2,17781.02,Delivered,3
+ORD-300450,2026-09-26,Central,Madhya Pradesh,  Bhopal ,Electronics,Smartwatch,1,5044.63,Delivered,5
+ORD-300355,2026-01-20,South,Telangana,hyderabad,Electronics,Smartwatch,2,4503.08,COMPLETED,5
+ORD-301122,2026-06-21,  Central ,Maharashtra,Nagpur,Grocery,Green Tea 100 Bags,4,341.57,Delivered,4
+ORD-300922,2026-06-26,south,Kerala,kochi,Health & Beauty,  Vitamin C Tablets ,2,544.66,Delivered,4
+ORD-301656,16/09/2026,north,RAJASTHAN,Jaipur,Grocery,Green Tea 100 Bags,1,378.25,Shipped,
+ORD-300980,09-Aug-2026,east,West Bengal,KOLKATA,home & kitchen,Mixer Grinder,1,3299.43,Delivered,8
+ORD-300863,2026-01-23,South,Karnataka,Bengaluru,Electronics,Smartphone,2,17229.61,Shipped,
+ORD-300904,23-Mar-2026,North,Delhi,  Delhi ,  Groceries ,Green Tea 100 Bags,3,367.76,Shipped,
+ORD-301973,2026-09-05,central,chhattisgarh,Raipur,electronics,Smartwatch,2,5436.65,Completed,4
+ORD-301220,2026-02-18,WEST,Maharashtra,  Pune ,Electronics,Bluetooth Speaker,1,2728.45,Pending,
+ORD-300884,2026-05-27,North,Rajasthan,Jaipur,Grocery,Atta 10kg,2,491.68,Cancelled,
+ORD-301157,2026-06-10,South,Tamil Nadu,Chennai,Electronics,BLUETOOTH SPEAKER,5,2794.55,Delivered,4
+ORD-300900,2026-08-27,  North ,Delhi,Delhi,Health & Beauty,Shampoo 400ml,2,423.69,Pending,
+ORD-300984,01/05/2026,South,Telangana,  Hyderabad ,Grocery,Basmati Rice 5kg,1,637.08,Completed,5
+ORD-301734,2026-09-09,North,Delhi,Delhi,Electronics,Smartwatch,1,5128.80,Delivered,3
+ORD-300718,2026-07-19,East,BIHAR,  Patna ,Electronics,Wireless Earbuds,3,2627.01,Delivered,3
+ORD-300149,29/01/2026,East,Bihar,  Patna ,Electronics,Smartphone,3,19469.03,Delivered,3
+ORD-300458,29-Sep-2026,South,Karnataka,Bengaluru,Electronics,Smartwatch,1,5067.50,Delivered,3
+ORD-300345,2026-05-24,west,Maharashtra,Pune,Home & Kitchen,Pressure Cooker,1,1922.16,Delivered,2
+ORD-301829,25/04/2026,East,West Bengal,Kolkata,Groceries,  Atta 10kg ,5,517.14,Delivered,5
+ORD-301242,2026-01-13,Western,Maharashtra,MUMBAI,Home & Kitchen,Non-Stick Pan,1,1082.71,  Delivered ,2
+ORD-301784,2026-07-16,East,Assam,Guwahati,Home & Kitchen,Mixer Grinder,2,3828.56,In Transit,
+ORD-300770,2026-06-12,  East ,assam,Guwahati,Apparel,Kurta,2,906.60,Delivered,1
+ORD-301334,2026-08-05,Central,Maharashtra,Nagpur,apparel,Kurta,2,827.30,Delivered,2
+ORD-300179,2026-07-15,Central,Madhya Pradesh,Bhopal,Toys,Non-Stick Pan,1,928.92,Delivered,3
+ORD-301510,14/07/2026,  North ,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,2,2307.71,Pending,
+ORD-300037,29/09/2026,North,DELHI,Delhi,Grocery,Atta 10kg,2,466.06,Delivered,1
+ORD-301531,2026-07-17,South,  Kerala ,Kochi,Electronics,Wireless Earbuds,1,2392.55,shipped,
+ORD-300592,2026-06-05,West,Maharashtra,Mumbai,Home & Kitchen,LED Bulb Pack,3,438.46,Delivered,4
+ORD-300257,25/02/2026,Western,Gujarat,Ahmedabad,Apparel,Denim Jeans,2,1451.00,  Delivered ,3
+ORD-301495,02-Sep-2026,East,West Bengal,Kolkata,Electronics,Bluetooth Speaker,1,3285.59,Delivered,9
+ORD-300840,2027-03-15,East,West Bengal,Kolkata,Health & Beauty,Hair Dryer,3,1744.77,Pending,
+ORD-301225,2026-02-24,North,DELHI,Delhi,  Grocery ,Atta 10kg,5,488.35,Delivered,3
+ORD-300548,2026-08-19,South,Karnataka,Bengaluru,Grocery,Cooking Oil 1L,3,201.11,Delivered,
+ORD-300247,19-May-2026,Central,Madhya Pradesh,Bhopal,Apparel,Cotton T-Shirt,2,475.85,Delivered,2
+ORD-301406,2026-08-17,NORTH,  Haryana ,Gurugram,Home & Kitchen,Non-Stick Pan,2,1070.35,Shipped,
+ORD-301347,2026-01-31,Western,Goa,Panaji,Apparel,Winter Jacket,2,2452.34,Cancelled,
+ORD-300785,2026-05-07,East,West Bengal,Kolkata,Apparel,cotton t-shirt,2,487.78,  Cancelled ,
+ORD-301052,2026-07-29,  Central ,Madhya Pradesh,indore,Grocery,Cooking Oil 1L,5,193.25,Delivered,3
+ORD-300505,29/08/2026,West,Maharashtra,Mumbai,Grocery,GREEN TEA 100 BAGS,4,360.24,Delivered,1
+ORD-300621,2026-04-21,North,Uttar Pradesh,  Lucknow ,Grocery,Cooking Oil 1L,5,170.62,Delivered,2
+ORD-300069,2026-07-25,Central,,Bhopal,Home & Kitchen,  Bedsheet Set ,4,1270.78,Delivered,5
+ORD-301863,2026-07-25,South,  Tamil Nadu ,Chennai,Grocery,Atta 10kg,5,470.87,shipped,
+ORD-300550,19-Mar-2026,South,tamil nadu,Chennai,Health & Beauty,Shampoo 400ml,1,392.71,Delivered,3
+ORD-301946,2026-06-11,North,Uttar Pradesh,lucknow,Health & Beauty,Shampoo 400ml,3,423.25,DELIVERED,6
+ORD-300329,2026-06-21,WESTERN,Maharashtra,Mumbai,Home & Kitchen,Mixer Grinder,2,3838.49,Delivered,2
+ORD-300748,2026-05-07,West,Maharashtra,PUNE,Apparel,Winter Jacket,1,2449.03,Delivered,4
+ORD-300373,2026-04-26,Central,Madhya Pradesh,Indore,Grocery,Cooking Oil 1L,4,182.24,Shipped,
+ORD-301204,2026-03-30,West,Gujarat,Ahmedabad,ELECTRONICS,Bluetooth Speaker,1,3250.25,Delivered,4
+ORD-300545,2026-09-28,East,,Kolkata,Health & Beauty,Hair Dryer,4,1597.97,delivered,6
+ORD-301627,26/07/2026,South,  Kerala ,Kochi,grocery,Basmati Rice 5kg,2,640.87,delivered,2
+ORD-300588,24/08/2026,  West ,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,2869.36,Delivered,4
+ORD-300158,2026-05-10,WEST,Maharashtra,Mumbai,Home & Kitchen,Mixer Grinder,2,3482.00,Delivered,1
+ORD-300507,2026-03-05,Central,Madhya Pradesh,Bhopal,Apparel,Denim Jeans,3,1611.23,Shipped,
+ORD-301652,2026-05-13,South,Karnataka,Bengaluru,Grocery,dry fruits 500g,3,810.47,Shipped,
+ORD-300462,22/01/2026,North,Uttar Pradesh,Lucknow,Electronics,smartphone,2,17132.75,  In Transit ,
+ORD-301685,2026-01-31,Southern,Telangana,Hyderabad,apparel,Cotton T-Shirt,1,475.92,Delivered,4
+ORD-300055,2026-05-20,North,  Chandigarh ,Chandigarh,Electronics,Smartwatch,1,4956.24,Returned,3
+ORD-300171,03/03/2026,South,Kerala,Kochi,Health & Beauty,Face Wash,3,240.78,Shipped,
+ORD-301744,2026-06-11,North,Uttar Pradesh,Lucknow,Grocery,Basmati Rice 5kg,1,599.78,Delivered,1
+ORD-300768,2026-05-26,West,Goa,Panaji,grocery,Atta 10kg,1,504.84,Returned,3
+ORD-300212,2026-05-10,West,Goa,Panaji,Grocery,Atta 10kg,4,531.40,Delivered,2
+ORD-301884,2026-06-21,Central,maharashtra,Nagpur,Apparel,Running Shoes,3,2972.05,Delivered,4
+ORD-301681,2026-09-27,North,  Chandigarh ,Chandigarh,GROCERY,Dry Fruits 500g,4,856.96,Shipped,
+ORD-301405,2026-09-29,North,Rajasthan,JAIPUR,Electronics,Smartwatch,3,5026.28,Delivered,2
+ORD-300943,2026-07-12,South,Telangana,Hyderabad,  Grocery ,Cooking Oil 1L,3,190.60,Delivered,2
+ORD-300520,15/07/2026,Central,MADHYA PRADESH,Bhopal,Grocery,Green Tea 100 Bags,1,326.00,Delivered,4
+ORD-300691,2026-09-14,North,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,3,173.41,Delivered,2
+ORD-301252,2026-08-25,SOUTH,Kerala,Kochi,Grocery,Dry Fruits 500g,1,801.66,Delivered,4
+ORD-300646,2026-06-18,Central,Madhya Pradesh,Bhopal,Apparel,Running Shoes,1,2950.38,DELIVERED,5
+ORD-301984,06/06/2026,South,Tamil Nadu,Chennai,  Home and Kitchen ,LED Bulb Pack,5,422.80,Completed,4
+ORD-301539,2026-08-04,E,Odisha,Bhubaneswar,Home & Kitchen,Pressure Cooker,1,2015.77,delivered,9
+ORD-300525,2026-06-11,North,  Chandigarh ,Chandigarh,Groceries,Basmati Rice 5kg,2,596.47,delivered,1
+ORD-301152,2026-03-12,North,Haryana,Gurugram,Grocery,Basmati Rice 5kg,3,630.63,  Shipped ,
+ORD-301379,2026-07-04,West,Goa,Panaji,Grocery,Basmati Rice 5kg,3,667.37,Delivered,3
+ORD-301493,2026-01-31,East,Odisha,Bhubaneswar,Electronics,wireless earbuds,1,2679.39,  Pending ,
+ORD-301153,2026-07-13,West,Maharashtra,Pune,Health & Beauty,Sunscreen,2,486.11,Shipped,
+ORD-300215,28/07/2026,North,Chandigarh,Chandigarh,  Apparel ,Cotton T-Shirt,2,514.18,Pending,
+ORD-300717,2026-08-08,WEST,Gujarat,Ahmedabad,CLOTHING,Denim Jeans,4,1631.46,Delivered,2
+ORD-300064,2026-09-30,West,Gujarat,Ahmedabad,  Electronics ,Power Bank,3,1234.57,Delivered,2
+ORD-300814,2026-06-20,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,1,509.46,Completed,3
+ORD-300628,2026-07-27,South,Telangana,Hyderabad,Apparel,Cotton T-Shirt,1,502.97,Delivered,1
+ORD-301288,23/05/2026,South,Tamil Nadu,Chennai,Apparel,denim jeans,1,1402.82,Delivered,4
+ORD-301160,03/07/2026,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,2,1216.50,Shipped,
+ORD-301975,2026-06-18,North,Delhi,,Apparel,Running Shoes,1,2740.73,Delivered,5
+ORD-300743,2026-06-29,West,  Gujarat ,Ahmedabad,Grocery,Basmati Rice 5kg,1,669.79,  Pending ,
+ORD-300950,29/08/2026,South,TAMIL NADU,Chennai,Grocery,Dry Fruits 500g,4,878.28,Delivered,
+ORD-301981,23/06/2026,West,Gujarat,Ahmedabad,Health & Beauty,Face Wash,2,271.06,Delivered,2
+ORD-301562,30-May-2026,West,Gujarat,Ahmedabad,Health & Beauty,Sunscreen,2,492.47,Cancelled,
+ORD-301258,04-Jul-2026,N,Delhi,Delhi,ELECTRONICS,Smartwatch,1,4616.32,Completed,3
+ORD-300606,2026-09-21,North,Uttar Pradesh,Lucknow,Home & Kitchen,  Non-Stick Pan ,2,990.93,Delivered,4
+ORD-301951,2026-03-28,  Western ,Maharashtra,Pune,Apparel,Running Shoes,3,3193.91,Delivered,2
+ORD-300990,2026-09-01,  West ,Goa,panaji,Grocery,Cooking Oil 1L,1,190.76,Delivered,5
+ORD-300228,2026-06-07,South,Tamil Nadu,Chennai,Health & Beauty,Hair Dryer,1,1607.96,Delivered,1
+ORD-300973,2026-06-19,n,Rajasthan,Jaipur,Groceries,Atta 10kg,4,495.22,Delivered,3
+ORD-300816,2026-01-28,N,Delhi,  Delhi ,Apparel,denim jeans,3,1428.56,Shipped,
+ORD-300072,2026-02-22,North,Uttar Pradesh,Lucknow,Electronics,Smartphone,1,17865.00,Cancelled,
+ORD-300647,2026-03-31,South,Tamil Nadu,Chennai,Apparel,Winter Jacket,1,2449.85,Cancelled,
+ORD-300627,2026-03-19,North,Uttar Pradesh,Lucknow,Health & Beauty,Hair Dryer,1,1582.38,Delivered,1
+ORD-301892,2026-08-05,North,Rajasthan,Jaipur,Electronics,Smartphone,1,20740.96,Delivered,1
+ORD-300327,2026-03-14,West,Gujarat,Ahmedabad,Home & Kitchen,MIXER GRINDER,1,3366.74,Delivered,3
+ORD-300262,2026-08-29,South,Telangana,Hyderabad,home & kitchen,Pressure Cooker,1,1973.90,Delivered,2
+ORD-300015,2026-05-19,north,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,3,170.90,Delivered,1
+ORD-301468,2026-05-06,East,Odisha,Bhubaneswar,health & beauty,Sunscreen,1,464.04,Delivered,3
+ORD-301590,30/08/2026,North,Rajasthan,Jaipur,Apparel,Cotton T-Shirt,1,467.39,  Shipped ,
+ORD-300618,2026-04-16,West,  Maharashtra ,Mumbai,Apparel,Kurta,2,947.07,Delivered,2
+ORD-300322,2026-08-18,West,  Goa ,Panaji,Electronics,Bluetooth Speaker,1,3163.57,Delivered,6
+ORD-301337,2026-05-02,NORTH,Delhi,Delhi,Grocery,Cooking Oil 1L,3,184.05,Shipped,
+ORD-301917,2026-08-04,North,Delhi,DELHI,Apparel,Kurta,4,879.29,Delivered,4
+ORD-300162,19/07/2026,North,Haryana,Gurugram,Groceries,Atta 10kg,4,489.26,Delivered,3
+ORD-300678,2026-08-11,West,Gujarat,Ahmedabad,Grocery,Basmati Rice 5kg,3,628.52,Delivered,5
+ORD-300651,15/05/2026,Central,Madhya Pradesh,Indore,Electronics,Smartphone,1,17854.66,Delivered,1
+ORD-301128,2026-09-10,South,Telangana,Hyderabad,HEALTH & BEAUTY,Shampoo 400ml,2,420.65,Delivered,3
+ORD-300713,2026-05-24,South,Karnataka,Bengaluru,home & kitchen,Pressure Cooker,1,1841.71,COMPLETED,3
+ORD-300784,17-Jan-2026,SOUTH,Karnataka,Bengaluru,Grocery,Atta 10kg,8,488.40,  Delivered ,1
+ORD-301722,29-Jun-2026,Western,Goa,  Panaji ,Home & Kitchen,Mixer Grinder,1,3640.10,Delivered,3
+ORD-301036,2026-07-07,North,Rajasthan,Jaipur,health & beauty,Face Wash,2,229.97,Pending,
+ORD-300903,09/09/2026,East,Assam,Guwahati,home & kitchen,Pressure Cooker,1,1974.65,Delivered,6
+ORD-300842,2026-08-23,western,Gujarat,Ahmedabad,grocery,Atta 10kg,1,464.00,Pending,
+ORD-301418,25/05/2026,West,  Gujarat ,Ahmedabad,Home & Kitchen,Pressure Cooker,2,1926.35,Delivered,3
+ORD-301344,17/06/2026,east,Assam,Guwahati,Health & Beauty,Vitamin C Tablets,1,562.48,DELIVERED,5
+ORD-301552,2026-03-11,West,Gujarat,Ahmedabad,electronics,Smartphone,4,18940.86,Pending,
+ORD-300061,2026-02-14,East,Odisha,Bhubaneswar,Grocery,Atta 10kg,3,511.25,Pending,
+ORD-300991,2026-08-25,Central,Madhya Pradesh,Indore,Home & Kitchen,Non-Stick Pan,2,1029.82,Delivered,2
+ORD-300016,2026-07-28,North,Rajasthan,Jaipur,Apparel,Cotton T-Shirt,4,524.74,Pending,
+ORD-300130,23/03/2026,West,  Maharashtra ,Mumbai,Health & Beauty,Hair Dryer,1,1722.81,Cancelled,
+ORD-300075,2026-08-03,North,Uttar Pradesh,Lucknow,  Grocery ,BASMATI RICE 5KG,2,679.84,Delivered,3
+ORD-300731,2026-02-18,  Southern ,Telangana,Hyderabad,Home & Kitchen,Mixer Grinder,4,3558.49,Delivered,3
+ORD-300296,2026-08-29,SOUTH,Kerala,Kochi,Grocery,  Green Tea 100 Bags ,5,348.75,In Transit,
+ORD-301632,2026-03-30,Central,Madhya Pradesh,Bhopal,Home & Kitchen,Non-Stick Pan,1,1086.61,Delivered,4
+ORD-301324,2026-09-30,West,  Goa ,Panaji,Grocery,Atta 10kg,3,515.39,Returned,1
+ORD-301597,25/06/2026,East,Odisha,Bhubaneswar,  Electronics ,Bluetooth Speaker,5,3089.32,Delivered,4
+ORD-300288,07/08/2026,North,  Chandigarh ,Chandigarh,Grocery,COOKING OIL 1L,5,191.08,Completed,3
+ORD-300371,2026-08-04,West,Maharashtra,Pune,Electronics,WIRELESS EARBUDS,1,2577.89,Shipped,
+ORD-301822,2026-07-10,North,Rajasthan,  Jaipur ,  Electronics ,Power Bank,3,1282.30,Delivered,4
+ORD-300675,2026-05-24,South,tamil nadu,  Chennai ,Electronics,Power Bank,1,1251.39,DELIVERED,6
+ORD-301937,2026-04-20,N,chandigarh,chandigarh,  Grocery ,Atta 10kg,1,542.19,  Shipped ,
+ORD-301743,24-May-2026,East,Bihar,Patna,GROCERY,Basmati Rice 5kg,4,665.65,Delivered,3
+ORD-300286,2026-07-02,North,,DELHI,Home & Kitchen,Non-Stick Pan,2,979.17,Shipped,
+ORD-300518,22/03/2026,  West ,  Maharashtra ,Pune,Home & Kitchen,LED Bulb Pack,3,407.02,Shipped,
+ORD-300048,2026-05-06,N,Haryana,Gurugram,Grocery,Cooking Oil 1L,10,202.22,Delivered,3
+ORD-301293,2026-09-03,CENTRAL,maharashtra,Nagpur,  Health & Beauty ,Vitamin C Tablets,3,582.42,Delivered,5
+ORD-300335,2026-05-18,South,Karnataka,bengaluru,Grocery,Dry Fruits 500g,2,749.33,Delivered,4
+ORD-301527,2026-05-10,North,Delhi,Delhi,Apparel,  Kurta ,1,903.55,Delivered,1
+ORD-300244,2026-09-20,North,Delhi,Delhi,Electronics,SMARTPHONE,1,17740.47,Delivered,4
+ORD-300330,2026-05-08,South,  Tamil Nadu ,Chennai,Health and Beauty,Face Wash,1,243.53,Returned,2
+ORD-301777,2026-06-11,West,Maharashtra,Bombay,  Electronics ,Smartphone,2,19413.67,delivered,2
+ORD-301726,2026-01-24,West,Goa,Panaji,Electronics,Wireless Earbuds,1,2528.56,pending,
+ORD-301680,2026-07-06,E,odisha,Bhubaneswar,Apparel,Cotton T-Shirt,1,453.55,Delivered,3
+ORD-301302,13/04/2026,West,Maharashtra,bombay,Grocery,Atta 10kg,1,455.43,Delivered,3
+ORD-300486,19-Jul-2026,West,Maharashtra,mumbai,Grocery,Cooking Oil 1L,5,173.13,Delivered,3
+ORD-301836,20/07/2026,South,,Bengaluru,Electronics,Wireless Earbuds,3,2723.58,Delivered,3
+ORD-300042,2026-07-18,North,Chandigarh,Chandigarh,Health & Beauty,Sunscreen,1,441.29,delivered,1
+ORD-301297,26-Feb-2026,South,Kerala,Kochi,Grocery,Atta 10kg,3,474.94,Delivered,2
+ORD-300112,16/06/2026,East,Bihar,Patna,ELECTRONICS,Power Bank,1,1213.12,Shipped,
+ORD-301676,2026-08-29,North,Chandigarh,Chandigarh,Electronics,Wireless Earbuds,3,2327.66,Delivered,3
+ORD-301526,08/01/2026,East,Bihar,Patna,Grocery,Cooking Oil 1L,1,172.22,delivered,3
+ORD-301819,2026-04-19,North,Haryana,Gurugram,Grocery,Green Tea 100 Bags,4,346.34,Delivered,2
+ORD-301397,2026-08-27,West,,Pune,Clothing,Running Shoes,2,2943.26,Delivered,2
+ORD-301942,19/07/2026,East,West Bengal,Kolkata,  Apparel ,  Denim Jeans ,3,1367.34,Delivered,4
+ORD-301303,2026-04-13,North,Haryana,Gurugram,Electronics,Power Bank,4,1317.34,Delivered,3
+ORD-300509,2026-08-18,  North ,Delhi,Delhi,Grocery,Basmati Rice 5kg,3,651.73,Shipped,
+ORD-300308,2026-08-15,N,Haryana,gurugram,Grocery,Green Tea 100 Bags,1,335.28,  Delivered ,1
+ORD-300945,2026-01-30,South,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,2,739.97,Cancelled,
+ORD-301626,2026-07-03,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,1,2354.53,Delivered,1
+ORD-300572,2026-04-13,West,Gujarat,Ahmedabad,Grocery,GREEN TEA 100 BAGS,3,320.62,Delivered,3
+ORD-300910,2026-09-08,North,Uttar Pradesh,Lucknow,  Electronics ,Wireless Earbuds,1,2608.23,Delivered,1
+ORD-300742,01/05/2026,north,Uttar Pradesh,Lucknow,Apparel,winter jacket,1,2560.37,Delivered,5
+ORD-300699,2026-06-11,South,Kerala,Kochi,Health & Beauty,Shampoo 400ml,1,368.46,Delivered,5
+ORD-301169,03/09/2026,Central,Maharashtra,Nagpur,Electronics,Smartwatch,1,4939.64,Delivered,2
+ORD-301100,2026-02-17,North,Rajasthan,Jaipur,Electronics,Power Bank,2,1334.86,Delivered,1
+ORD-301553,2026-03-16,Central,,Raipur,Electronics,Smartphone,1,20063.76,Delivered,3
+ORD-300555,15/06/2026,North,Haryana,Gurugram,Apparel,Winter Jacket,1,2297.68,Delivered,2
+ORD-301576,12/03/2026,South,Kerala,Kochi,Apparel,Kurta,2,909.89,Delivered,1
+ORD-301873,2026-09-22,  East ,Odisha,Bhubaneswar,Health & Beauty,Shampoo 400ml,3,428.59,Delivered,5
+ORD-301877,2026-08-26,East,Bihar,Patna,Apparel,Running Shoes,2,2890.24,Cancelled,
+ORD-300811,2026-06-19,North,Delhi,  Delhi ,Health and Beauty,Vitamin C Tablets,6,512.43,Delivered,6
+ORD-301808,30-Aug-2026,Central,Maharashtra,Nagpur,Electronics,Smartphone,1,17227.98,Delivered,4
+ORD-300791,2026-08-25,North,Haryana,Gurugram,Grocery,Atta 10kg,3,474.15,Delivered,1
+ORD-301249,04/03/2026,North,Delhi,Delhi,Health & Beauty,Hair Dryer,1,1444.90,DELIVERED,2
+ORD-301764,2026-04-09,West,Goa,  Panaji ,Apparel,Running Shoes,2,3036.68,Shipped,
+ORD-300502,2026-02-15,West,MAHARASHTRA,Pune,Grocery,Dry Fruits 500g,3,845.05,In Transit,
+ORD-300629,2026-04-12,South,Kerala,Kochi,Grocery,Dry Fruits 500g,1,723.42,  Shipped ,
+ORD-300670,2026-03-31,  East ,Assam,Guwahati,Electronics,Smartphone,4,17366.54,Delivered,6
+ORD-301983,06/05/2026,West,Goa,Panaji,Home & Kitchen,Non-Stick Pan,3,980.89,Shipped,
+ORD-300038,23/08/2026,North,rajasthan,JAIPUR,Apparel,Denim Jeans,1,1472.04,Completed,2
+ORD-301002,2026-05-11,East,Bihar,PATNA,Grocery,Dry Fruits 500g,3,772.01,Delivered,4
+ORD-300712,2026-04-23,South,  Karnataka ,bengaluru,  Home & Kitchen ,LED Bulb Pack,1,402.36,Delivered,1
+ORD-300893,2026-06-25,East,bihar,Patna,Apparel,Denim Jeans,2,1608.51,Completed,3
+ORD-300406,19-May-2026,West,Goa,Panaji,Grocery,Cooking Oil 1L,1,177.70,Pending,
+ORD-301184,2026-05-31,North,Uttar Pradesh,Lucknow,Apparel,Cotton T-Shirt,1,455.75,Completed,2
+ORD-301060,28-Jul-2026,South,Telangana,Hyderabad,Health & Beauty,  Sunscreen ,4,482.74,delivered,3
+12345,2026-08-15,Western,Maharashtra,Pune,Health & Beauty,Hair Dryer,3,1478.73,cancelled,
+ORD-301529,18-Jan-2026,South,Kerala,Kochi,Grocery,Atta 10kg,1,509.75,Shipped,
+ORD-300693,2026-05-22,West,Maharashtra,Pune,Home & Kitchen,led bulb pack,1,381.03,Delivered,1
+ORD-300867,2026-09-10,North,  Chandigarh ,Chandigarh,Electronics,Smartphone,1,19878.63,Delivered,2
+ORD-301455,18/09/2026,Central,Maharashtra,Nagpur,home & kitchen,Pressure Cooker,2,1822.70,Delivered,2
+ORD-300484,09/09/2026,E,Odisha,Bhubaneswar,  Electronics ,Smartphone,1,19882.03,Delivered,6
+ORD-300218,2026-09-07,South,Tamil Nadu,Chennai,Electronics,SMARTWATCH,2,5455.38,Delivered,4
+ORD-301880,2026-08-11,  West ,Maharashtra,Pune,ELECTRONICS,SMARTPHONE,5,20209.83,  Delivered ,3
+ORD-300192,2026-06-20,South,Kerala,Kochi,Health & Beauty,Hair Dryer,2,1699.36,Delivered,4
+ORD-300152,22/07/2026,north,Delhi,Delhi,Home & Kitchen,Pressure Cooker,1,2075.76,Delivered,3
+ORD-301978,01/05/2026,  South ,,Chennai,Groceries,Atta 10kg,3,481.75,Pending,
+ORD-301633,2026-05-31,East,bihar,Patna,Electronics,Bluetooth Speaker,3,2909.33,Delivered,3
+ORD-301549,01/08/2026,West,Goa,Panaji,ELECTRONICS,Power Bank,1,1409.45,  Delivered ,3
+ORD-301084,2026-02-07,Central,Madhya Pradesh,bhopal,Health & Beauty,Hair Dryer,1,1680.02,Shipped,
+ORD-300489,01-Jul-2026,South,Tamil Nadu,Chennai,Grocery,Dry Fruits 500g,2,763.26,Returned,3
+ORD-300930,22/05/2026,South,,Chennai,Grocery,Basmati Rice 5kg,3,626.43,Delivered,4
+ORD-301194,08/07/2026,West,Maharashtra,  Mumbai ,apparel,  Running Shoes ,4,3052.03,Delivered,2
+ORD-301551,2026-09-01,West,Maharashtra,Mumbai,Electronics,Smartphone,2,17846.20,delivered,2
+ORD-301716,2026-05-25,E,West Bengal,KOLKATA,  Electronics ,Smartphone,1,19498.69,  Delivered ,5
+ORD-300477,2026-09-14,West,,Panaji,Electronics,Smartphone,2,17372.39,  Shipped ,
+ORD-300664,2026-06-01,South,Tamil Nadu,Chennai,Health & Beauty,Sunscreen,1,423.48,Delivered,2
+ORD-300887,03/08/2026,NORTH,Haryana,Gurugram,HOME & KITCHEN,Bedsheet Set,1,1132.94,  Delivered ,2
+ORD-301017,09/03/2026,Central,Chhattisgarh,Raipur,Electronics,Smartwatch,4,4996.92,Completed,1
+ORD-301964,2026-09-02,West,Gujarat,Ahmedabad,Electronics,Power Bank,1,1261.18,Shipped,
+ORD-300666,2026-09-17,west,Gujarat,Ahmedabad,groceries,Cooking Oil 1L,5,181.51,Completed,1
+ORD-300049,2026-09-29,  North ,Haryana,Gurugram,Health & Beauty,VITAMIN C TABLETS,2,558.77,Delivered,3
+ORD-301827,2026-03-21,South,Kerala,  Kochi ,Health & Beauty,Sunscreen,1,469.27,Delivered,4
+ORD-301121,2026-07-25,North,Uttar Pradesh,Lucknow,Health & Beauty,shampoo 400ml,1,400.94,Pending,
+ORD-300020,26/01/2026,N,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,5,696.45,Delivered,1
+ORD-301536,2026-08-16,Central,,BHOPAL,  Grocery ,Atta 10kg,7,466.02,Delivered,5
+ORD-300662,2026-06-12,E,Odisha,Bhubaneswar,Grocery,Cooking Oil 1L,2,175.27,Pending,
+ORD-300305,2026-08-03,Central,Madhya Pradesh,Bhopal,Electronics,Smartwatch,3,4816.42,Delivered,2
+ORD-300738,2026-08-14,North,Delhi,Delhi,grocery,Green Tea 100 Bags,4,377.66,Returned,3
+ORD-301112,2026-05-06,North,  Rajasthan ,Jaipur,Electronics,Bluetooth Speaker,1,3200.65,Delivered,2
+ORD-301729,2026-07-13,Central,Chhattisgarh,Raipur,Home & Kitchen,Bedsheet Set,2,1296.65,Delivered,4
+ORD-300467,2026-07-31,East,Odisha,BHUBANESWAR,Home & Kitchen,LED Bulb Pack,1,423.33,Shipped,
+ORD-300705,2026-07-29,Central,Maharashtra,Nagpur,Grocery,Cooking Oil 1L,5,175.71,Delivered,3
+ORD-301692,11/09/2026,East,Bihar,Patna,Grocery,Cooking Oil 1L,4,202.02,Cancelled,
+ORD-301026,2026-08-04,West,Maharashtra,Mumbai,Apparel,Cotton T-Shirt,1,465.99,Delivered,1
+ORD-300318,2026-07-23,East,Assam,Guwahati,Electronics,  Power Bank ,3,1242.52,delivered,4
+ORD-300559,2026-09-03,West,Goa,Panaji,Apparel,Winter Jacket,1,2696.32,Delivered,3
+ORD-300994,02-Mar-2026,Central,  Madhya Pradesh ,Bhopal,  Apparel ,Denim Jeans,3,1439.86,Delivered,3
+ORD-300808,2026-03-06,East,Odisha,Bhubaneswar,GROCERY,atta 10kg,2,545.26,  Delivered ,4
+ORD-301643,07/07/2026,North,Haryana,Gurugram,ELECTRONICS,Smartwatch,2,4869.27,Delivered,1
+ORD-300946,2026-06-27,South,Tamil Nadu,Chennai,Grocery,atta 10kg,7,545.38,Delivered,4
+ORD-301092,2026-04-07,North,Chandigarh,Chandigarh,Home & Kitchen,Pressure Cooker,3,1863.20,shipped,
+ORD-301715,05-Sep-2026,West,Gujarat,Ahmedabad,Home & Kitchen,Non-Stick Pan,1,956.21,Delivered,1
+ORD-301091,2026-08-05,Central,Madhya Pradesh,indore,health & beauty,Shampoo 400ml,1,369.44,Delivered,4
+ORD-300031,2026-07-06,South,Kerala,Kochi,home and kitchen,Bedsheet Set,1,1135.04,Delivered,2
+ORD-300949,2026-06-05,North,Haryana,Gurugram,Apparel,COTTON T-SHIRT,1,513.91,Delivered,2
+ORD-301458,2026-08-22,South,Tamil Nadu,CHENNAI,Grocery,Cooking Oil 1L,4,200.97,Delivered,
+ORD-300826,2026-01-12,East,West Bengal,Kolkata,Health & Beauty,Shampoo 400ml,2,418.14,DELIVERED,2
+ORD-300620,2026-09-13,west,Maharashtra,Mumbai,Electronics,wireless earbuds,1,2329.90,Delivered,4
+ORD-300960,01/04/2026,  Central ,Chhattisgarh,Raipur,Grocery,Atta 10kg,5,499.28,In Transit,
+ORD-300967,2026-03-23,Central,Madhya Pradesh,Bhopal,  Electronics ,Bluetooth Speaker,1,3255.75,shipped,
+ORD-300906,23-Sep-2026,North,CHANDIGARH,CHANDIGARH,Home & Kitchen,LED Bulb Pack,2,362.22,Delivered,4
+ORD-300382,2026-07-16,  South ,Tamil Nadu,Chennai,Grocery,Cooking Oil 1L,4,196.61,delivered,3
+ORD-301129,2026-07-22,Central,Madhya Pradesh,Indore,apparel,Kurta,1,876.59,Delivered,4
+ORD-300091,2026-08-19,South,Karnataka,Bengaluru,Clothing,Winter Jacket,2,2712.67,Delivered,3
+ORD-300782,17-Jan-2026,West,Maharashtra,Pune,Apparel,DENIM JEANS,4,1504.81,Delivered,4
+ORD-300107,2026-07-13,South,Telangana,Hyderabad,Grocery,Atta 10kg,4,470.64,Returned,3
+ORD-300616,2026-01-23,north,Uttar Pradesh,Lucknow,Apparel,winter jacket,1,2270.99,Pending,
+ORD-300201,2026-07-06,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,3,2873.57,Completed,4
+ORD-300232,2026-05-11,Central,Maharashtra,Nagpur,Apparel,Denim Jeans,1,1464.56,Delivered,4
+ORD-301046,07/08/2026,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,1,2856.07,cancelled,
+ORD-301190,11/03/2026,North,Rajasthan,Jaipur,health & beauty,Sunscreen,2,446.70,SHIPPED,
+ORD-301893,2026-07-11,North,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,4,707.48,Delivered,4
+ORD-300985,20/09/2026,north,Delhi,Delhi,Electronics,Bluetooth Speaker,2,3204.70,Delivered,3
+ORD-300851,2026-07-31,North,Chandigarh,Chandigarh,ELECTRONICS,Wireless Earbuds,1,2414.01,Delivered,2
+ORD-300431,22/09/2026,South,Karnataka,Bengaluru,Electronics,Power Bank,3,1421.72,Delivered,2
+ORD-300771,01/05/2026,N,Rajasthan,Jaipur,Electronics,Smartphone,2,20373.63,Delivered,4
+ORD-301408,2026-07-20,North,Chandigarh,Chandigarh,Health and Beauty,Vitamin C Tablets,1,517.07,Delivered,2
+ORD-301151,2026-02-20,Central,Chhattisgarh,Raipur,Electronics,Smartwatch,1,5453.11,Lost,4
+ORD-301889,2026-06-13,East,Assam,Guwahati,Grocery,Atta 10kg,3,497.79,  Delivered ,4
+ORD-300396,2026-05-31,East,Assam,Guwahati,Home & Kitchen,Bedsheet Set,1,1150.08,Shipped,
+ORD-301834,2026-04-25,Central,Madhya Pradesh,Indore,Grocery,Atta 10kg,3,547.56,Pending,
+ORD-301518,2026-08-03,East,Bihar,Patna,Apparel,Kurta,2,896.17,returned,7
+ORD-301522,yesterday,East,Assam,Guwahati,grocery,Atta 10kg,4,476.66,Completed,2
+ORD-301550,06/07/2026,East,Odisha,Bhubaneswar,Apparel,Kurta,2,N/A,Delivered,4
+ORD-300801,11-Jun-2026,South,Kerala,Kochi,Home & Kitchen,Non-Stick Pan,1,991.50,Delivered,3
+ORD-300587,2026-06-08,East,Assam,Guwahati,  Apparel ,Denim Jeans,5,1621.79,Pending,
+ORD-301733,19/02/2026,East,west bengal,Kolkata,Home & Kitchen,LED Bulb Pack,5,381.86,Delivered,2
+ORD-300663,2026-07-11,west,Gujarat,Ahmedabad,Health & Beauty,Sunscreen,3,490.80,Delivered,1
+ORD-300660,31/08/2026,East,WEST BENGAL,  Kolkata ,Apparel,Running Shoes,3,3178.69,delivered,6
+ORD-300465,30/05/2026,East,Odisha,Bhubaneswar,Grocery,Green Tea 100 Bags,11,372.09,Pending,
+ORD-301134,2026-09-18,East,bihar,Patna,electronics,Wireless Earbuds,5,2693.21,Delivered,6
+ORD-300275,2026-05-24,West,Maharashtra,Pune,Home & Kitchen,Non-Stick Pan,1,900.91,Delivered,1
+ORD-301848,2026-04-30,South,Telangana,Hyderabad,Home & Kitchen,Bedsheet Set,1,1218.06,Completed,
+ORD-300132,2026-04-25,south,Kerala,Kochi,Apparel,Cotton T-Shirt,-3,546.71,Pending,
+ORD-301532,2026-05-30,South,Kerala,Kochi,  Home & Kitchen ,LED Bulb Pack,2,362.45,Delivered,3
+ORD-300833,08/07/2026,West,Maharashtra,pune,Home & Kitchen,Non-Stick Pan,1,926.28,Delivered,3
+ORD-301621,2026-06-20,North,uttar pradesh,lucknow,Health & Beauty,Vitamin C Tablets,3,526.17,Delivered,2
+ORD-301197,2026-02-15,East,Odisha,  Bhubaneswar ,Apparel,Kurta,2,910.68,DELIVERED,3
+ORD-301756,2026-07-24,North,Chandigarh,Chandigarh,Health & Beauty,Vitamin C Tablets,1,515.74,Returned,2
+ORD-301271,2026-06-08,  North ,Chandigarh,Chandigarh,Health & Beauty,Face Wash,3,266.30,Delivered,1
+ORD-300957,2026-09-24,West,Maharashtra,Mumbai,ELECTRONICS,Smartphone,1,20547.97,Delivered,3
+ORD-301757,2026-05-25,East,West Bengal,Kolkata,home & kitchen,Mixer Grinder,1,3473.37,delivered,6
+ORD-300203,2026-08-17,North,Rajasthan,Jaipur,Home & Kitchen,Mixer Grinder,1,3260.81,Delivered,4
+ORD-301977,16/09/2026,West,Gujarat,Ahmedabad,Home & Kitchen,BEDSHEET SET,3,1298.94,Delivered,2
+ORD-300711,2026-08-28,West,gujarat,Ahmedabad,Electronics,Wireless Earbuds,5,2414.74,Shipped,
+ORD-300379,2026-01-09,West,Goa,Panaji,Apparel,Winter Jacket,3,2286.31,Delivered,2
+ORD-301846,2026-05-27,East,Odisha,Bhubaneswar,HOME & KITCHEN,Pressure Cooker,1,1767.78,Delivered,
+ORD-300451,28-Jun-2026,South,Tamil Nadu,Chennai,Grocery,  Cooking Oil 1L ,3,178.09,Delivered,3
+ORD-300444,12-Jul-2026,EAST,Odisha,Bhubaneswar,Electronics,Smartwatch,5,4893.37,Delivered,3
+ORD-300090,2026-03-14,South,Kerala,kochi,Health & Beauty,Hair Dryer,1,1729.37,Delivered,2
+ORD-301096,2026-06-11,East,Odisha,  Bhubaneswar ,Home & Kitchen,Non-Stick Pan,2,1040.95,Delivered,3
+ORD-300983,25/06/2026,west,  Maharashtra ,Mumbai,Grocery,Dry Fruits 500g,3,798.05,canceled,
+ORD-301308,2026-03-22,north,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,2,3221.49,Delivered,2
+ORD-300057,13/09/2026,South,Karnataka,Bangalore,Electronics,Bluetooth Speaker,1,3182.60,Delivered,4
+ORD-301783,21/06/2026,South,Karnataka,Bengaluru,Grocery,Atta 10kg,3,513.40,Pending,
+ORD-300407,2026-08-03,Central,Madhya Pradesh,Bhopal,Apparel,Kurta,2,882.13,Cancelled,
+ORD-300978,24/03/2026,West,Maharashtra,Mumbai,Health & Beauty,Face Wash,2,249.80,Delivered,2
+ORD-300615,2026-05-12,South,Kerala,Kochi,Home & Kitchen,LED Bulb Pack,3,366.30,Delivered,4
+ORD-300794,15-Jun-2026,south,Tamil Nadu,Chennai,Electronics,Smartwatch,2,5024.62,Delivered,2
+ORD-300267,19/09/2026,Central,maharashtra,Nagpur,Health & Beauty,Hair Dryer,1,1650.65,Cancelled,
+ORD-301833,06/08/2026,N,Uttar Pradesh,Lucknow,Home & Kitchen,Non-Stick Pan,2,1041.45,Cancelled,
+ORD-300334,2026-07-07,South,Telangana,Hyderabad,Health & Beauty,Sunscreen,2,434.45,Delivered,3
+ORD-301213,2026-06-04,East,  Bihar ,Patna,Electronics,Smartphone,1,18210.79,Lost,4
+ORD-300852,2026-09-06,West,Goa,Panaji,GROCERY,  Cooking Oil 1L ,8,179.28,Delivered,4
+ORD-300217,2026-01-21,Central,Chhattisgarh,raipur,Home & Kitchen,LED Bulb Pack,1,N/A,  Completed ,5
+ORD-301321,13-Mar-2026,North,Uttar Pradesh,Lucknow,Grocery,Basmati Rice 5kg,1,589.34,Completed,3
+ORD-301638,12-Aug-2026,North,DELHI,Delhi,,Cotton T-Shirt,1,471.25,delivered,1
+ORD-300109,2026-06-29,E,Bihar,Patna,Grocery,Green Tea 100 Bags,4,369.73,Delivered,5
+ORD-300164,2026-07-26,West,Goa,panaji,apparel,Cotton T-Shirt,1,514.99,Delivered,1
+ORD-301448,2026-04-26,West,Gujarat,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1154.71,Delivered,2
+ORD-300461,19/05/2026,North,Rajasthan,jaipur,Apparel,Kurta,7,983.42,Delivered,4
+ORD-300556,2026-09-20,North,Uttar Pradesh,Lucknow,grocery,Green Tea 100 Bags,3,348.01,Returned,1
+ORD-300880,31-May-2026,South,Karnataka,Bengaluru,Electronics,Smartphone,1,18491.65,Delivered,
+ORD-301693,27/07/2026,  South ,Telangana,Hyderabad,Grocery,Cooking Oil 1L,3,184.39,Delivered,4
+ORD-301054,2026-09-28,Central,madhya pradesh,Bhopal,Home & Kitchen,Mixer Grinder,1,3185.46,Delivered,3
+ORD-300153,2026-05-20,West,Goa,Panaji,Groceries,GREEN TEA 100 BAGS,1,376.62,Delivered,3
+ORD-300562,2026-01-02,South,Karnataka,BENGALURU,Apparel,Kurta,4,859.96,Completed,1
+ORD-300412,2026-02-28,South,Telangana,hyderabad,Electronics,bluetooth speaker,2,3032.56,Delivered,4
+ORD-301582,2026-09-22,West,Maharashtra,Pune,Electronics,Smartphone,1,19713.42,In Transit,
+ORD-301540,2026-03-31,West,Maharashtra,Mumbai,Health & Beauty,Sunscreen,1,464.21,Delivered,5
+ORD-300636,15-Sep-2026,West,Maharashtra,Mumbai,Home & Kitchen,Pressure Cooker,2,2033.75,COMPLETED,1
+ORD-300878,2026-03-06,North,Haryana,Gurugram,grocery,Green Tea 100 Bags,1,328.81,delivered,4
+ORD-301809,2026-04-18,Central,Maharashtra,Nagpur,Health and Beauty,Face Wash,1,227.66,Delivered,6
+ORD-300775,2026-07-03,North,Delhi,Delhi,Apparel,Winter Jacket,1,2473.05,Pending,
+ORD-300622,29/01/2026,North,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,4,689.64,Delivered,3
+ORD-300859,15/09/2026,south,KERALA,Kochi,  Electronics ,  Smartphone ,2,18206.44,Completed,3
+ORD-301230,2026-09-04,North,Haryana,Gurugram,Apparel,Denim Jeans,1,1612.65,Delivered,2
+ORD-301359,2026-04-30,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,2,2445.09,Shipped,
+ORD-301895,22/03/2026,  West ,Maharashtra,Pune,Grocery,Atta 10kg,3,461.64,Returned,3
+ORD-300640,07/04/2026,Western,Maharashtra,Mumbai,health & beauty,Face Wash,1,253.10,  Delivered ,2
+ORD-301803,12/05/2026,West,Maharashtra,Mumbai,Grocery,Atta 10kg,4,503.68,In Transit,
+ORD-301423,2026-02-08,West,Maharashtra,Pune,Grocery,Basmati Rice 5kg,1,594.14,Delivered,4
+ORD-301478,10/09/2026,North,Haryana,Gurugram,Grocery,Atta 10kg,1,495.83,Shipped,
+ORD-301134,2026-09-18,East,bihar,Patna,electronics,Wireless Earbuds,1,2693.21,Delivered,6
+ORD-300740,02/07/2026,Central,madhya pradesh,Bhopal,Electronics,Smartwatch,2,5410.91,Delivered,4
+ORD-300457,2026-03-30,  West ,Goa,Panaji,APPAREL,WINTER JACKET,1,2632.22,Returned,3
+ORD-301120,2026-02-12,West,Goa,Panaji,Grocery,Dry Fruits 500g,1,836.95,Delivered,2
+ORD-301473,20/02/2026,South,Tamil Nadu,Chennai,Grocery,Green Tea 100 Bags,2,331.51,Delivered,5
+ORD-300030,2026-02-28,Central,MAHARASHTRA,Nagpur,Grocery,GREEN TEA 100 BAGS,3,353.53,Delivered,4
+ORD-300408,2026-08-07,north,uttar pradesh,Lucknow,Home & Kitchen,Mixer Grinder,1,3250.97,Delivered,4
+ORD-300695,25/05/2026,West,Maharashtra,Mumbai,Apparel,WINTER JACKET,3,2513.52,Delivered,2
+ORD-301459,06/04/2026,east,BIHAR,patna,Apparel,Denim Jeans,2,1455.67,  Shipped ,
+ORD-300844,2026-09-29,West,Goa,panaji,Apparel,Running Shoes,1,2998.99,Delivered,2
+ORD-301591,26/01/2026,South,Telangana,Hyderabad,Home & Kitchen,Pressure Cooker,2,1925.30,Delivered,2
+ORD-301659,2026-07-19,West,Gujarat,Ahmedabad,Electronics,smartwatch,3,4595.55,Delivered,2
+ORD-300036,21-Feb-2026,Southern,Telangana,Hyderabad,Health & Beauty,Hair Dryer,2,1509.00,Delivered,5
+ORD-301136,2026-04-12,West,,Panaji,Grocery,Atta 10kg,1,510.22,delivered,2
+ORD-300418,2026-03-09,Central,Madhya Pradesh,Indore,Health & Beauty,Hair Dryer,1,1470.07,Delivered,3
+ORD-300236,2026-09-09,West,,Ahmedabad,Electronics,Smartphone,1,19323.47,Delivered,4
+ORD-300383,24/04/2026,Western,  Maharashtra ,pune,  Grocery ,Cooking Oil 1L,2,187.25,Delivered,1
+ORD-301260,04/07/2026,West,Gujarat,Ahmedabad,Grocery,  Basmati Rice 5kg ,5,626.39,In Transit,
+ORD-300062,2026-07-16,  West ,GUJARAT,Ahmedabad,Apparel,Kurta,1,971.86,DELIVERED,4
+ORD-301660,2026-09-16,West,Maharashtra,Mumbai,Home & Kitchen,mixer grinder,1,3359.59,Shipped,
+ORD-300494,2026-03-05,Central,,Indore,Grocery,Green Tea 100 Bags,3,352.25,Cancelled,
+ORD-301504,2026-07-01,North,Rajasthan,jaipur,Electronics,Smartphone,4,17411.51,Returned,4
+ORD-301482,2026-06-19,North,Haryana,Gurugram,Home & Kitchen,Mixer Grinder,1,3204.02,Delivered,2
+ORD-300206,2026-04-20,West,Gujarat,Ahmedabad,Home & Kitchen,Non-Stick Pan,2,1030.34,Delivered,5
+ORD-300613,2026-02-05,SOUTH,Kerala,Kochi,Apparel,Denim Jeans,1,1374.81,Returned,4
+ORD-300013,2026-09-25,West,maharashtra,mumbai,Electronics,Smartphone,1,17354.70,Delivered,2
+ORD-301519,23/05/2026,South,Telangana,Hyderabad,  Grocery ,Dry Fruits 500g,4,735.00,Delivered,2
+ORD-300736,2026-05-04,Western,Maharashtra,Pune,Home & Kitchen,Mixer Grinder,2,3652.01,Delivered,2
+ORD-300519,2026-05-30,  West ,Gujarat,Ahmedabad,Grocery,Cooking Oil 1L,6,188.18,Delivered,1
+ORD-301045,2026-05-22,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,2,501.37,Delivered,2
+ORD-301746,08/02/2026,North,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,2,170.14,Delivered,3
+ORD-300517,2026-04-15,East,Odisha,bhubaneswar,Electronics,WIRELESS EARBUDS,2,2681.05,Shipped,
+ORD-300506,2026-01-26,South,Karnataka,Bengaluru,Electronics,Smartwatch,1,5030.33,DELIVERED,5
+ORD-301176,16/06/2026,South,Karnataka,Bengaluru,Electronics,Smartwatch,2,N/A,Delivered,
+ORD-300909,2026-07-09,north,Delhi,  Delhi ,Apparel,Winter Jacket,1,2443.33,Delivered,1
+ORD-300810,2026-09-16,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,1,367.92,Delivered,1
+ORD-301646,2026-02-03,Central,Chhattisgarh,RAIPUR,Grocery,Dry Fruits 500g,6,865.41,Delivered,4
+ORD-301490,2026-02-13,South,Karnataka,Bengaluru,Grocery,Basmati Rice 5kg,5,703.80,Delivered,1
+ORD-300325,2026-05-14,North,,Chandigarh,Grocery,Dry Fruits 500g,3,876.84,Delivered,2
+ORD-301264,04/03/2026,West,Maharashtra,Pune,  Electronics ,Smartphone,2,18952.81,Delivered,4
+ORD-301689,2026-01-10,South,,Kochi,Apparel,Cotton T-Shirt,1,493.10,Shipped,
+ORD-300219,2026-04-09,Central,Madhya Pradesh,indore,Health and Beauty,Face Wash,1,242.90,returned,3
+ORD-301396,14/02/2026,N,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,2,593.90,Shipped,
+ORD-301289,2026-09-13,south,Karnataka,Bengaluru,Apparel,Kurta,2,910.48,Delivered,2
+ORD-300609,2026-01-08,West,,Ahmedabad,Electronics,Bluetooth Speaker,1,2854.77,Delivered,1
+ORD-301447,30/06/2026,South,  Karnataka ,  Bengaluru ,  Home & Kitchen ,LED Bulb Pack,1,412.73,Returned,2
+ORD-300934,15-Aug-2026,South,Karnataka,Bengaluru,Grocery,cooking oil 1l,2,178.22,Delivered,3
+ORD-300501,2026-07-16,West,Maharashtra,Pune,Grocery,  Basmati Rice 5kg ,6,663.21,Returned,2
+ORD-300583,2026-09-22,north,delhi,Delhi,Electronics,Smartwatch,3,5428.24,  Delivered ,2
+ORD-300018,14-Feb-2026,North,,Lucknow,Electronics,Smartphone,2,20723.68,Returned,2
+ORD-300625,2026-07-17,West,Maharashtra,Mumbai,  Grocery ,Dry Fruits 500g,5,765.66,Cancelled,
+ORD-301185,2026-06-24,East,  Bihar ,Patna,Home & Kitchen,Pressure Cooker,1,1806.77,Delivered,3
+ORD-300869,10/06/2026,West,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,2,2572.65,Delivered,1
+ORD-301714,2026-05-11,West,Gujarat,Ahmedabad,Grocery,Cooking Oil 1L,2,183.37,  Completed ,3
+ORD-300368,26-May-2026,Western,Maharashtra,Pune,Health & Beauty,Hair Dryer,1,1691.49,Delivered,1
+ORD-301960,2026-04-09,South,Kerala,Kochi,Grocery,Atta 10kg,6,511.28,Delivered,2
+ORD-301280,21/09/2026,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,-3,2749.05,Pending,
+ORD-300160,30/03/2026,Central,madhya pradesh,Indore,Electronics,Wireless Earbuds,1,2382.17,Pending,
+ORD-300933,2026-02-08,Western,Gujarat,ahmedabad,Electronics,Wireless Earbuds,1,2418.24,Delivered,2
+ORD-301902,2026-04-27,Central,Maharashtra,Nagpur,Apparel,Cotton T-Shirt,3,506.99,Delivered,
+ORD-301371,16/08/2026,South,Kerala,Kochi,GROCERY,Cooking Oil 1L,2,207.87,Delivered,2
+12345,2026-03-13,South,Karnataka,  Bengaluru ,Grocery,Dry Fruits 500g,2,838.87,Delivered,1
+ORD-301636,21/04/2026,Central,Chhattisgarh,RAIPUR,Electronics,  Wireless Earbuds ,2,2328.64,Delivered,3
+ORD-300603,2026-07-02,West,Maharashtra,Mumbai,ELECTRONICS,Wireless Earbuds,3,2370.82,Delivered,1
+ORD-300561,2026-05-03,Central,Madhya Pradesh,Indore,Grocery,Dry Fruits 500g,2,784.31,Shipped,
+ORD-300478,07/04/2026,North,Chandigarh,CHANDIGARH,Electronics,  Smartwatch ,3,5402.24,COMPLETED,5
+ORD-300681,2026-08-11,  Central ,Maharashtra,Nagpur,Electronics,Smartphone,2,17123.14,Cancelled,
+ORD-300019,2026-03-04,North,Delhi,Delhi,GROCERY,Cooking Oil 1L,1,183.76,Delivered,3
+ORD-301141,2026-06-08,South,,BENGALURU,Clothing,Cotton T-Shirt,5,517.58,Delivered,2
+ORD-301007,01-Mar-2026,North,,Lucknow,Grocery,Cooking Oil 1L,2,174.91,Delivered,4
+ORD-300483,2026-03-06,Central,Maharashtra,  Nagpur ,HEALTH & BEAUTY,Face Wash,1,263.68,Delivered,4
+ORD-300914,2026-08-18,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,4,2362.30,DELIVERED,3
+ORD-300614,31/02/2026,South,Karnataka,Bengaluru,Health & Beauty,face wash,3,265.67,Delivered,4
+ORD-301248,2026-01-07,South,Tamil Nadu,Chennai,Electronics,Smartphone,3,18022.64,Delivered,2
+ORD-300809,2026-02-12,Southern,Karnataka,Bengaluru,Grocery,Basmati Rice 5kg,1,667.31,Delivered,4
+ORD-301266,2026-04-07,NORTH,HARYANA,Gurugram,Grocery,Green Tea 100 Bags,3,N/A,Delivered,3
+ORD-301619,14/09/2026,North,Haryana,Gurugram,Health & Beauty,Shampoo 400ml,1,419.89,In Transit,
+ORD-300706,2026-03-16,North,Haryana,  Gurugram ,Electronics,Power Bank,1,1405.67,Pending,
+,03-Sep-2026,South,Kerala,Kochi,Grocery,Green Tea 100 Bags,1,376.53,Pending,
+ORD-300533,2026-01-12,Central,MADHYA PRADESH,Indore,Electronics,Wireless Earbuds,2,2592.28,Delivered,3
+ORD-300099,2026-04-04,CENTRAL,Madhya Pradesh,Indore,Grocery,Atta 10kg,4,509.25,Delivered,3
+ORD-300834,2026-05-09,South,TAMIL NADU,Chennai,Grocery,Basmati Rice 5kg,1,650.15,Delivered,3
+ORD-301523,23-Sep-2026,West,Goa,Panaji,Grocery,Green Tea 100 Bags,4,357.53,Returned,4
+ORD-301480,05/08/2026,East,Odisha,Bhubaneswar,Groceries,Cooking Oil 1L,3,186.13,  Delivered ,6
+ORD-301780,2026-04-08,  South ,Kerala,Kochi,Grocery,Cooking Oil 1L,4,207.65,Delivered,4
+ORD-300025,2026-05-03,N,Haryana,Gurugram,Grocery,Atta 10kg,2,513.74,DELIVERED,2
+ORD-301124,23/05/2026,NORTH,Uttar Pradesh,lucknow,Apparel,Cotton T-Shirt,2,493.77,Delivered,2
+ORD-300722,2026-08-29,South,Tamil Nadu,Chennai,Apparel,Running Shoes,1,2869.14,Delivered,4
+ORD-301167,2026-09-28,East,ASSAM,Guwahati,Groceries,Atta 10kg,1,459.81,Shipped,
+ORD-300362,2026-03-15,East,ASSAM,Guwahati,Grocery,Atta 10kg,6,515.68,Pending,
+ORD-301354,2026-09-13,  North ,Rajasthan,Jaipur,Electronics,Smartwatch,1,4822.87,Delivered,3
+ORD-300631,2026-03-08,East,Assam,GUWAHATI,Electronics,Smartphone,1,20747.50,Completed,6
+ORD-300714,2026-07-05,West,Maharashtra,Pune,Health and Beauty,Vitamin C Tablets,1,573.59,DELIVERED,2
+ORD-300569,08/08/2026,North,CHANDIGARH,CHANDIGARH,Groceries,green tea 100 bags,4,367.63,Delivered,
+ORD-301950,2026-07-04,South,KARNATAKA,bengaluru,Electronics,Bluetooth Speaker,1,2922.63,Delivered,4
+ORD-301074,26/02/2026,South,Telangana,Hyderabad,Home & Kitchen,Pressure Cooker,1,2066.62,Pending,
+ORD-301832,2027-03-15,West,Goa,Panaji,Electronics,Wireless Earbuds,2,2609.88,DELIVERED,1
+ORD-300972,2026-08-11,Western,Gujarat,Ahmedabad,Health & Beauty,shampoo 400ml,1,383.92,Delivered,3
+ORD-300853,2026-03-22,South,Telangana,  Hyderabad ,Health & Beauty,Hair Dryer,2,1567.52,Delivered,4
+ORD-301864,2026-03-27,East,West Bengal,Kolkata,Electronics,Smartphone,3,19460.17,Delivered,5
+ORD-301374,17-Apr-2026,South,,Bengaluru,Home & Kitchen,Mixer Grinder,3,3527.15,delivered,2
+ORD-300422,2026-03-04,West,MAHARASHTRA,Mumbai,Electronics,  Wireless Earbuds ,2,2487.10,Delivered,2
+ORD-301630,13-Feb-2026,West,Maharashtra,Pune,Apparel,Denim Jeans,1,1380.96,Cancelled,
+ORD-300812,2026-07-08,Western,  Maharashtra ,  Pune ,Apparel,winter jacket,1,2436.94,Shipped,
+ORD-301899,27/07/2026,West,Goa,Panaji,Grocery,Atta 10kg,3,504.28,Pending,
+ORD-300340,19/02/2026,Central,,INDORE,GROCERIES,Basmati Rice 5kg,3,655.61,Delivered,3
+ORD-301804,2026-02-07,East,West Bengal,Kolkata,Grocery,basmati rice 5kg,3,589.98,Delivered,4
+ORD-300009,2026-08-14,West,Goa,Panaji,Health & Beauty,FACE WASH,1,244.94,Delivered,2
+ORD-301424,2026-01-11,West,Goa,Panaji,Home & Kitchen,  Pressure Cooker ,1,2077.99,Shipped,
+ORD-300317,2026-09-20,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,4,1083.11,Delivered,5
+ORD-301890,15/08/2026,North,HARYANA,Gurugram,Grocery,Atta 10kg,1,511.63,Pending,
+ORD-301021,2026-06-27,East,Bihar,Patna,Clothing,Denim Jeans,5,1490.53,Shipped,
+ORD-301830,17/03/2026,north,Delhi,Delhi,Apparel,Kurta,2,907.02,Delivered,4
+ORD-300870,10/01/2026,SOUTH,Karnataka,Bengaluru,grocery,Cooking Oil 1L,1,199.30,Delivered,3
+ORD-300230,2026-06-02,Western,  Goa ,Panaji,apparel,Cotton T-Shirt,abc,456.28,Delivered,5
+ORD-301840,2026-07-28,East,Assam,Guwahati,Grocery,Dry Fruits 500g,3,833.78,Shipped,
+ORD-301677,06/07/2026,West,Goa,panaji,Home & Kitchen,Pressure Cooker,1,2010.67,Delivered,4
+ORD-301372,2026-07-01,  North ,Haryana,Gurugram,  Home & Kitchen ,Non-Stick Pan,2,1005.64,Delivered,1
+ORD-300630,2026-09-26,East,Assam,Guwahati,Apparel,Winter Jacket,2,2603.19,Delivered,7
+ORD-301090,2026-01-31,west,Gujarat,Ahmedabad,Health & Beauty,Face Wash,4,251.54,Completed,2
+ORD-301159,2026-09-09,E,Bihar,Patna,Electronics,Bluetooth Speaker,1,3013.76,Delivered,9
+ORD-301730,2026-07-12,East,West Bengal,Kolkata,Health & Beauty,Sunscreen,1,424.94,Returned,3
+ORD-300871,05/09/2026,East,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,1,2290.09,Delivered,8
+ORD-301080,2026-09-15,North,Delhi,Delhi,Grocery,Dry Fruits 500g,4,825.95,In Transit,
+ORD-300894,06/03/2026,Western,Goa,Panaji,Health & Beauty,Hair Dryer,3,1668.69,Returned,3
+ORD-301214,2026-05-08,West,Maharashtra,Pune,Grocery,  Atta 10kg ,3,474.79,Completed,4
+ORD-301485,24-Jan-2026,North,Uttar Pradesh,lucknow,Electronics,Power Bank,1,1334.14,Delivered,3
+ORD-301047,2026-03-31,north,RAJASTHAN,Jaipur,Grocery,Atta 10kg,1,546.66,Shipped,
+ORD-300159,10/03/2026,  South ,Telangana,Hyderabad,Grocery,basmati rice 5kg,3,632.56,DELIVERED,2
+ORD-300432,2026-06-09,North,Chandigarh,Chandigarh,Health & Beauty,Shampoo 400ml,3,406.19,Delivered,1
+ORD-301761,19-Feb-2026,north,,Chandigarh,Grocery,Atta 10kg,3,522.84,  Delivered ,2
+ORD-301102,23/09/2026,West,Goa,PANAJI,electronics,Smartwatch,2,4795.39,Delivered,4
+ORD-301607,31/01/2026,South,Kerala,kochi,  Electronics ,Wireless Earbuds,5,2410.14,Pending,
+ORD-300608,04/08/2026,North,Delhi,Delhi,  Grocery ,Basmati Rice 5kg,4,593.90,Cancelled,
+ORD-300702,2026-05-22,East,Odisha,Bhubaneswar,Electronics,Smartphone,1,17277.45,Delivered,5
+ORD-301061,2026-04-26,East,Odisha,Bhubaneswar,  Electronics ,Smartwatch,1,5328.99,Delivered,3
+ORD-301952,08/06/2026,west,Goa,Panaji,Health & Beauty,Hair Dryer,1,1642.94,Delivered,3
+ORD-300121,2026-02-07,West,Goa,Panaji,Electronics,Bluetooth Speaker,2,2804.93,Delivered,3
+ORD-301817,2026-02-19,South,Karnataka,Bengaluru,HEALTH & BEAUTY,Shampoo 400ml,1,403.33,Shipped,
+ORD-300156,2026-04-01,North,Haryana,Gurugram,Health & Beauty,Vitamin C Tablets,3,494.69,Delivered,2
+ORD-300239,2026-05-29,N,Chandigarh,Chandigarh,Home & Kitchen,Non-Stick Pan,4,938.83,Delivered,2
+ORD-300471,2026-07-27,South,Tamil Nadu,chennai,Electronics,Wireless Earbuds,4,2412.45,Delivered,2
+ORD-301158,2026-06-01,North,haryana,Gurugram,Health & Beauty,Hair Dryer,2,1490.05,Shipped,
+ORD-301170,24/08/2026,West,  Maharashtra ,Bombay,Apparel,Kurta,1,839.32,Delivered,3
+ORD-301126,21/09/2026,South,Karnataka,Bengaluru,Electronics,Smartphone,1,19945.14,  Pending ,
+ORD-300199,17/06/2026,East,WEST BENGAL,kolkata,Health & Beauty,Shampoo 400ml,2,383.11,Completed,2
+ORD-301484,21/08/2026,West,Maharashtra,mumbai,Health & Beauty,Vitamin C Tablets,3,549.95,Delivered,3
+ORD-301745,2026-04-24,South,Tamil Nadu,chennai,Grocery,Basmati Rice 5kg,2,677.19,Delivered,3
+ORD-301461,2026-06-02,South,,Bengaluru,Health & Beauty,Shampoo 400ml,1,438.56,Delivered,6
+ORD-301765,2026-05-30,East,Assam,Guwahati,Groceries,Basmati Rice 5kg,5,689.61,Delivered,6
+ORD-300490,2026-05-16,South,Tamil Nadu,Chennai,,Mixer Grinder,2,3813.29,Delivered,3
+ORD-301879,12/04/2026,CENTRAL,Maharashtra,Nagpur,Toys,Atta 10kg,3,529.45,Delivered,2
+ORD-301236,13/07/2026,East,Bihar,Patna,Home & Kitchen,Non-Stick Pan,1,1015.09,Delivered,5
+ORD-300952,24-Mar-2026,Central,Madhya Pradesh,Bhopal,  Electronics ,Power Bank,1,1326.20,Returned,3
+ORD-301256,19/02/2026,East,Bihar,Patna,Apparel,Running Shoes,1,3085.14,Delivered,3
+ORD-300184,20/01/2026,East,West Bengal,Kolkata,Home & Kitchen,Mixer Grinder,1,3159.66,Delivered,6
+ORD-300209,2026-05-20,Central,Madhya Pradesh,Bhopal,Apparel,Cotton T-Shirt,4,534.54,Delivered,3
+ORD-300635,2026-04-15,South,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,1,634.86,Pending,
+ORD-300060,13/03/2026,South,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,3,754.37,  Delivered ,2
+ORD-300034,28/01/2026,West,Goa,Panaji,Electronics,smartphone,1,17569.46,Pending,
+ORD-300594,2026-07-10,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,4,2797.14,delivered,3
+ORD-300883,2026-06-06,West,Gujarat,Ahmedabad,Home & Kitchen,Non-Stick Pan,1,997.27,Delivered,1
+ORD-301528,22/05/2026,Central,Madhya Pradesh,Bhopal,Health & Beauty,Face Wash,1,226.18,Delivered,2
+ORD-301535,15/09/2026,North,Haryana,Gurugram,Electronics,Wireless Earbuds,4,2434.93,Delivered,2
+ORD-301155,21/02/2026,South,Tamil Nadu,Chennai,Electronics,Power Bank,2,1383.69,Cancelled,
+ORD-301559,29/05/2026,East,Assam,Guwahati,Home & Kitchen,LED Bulb Pack,1,405.26,Shipped,
+ORD-300754,2026-06-02,  West ,Gujarat,Ahmedabad,Electronics,smartphone,1,19446.12,Shipped,
+ORD-301189,22/05/2026,Central,Madhya Pradesh,Bhopal,Apparel,Running Shoes,2,3063.53,Delivered,3
+ORD-300222,2026-04-07,East,West Bengal,Kolkata,Electronics,Smartphone,1,19646.36,Delivered,6
+ORD-301585,2026-04-29,  Central ,Madhya Pradesh,Indore,Home & Kitchen,LED Bulb Pack,3,365.79,Delivered,5
+ORD-300764,06/08/2026,North,UTTAR PRADESH,Lucknow,Health & Beauty,Hair Dryer,2,1493.62,Delivered,2
+ORD-301684,28/02/2026,North,Delhi,Delhi,Grocery,Dry Fruits 500g,abc,774.21,Delivered,4
+ORD-301826,2026-04-13,North,  Rajasthan ,JAIPUR,Grocery,Basmati Rice 5kg,1,621.75,Delivered,2
+ORD-301542,2026-08-02,  North ,Chandigarh,Chandigarh,Apparel,Cotton T-Shirt,1,506.18,Delivered,4
+ORD-300188,06-Sep-2026,West,Gujarat,Ahmedabad,Electronics,Power Bank,1,1375.57,Pending,
+ORD-301246,2026-05-15,South,Tamil Nadu,Chennai,Electronics,Wireless Earbuds,1,2586.32,Shipped,
+ORD-300846,29-Jun-2026,East,Bihar,Patna,Electronics,Power Bank,2,1401.55,  Shipped ,
+ORD-300166,2026-04-08,CENTRAL,Madhya Pradesh,Indore,Grocery,Cooking Oil 1L,1,180.91,Delivered,5
+ORD-300868,2026-07-09,North,Delhi,Delhi,Electronics,Power Bank,1,1312.23,Cancelled,
+ORD-301930,23/03/2026,West,Gujarat,  Ahmedabad ,Grocery,Cooking Oil 1L,5,201.46,Delivered,
+ORD-300688,2026-08-21,East,Assam,Guwahati,Apparel,Running Shoes,2,2947.87,  Delivered ,8
+ORD-301810,21/06/2026,East,Odisha,Bhubaneswar,Health & Beauty,sunscreen,4,461.80,Delivered,4
+ORD-300998,11-Feb-2026,West,Maharashtra,Mumbai,Home & Kitchen,Pressure Cooker,1,1765.52,Delivered,2
+ORD-301179,2026-01-16,East,West Bengal,kolkata,apparel,Denim Jeans,1,1578.98,Pending,
+ORD-301035,2026-04-18,North,Delhi,Delhi,  Apparel ,  Running Shoes ,2,2833.55,Delivered,3
+ORD-301995,31-Jul-2026,West,Goa,  Panaji ,Home & Kitchen,Bedsheet Set,1,1217.24,Cancelled,
+ORD-301351,2026-06-08,North,Chandigarh,Chandigarh,Health & Beauty,Hair Dryer,1,1518.37,Delivered,4
+ORD-300751,2026-08-31,West,Goa,Panaji,Electronics,Smartphone,5,18700.87,Shipped,
+ORD-300577,2026-07-23,South,Telangana,Hyderabad,Grocery,Cooking Oil 1L,3,174.07,Delivered,5
+ORD-300419,22/04/2026,West,Maharashtra,Mumbai,Home & Kitchen,Non-Stick Pan,2,977.39,Completed,1
+ORD-300866,19-Feb-2026,North,Chandigarh,chandigarh,Grocery,Atta 10kg,1,533.49,Delivered,1
+ORD-300898,2026-05-22,Western,,Ahmedabad,GROCERY,Basmati Rice 5kg,4,590.53,Shipped,
+ORD-301614,01/06/2026,WEST,Maharashtra,Pune,Electronics,  Smartwatch ,2,5261.52,Pending,
+ORD-300095,26-Apr-2026,  Southern ,Kerala,Kochi,Apparel,kurta,2,885.55,Shipped,
+ORD-301432,2026-06-12,Central,Maharashtra,Nagpur,Grocery,Dry Fruits 500g,1,768.73,Cancelled,
+ORD-300989,04/09/2026,South,Tamil Nadu,CHENNAI,Electronics,Smartwatch,1,4972.57,Delivered,4
+ORD-300623,2026-07-31,East,Assam,  Guwahati ,Grocery,Atta 10kg,4,476.57,Returned,3
+ORD-301108,02/07/2026,East,West Bengal,Kolkata,  Grocery ,Basmati Rice 5kg,2,593.54,  Delivered ,3
+ORD-301049,2026-08-26,South,Karnataka,Bengaluru,Health & Beauty,Face Wash,1,256.51,Delivered,3
+ORD-301673,2026-09-30,East,Odisha,Bhubaneswar,Electronics,Wireless Earbuds,1,2672.10,Completed,7
+ORD-300684,2026-03-30,South,Telangana,Hyderabad,Grocery,Green Tea 100 Bags,3,329.28,Canceled,
+ORD-300703,20/08/2026,South,Telangana,Hyderabad,Health & Beauty,Face Wash,1,261.51,Delivered,4
+ORD-301349,2026-05-22,South,TAMIL NADU,Chennai,  Grocery ,Green Tea 100 Bags,1,319.11,Delivered,2
+ORD-300146,2026-06-28,Central,Maharashtra,Nagpur,Grocery,  Green Tea 100 Bags ,3,357.04,Delivered,4
+ORD-301175,2026-05-26,Western,Maharashtra,Mumbai,Home & Kitchen,  Bedsheet Set ,2,1153.74,Delivered,
+ORD-300360,2026-05-25,Southern,Tamil Nadu,Chennai,Apparel,Kurta,2,959.73,Delivered,2
+ORD-301367,2026-06-24,Central,Maharashtra,Nagpur,Apparel,Cotton T-Shirt,1,478.52,Shipped,
+ORD-301970,2026-05-01,North,Haryana,gurugram,Home & Kitchen,Pressure Cooker,1,1781.38,Delivered,1
+ORD-300131,2026-07-29,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,3,2282.45,Delivered,2
+ORD-300890,23/06/2026,West,Goa,Panaji,Electronics,Smartwatch,2,4793.60,Delivered,4
+ORD-300059,2026-08-01,southern,Tamil Nadu,Chennai,Clothing,Denim Jeans,2,1645.29,Delivered,3
+ORD-301261,19/03/2026,  South ,Kerala,Kochi,Apparel,cotton t-shirt,1,505.80,Delivered,3
+ORD-300019,2026-03-04,North,Delhi,Delhi,GROCERY,Cooking Oil 1L,1,183.76,Delivered,3
+ORD-300941,2026-06-06,North,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,4,625.79,Delivered,4
+ORD-300380,2026-09-05,Central,Chhattisgarh,Raipur,Home & Kitchen,LED Bulb Pack,3,384.77,Delivered,5
+ORD-301173,2026-09-10,North,Haryana,Gurugram,Grocery,Cooking Oil 1L,2,173.03,Delivered,4
+ORD-301341,15-Mar-2026,South,Karnataka,Bengaluru,Electronics,Smartphone,1,17637.34,Returned,3
+ORD-301668,04/09/2026,North,Delhi,Delhi,Electronics,Wireless Earbuds,1,2339.07,Shipped,
+ORD-301712,2026-07-17,Central,Chhattisgarh,Raipur,Electronics,Wireless Earbuds,1,2272.93,Delivered,3
+ORD-300786,2026-02-08,North,  Delhi ,Delhi,Grocery,Atta 10kg,3,463.07,Cancelled,
+ORD-300024,2026-06-01,North,  Chandigarh ,Chandigarh,Grocery,Green Tea 100 Bags,2,328.22,Delivered,3
+ORD-301030,2026-03-16,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,1,1294.88,delivered,2
+ORD-301295,2026-05-13,North,Chandigarh,Chandigarh,Health & Beauty,Sunscreen,2,458.56,Pending,
+ORD-300813,2026-05-02,Southern,Telangana,Hyderabad,health & beauty,Face Wash,2,249.49,COMPLETED,4
+ORD-301407,03/03/2026,Central,Maharashtra,Nagpur,Electronics,Bluetooth Speaker,1,3168.29,Delivered,2
+ORD-300103,2026-09-17,Western,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,2,3059.65,DELIVERED,2
+ORD-301719,19/05/2026,North,Uttar Pradesh,Lucknow,Electronics,  Wireless Earbuds ,1,2475.76,Shipped,
+ORD-301859,2026-03-16,South,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,1,3025.86,Shipped,
+ORD-300004,21-Aug-2026,NORTH,CHANDIGARH,Chandigarh,Health & Beauty,Sunscreen,4,417.00,Delivered,2
+ORD-300762,05-May-2026,South,Tamil Nadu,Chennai,Home & Kitchen,Bedsheet Set,1,1235.70,Returned,2
+ORD-300063,18/04/2026,South,Kerala,Kochi,Home & Kitchen,Non-Stick Pan,2,905.66,Delivered,1
+ORD-301971,2026-09-25,East,Bihar,Patna,Home & Kitchen,LED Bulb Pack,3,413.57,Delivered,8
+ORD-300776,07/01/2026,West,Gujarat,Ahmedabad,Health & Beauty,hair dryer,2,1633.39,Delivered,5
+ORD-300172,2026-02-15,West,Gujarat,Ahmedabad,  Apparel ,Running Shoes,1,2955.92,Pending,
+ORD-301601,23-Jul-2026,North,Uttar Pradesh,Lucknow,Grocery,  Atta 10kg ,4,532.25,Delivered,1
+ORD-300958,2026-08-30,Central,  Madhya Pradesh ,Bhopal,Electronics,Power Bank,1,1246.10,Delivered,
+ORD-300351,18/08/2026,N,Rajasthan,Jaipur,Health & Beauty,Face Wash,1,246.06,Delivered,3
+ORD-301613,2026-07-25,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,1,2301.40,  Pending ,
+ORD-300760,2026-04-07,South,Kerala,Kochi,Electronics,bluetooth speaker,2,3042.14,Delivered,
+ORD-301851,2026-02-20,North,Rajasthan,Jaipur,Health & Beauty,Hair Dryer,2,1739.81,Delivered,2
+ORD-300735,2026-01-08,South,Tamil Nadu,Chennai,Electronics,Bluetooth Speaker,2,3110.28,Delivered,1
+ORD-300085,20/07/2026,North,Rajasthan,Jaipur,Apparel,Kurta,1,812.92,DELIVERED,1
+ORD-300979,20/04/2026,east,Bihar,Patna,Health & Beauty,Vitamin C Tablets,2,572.80,Completed,4
+ORD-300229,13-Aug-2026,South,Telangana,Hyderabad,home & kitchen,LED Bulb Pack,3,405.67,Delivered,4
+ORD-301687,2026-04-19,West,Maharashtra,Mumbai,Grocery,Dry Fruits 500g,3,875.42,Cancelled,
+ORD-300993,2026-04-27,West,,Pune,GROCERY,Dry Fruits 500g,3,722.06,Delivered,2
+ORD-300071,17/04/2026,Central,Maharashtra,Nagpur,Grocery,Basmati Rice 5kg,3,700.13,delivered,5
+ORD-301968,08/09/2026,West,MAHARASHTRA,Mumbai,Grocery,Cooking Oil 1L,2,188.04,Completed,2
+ORD-300282,04/09/2026,North,Uttar Pradesh,lucknow,Groceries,Basmati Rice 5kg,1,625.36,Delivered,1
+ORD-301828,14-Jun-2026,West,goa,  Panaji ,health & beauty,shampoo 400ml,2,418.57,delivered,1
+ORD-301123,2026-09-11,South,Kerala,Kochi,Apparel,Winter Jacket,1,2549.96,Delivered,4
+ORD-300198,2026-09-03,East,Odisha,Bhubaneswar,Health & Beauty,Sunscreen,2,445.90,Cancelled,
+ORD-301872,15-Mar-2026,West,  Maharashtra ,Pune,Health and Beauty,Hair Dryer,3,1663.39,Delivered,1
+ORD-300155,10/08/2026,South,Telangana,Hyderabad,Electronics,POWER BANK,2,1241.89,Delivered,4
+ORD-301437,2026-05-15,South,Tamil Nadu,Madras,Health & Beauty,Face Wash,1,224.11,  Delivered ,1
+ORD-301436,2026-04-06,E,Assam,GUWAHATI,Apparel,Denim Jeans,1,1552.90,Delivered,4
+ORD-300746,2026-03-21,Southern,Tamil Nadu,CHENNAI,HOME & KITCHEN,Non-Stick Pan,2,1068.80,DELIVERED,3
+ORD-300818,2026-09-04,Central,Maharashtra,Nagpur,Grocery,Basmati Rice 5kg,4,652.28,Completed,2
+ORD-301133,14/08/2026,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,1,2730.49,Delivered,4
+ORD-300653,2026-05-20,West,Goa,Panaji,Electronics,Smartwatch,4,5366.49,Delivered,3
+ORD-301081,2026-04-19,West,Maharashtra,Pune,Home & Kitchen,Non-Stick Pan,1,909.94,Shipped,
+ORD-300254,01/05/2026,East,Bihar,PATNA,Apparel,Kurta,3,923.68,Delivered,5
+ORD-300704,21-Aug-2026,West,Maharashtra,Mumbai,Electronics,Smartwatch,1,4738.54,Delivered,4
+ORD-300720,11-Sep-2026,N,Uttar Pradesh,Lucknow,  Apparel ,Denim Jeans,1,1528.90,Delivered,2
+ORD-300666,2026-09-17,west,Gujarat,Ahmedabad,groceries,Cooking Oil 1L,4,181.51,Completed,1
+ORD-301006,2026-05-18,East,Bihar,Patna,Home & Kitchen,Non-Stick Pan,2,967.28,Delivered,2
+ORD-300281,26/07/2026,West,Gujarat,Ahmedabad,GROCERY,Cooking Oil 1L,3,173.23,delivered,1
+ORD-300167,07/07/2026,Central,Chhattisgarh,Raipur,Electronics,Bluetooth Speaker,3,2948.12,Delivered,5
+ORD-301996,27/04/2026,Central,Madhya Pradesh,Bhopal,Grocery,Basmati Rice 5kg,1,590.73,Returned,2
+ORD-301969,2026-01-11,Central,Madhya Pradesh,Bhopal,Grocery,Dry Fruits 500g,3,864.26,Completed,5
+ORD-301708,2026-05-25,South,Tamil Nadu,Chennai,Electronics,  Bluetooth Speaker ,3,2733.91,Delivered,4
+ORD-300300,2026-02-09,Western,  Gujarat ,  Ahmedabad ,HEALTH & BEAUTY,Face Wash,1,236.19,Delivered,3
+ORD-301788,2026-06-24,Central,Madhya Pradesh,Bhopal,Electronics,Bluetooth Speaker,1,3055.71,Pending,
+ORD-301386,2026-02-02,Central,madhya pradesh,  Indore ,Grocery,Dry Fruits 500g,7,736.99,Delivered,5
+ORD-301106,2026-01-18,West,Goa,PANAJI,Home & Kitchen,Pressure Cooker,4,1731.81,Pending,
+ORD-300788,05/04/2026,Southern,Kerala,Kochi,Apparel,  Running Shoes ,1,3191.14,Delivered,4
+ORD-301974,2026-08-08,South,telangana,Hyderabad,Home & Kitchen,Bedsheet Set,1,1135.51,Cancelled,
+ORD-301669,2026-08-14,Western,Gujarat,Ahmedabad,Grocery,Basmati Rice 5kg,3,658.72,Shipped,
+ORD-300642,2026-03-10,West,Maharashtra,Pune,Health & Beauty,Shampoo 400ml,1,411.37,Returned,2
+ORD-300298,2026-08-23,South,Kerala,Kochi,Grocery,Basmati Rice 5kg,1,597.24,Delivered,3
+ORD-300981,2026-07-13,South,Tamil Nadu,Chennai,Apparel,Kurta,1,963.51,Delivered,
+ORD-301369,2026-09-04,North,chandigarh,Chandigarh,Health & Beauty,Shampoo 400ml,2,435.14,Shipped,
+ORD-301940,24/06/2026,South,Telangana,Hyderabad,Grocery,DRY FRUITS 500G,4,805.87,Delivered,5
+ORD-301686,2026-02-11,South,Karnataka,Bangalore,Health & Beauty,Hair Dryer,2,1547.37,Completed,4
+ORD-300140,2026-09-02,West,,Ahmedabad,Electronics,bluetooth speaker,2,3010.31,Delivered,2
+ORD-301749,2026-02-28,East,Assam,Guwahati,grocery,Basmati Rice 5kg,1,701.64,Delivered,3
+ORD-300734,2026-05-23,Central,Madhya Pradesh,Bhopal,Health & Beauty,Shampoo 400ml,2,421.25,Shipped,
+ORD-301785,21-Jun-2026,Central,Madhya Pradesh,  Bhopal ,Electronics,Power Bank,1,1297.08,Delivered,2
+ORD-300581,2026-06-29,North,Haryana,gurugram,Electronics,Power Bank,3,1261.37,Delivered,3
+ORD-301278,2026-05-21,  East ,,Kolkata,Apparel,Winter Jacket,4,2680.93,Delivered,5
+ORD-300252,30/06/2026,West,Goa,Panaji,Home & Kitchen,Non-Stick Pan,2,949.41,DELIVERED,1
+ORD-300917,2026-02-20,West,Gujarat,Ahmedabad,Home & Kitchen,LED Bulb Pack,1,431.33,Pending,
+ORD-300352,2026-06-20,West,Goa,Panaji,Apparel,Cotton T-Shirt,2,517.16,Delivered,3
+ORD-300108,03/09/2026,South,Karnataka,Bengaluru,Apparel,Winter Jacket,1,2424.17,Delivered,2
+ORD-301947,2026-06-22,Central,Madhya Pradesh,Bhopal,Electronics,Smartphone,4,19362.08,Completed,
+ORD-300135,2026-07-04,east,Assam,Guwahati,Home & Kitchen,Pressure Cooker,1,1762.38,Delivered,4
+ORD-301177,19/06/2026,West,Maharashtra,Pune,Apparel,Cotton T-Shirt,3,511.50,Delivered,3
+ORD-301568,2026-07-31,West,  Goa ,  Panaji ,Grocery,Dry Fruits 500g,4,771.34,Delivered,2
+ORD-301691,2026-06-14,South,,kochi,Home & Kitchen,Non-Stick Pan,2,922.18,DELIVERED,4
+ORD-300157,2026-08-29,North,Rajasthan,Jaipur,Health & Beauty,Shampoo 400ml,3,423.05,Delivered,3
+ORD-300056,2026-04-19,South,Kerala,Kochi,Health & Beauty,Sunscreen,1,411.62,Delivered,3
+ORD-301775,06/03/2026,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer Grinder,1,3496.69,in transit,
+ORD-300402,2026-06-06,East,  West Bengal ,KOLKATA,Grocery,Green Tea 100 Bags,3,326.77,Delivered,4
+ORD-301821,2026-01-06,NORTH,Delhi,Delhi,Health & Beauty,Vitamin C Tablets,1,514.27,Pending,
+ORD-300423,25/07/2026,South,Telangana,Hyderabad,apparel,Running Shoes,3,3250.85,Completed,3
+ORD-300847,2026-09-05,South,Telangana,hyderabad,Grocery,Green Tea 100 Bags,4,324.06,Delivered,1
+ORD-301871,yesterday,Central,Madhya Pradesh,INDORE,Apparel,Kurta,3,828.21,Delivered,
+ORD-300715,27/01/2026,East,,  Guwahati ,Grocery,Basmati Rice 5kg,1,685.21,Delivered,2
+ORD-300574,2026-09-07,West,  Maharashtra ,Pune,Electronics,Power Bank,2,1357.42,Completed,1
+ORD-301994,2026-07-24,North,Rajasthan,Jaipur,Grocery,Dry Fruits 500g,1,833.34,  Delivered ,3
+ORD-301466,2026-07-12,E,West Bengal,Kolkata,Electronics,Wireless Earbuds,1,2671.13,Completed,5
+ORD-301961,05/08/2026,East,Odisha,Bhubaneswar,apparel,Winter Jacket,1,2288.08,Delivered,4
+ORD-300919,02/05/2026,South,Tamil Nadu,Chennai,Electronics,Smartphone,1,19103.37,Delivered,3
+ORD-300348,2026-05-26,North,Haryana,Gurugram,Grocery,Dry Fruits 500g,1,874.12,Delivered,1
+ORD-301168,2026-04-04,Southern,Kerala,  Kochi ,  Apparel ,Running Shoes,1,2857.48,Delivered,3
+ORD-301658,2026-05-14,E,Bihar,Patna,Electronics,Power Bank,1,1273.48,delivered,4
+12345,2026-02-05,Central,  Maharashtra ,Nagpur,Grocery,Green Tea 100 Bags,2,377.82,Delivered,5
+ORD-300223,15/08/2026,East,Bihar,Patna,Apparel,Running Shoes,3,3243.79,Delivered,5
+ORD-300987,2026-09-12,North,  Chandigarh ,Chandigarh,Electronics,Smartphone,1,17377.73,Shipped,
+ORD-300082,2026-01-25,East,Assam,GUWAHATI,Apparel,running shoes,3,2717.06,Pending,
+ORD-300344,22/05/2026,East,Odisha,Bhubaneswar,Apparel,Winter Jacket,2,2369.67,Delivered,3
+ORD-301792,2026-07-20,East,Assam,Guwahati,GROCERY,Cooking Oil 1L,1,182.81,Delivered,2
+ORD-300995,10-Sep-2026,West,Maharashtra,Bombay,Home & Kitchen,Pressure Cooker,2,2042.50,Delivered,4
+ORD-300849,14/03/2026,South,kerala,Kochi,Grocery,Basmati Rice 5kg,1,587.11,Delivered,3
+ORD-301641,2026-03-10,North,Rajasthan,Jaipur,Grocery,Atta 10kg,3,512.51,Shipped,
+ORD-301513,2026-06-09,Central,Madhya Pradesh,Bhopal,Apparel,Cotton T-Shirt,2,514.16,Completed,5
+ORD-300566,11-Sep-2026,South,Telangana,Hyderabad,Electronics,Wireless Earbuds,3,2436.91,Delivered,3
+ORD-300174,08-Apr-2026,South,Karnataka,Bengaluru,Home & Kitchen,led bulb pack,1,359.52,Delivered,
+ORD-300804,2026-06-26,North,delhi,Delhi,electronics,bluetooth speaker,1,2942.56,Delivered,4
+ORD-301520,2026-07-07,North,RAJASTHAN,Jaipur,electronics,Smartphone,1,18941.95,Delivered,1
+ORD-301911,2026-02-11,North,Delhi,Delhi,GROCERY,Cooking Oil 1L,2,195.19,Delivered,5
+ORD-300175,2026-07-13,North,Delhi,Delhi,Health & Beauty,Shampoo 400ml,1,379.56,Delivered,2
+ORD-300560,14/03/2026,WEST,  Goa ,  Panaji ,grocery,Dry Fruits 500g,3,839.86,Delivered,1
+ORD-300765,2026-08-29,South,,Bengaluru,Home & Kitchen,NON-STICK PAN,2,1096.92,DELIVERED,3
+ORD-301316,25/09/2026,  North ,Rajasthan,Jaipur,Electronics,Power Bank,1,1390.58,Delivered,1
+ORD-301525,04/02/2026,North,Haryana,Gurugram,Home & Kitchen,Mixer Grinder,1,3507.96,Cancelled,
+ORD-300687,2026-06-20,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,3,471.12,Cancelled,
+ORD-300303,2026-05-16,East,West Bengal,Kolkata,Grocery,Cooking Oil 1L,3,175.14,Cancelled,
+ORD-301754,12/09/2026,East,WEST BENGAL,Kolkata,Home & Kitchen,Bedsheet Set,3,1234.80,Cancelled,
+ORD-300186,2026-03-25,East,West Bengal,Kolkata,Groceries,Cooking Oil 1L,1,195.22,Shipped,
+ORD-300337,2026-03-04,North,Delhi,Delhi,Electronics,Smartphone,1,17874.87,Delivered,1
+ORD-301653,2026-01-18,North,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,2,1773.87,Delivered,1
+ORD-301760,2026-05-02,North,Delhi,Delhi,Apparel,Kurta,1,906.86,Delivered,3
+ORD-301945,2026-05-15,Central,Madhya Pradesh,Indore,Apparel,kurta,1,982.39,In Transit,
+ORD-300346,18-Aug-2026,southern,Telangana,Hyderabad,Grocery,Cooking Oil 1L,4,184.13,Delivered,4
+ORD-300831,2026-08-02,Central,Chhattisgarh,Raipur,Health and Beauty,Sunscreen,2,411.05,Delivered,5
+ORD-301235,2026-04-14,West,Maharashtra,Mumbai,home & kitchen,LED Bulb Pack,1,432.84,  Delivered ,4
+ORD-301642,28/09/2026,East,ASSAM,guwahati,Apparel,Cotton T-Shirt,1,522.68,Delivered,7
+ORD-301649,2026-02-27,EAST,West Bengal,Kolkata,Grocery,Atta 10kg,7,497.95,  Delivered ,4
+ORD-301390,2026-08-13,North,Chandigarh,Chandigarh,Clothing,Denim Jeans,4,1367.11,delivered,3
+ORD-301665,2026-03-24,SOUTH,TAMIL NADU,Chennai,Apparel,Running Shoes,1,2789.40,Delivered,1
+ORD-300220,2026-06-16,West,maharashtra,Pune,  Apparel ,running shoes,3,3056.28,Delivered,3
+ORD-300293,2026-07-05,east,West Bengal,Kolkata,Grocery,Green Tea 100 Bags,4,332.90,Delivered,5
+ORD-300807,2026-06-02,North,Rajasthan,Jaipur,Grocery,Cooking Oil 1L,5,200.75,Delivered,3
+ORD-300905,2026-01-01,South,telangana,HYDERABAD,Apparel,Cotton T-Shirt,1,529.06,Delivered,4
+ORD-300482,2026-04-22,South,Karnataka,Bengaluru,Grocery,Basmati Rice 5kg,6,670.49,Delivered,1
+ORD-300877,23-Aug-2026,West,Gujarat,ahmedabad,Home & Kitchen,PRESSURE COOKER,1,1742.79,Delivered,2
+ORD-300940,2026-09-08,Central,MADHYA PRADESH,Indore,Clothing,Kurta,5,906.28,  Delivered ,2
+ORD-301368,2026-05-03,North,Uttar Pradesh,Lucknow,Health & Beauty,Sunscreen,4,485.97,Delivered,2
+ORD-301853,2026-07-22,  West ,Maharashtra,Mumbai,Grocery,Green Tea 100 Bags,3,347.87,Shipped,
+ORD-301987,13/03/2026,North,  Haryana ,Gurugram,Health & Beauty,Hair Dryer,3,1697.53,Delivered,2
+ORD-300986,06/08/2026,E,Bihar,Patna,Apparel,Denim Jeans,1,1387.82,Delivered,7
+ORD-301147,19/07/2026,South,Kerala,Kochi,Grocery,Atta 10kg,3,535.33,Delivered,4
+ORD-301934,2026-04-21,East,Assam,Guwahati,Grocery,Dry Fruits 500g,8,729.82,Delivered,4
+ORD-301565,2026-02-27,South,Tamil Nadu,Chennai,Apparel,Winter Jacket,1,2572.59,Shipped,
+ORD-300141,2026-01-23,Central,Madhya Pradesh,Bhopal,Home & Kitchen,Pressure Cooker,5,2042.21,Delivered,4
+ORD-301144,22-May-2026,North,chandigarh,Chandigarh,Groceries,Green Tea 100 Bags,3,359.13,Delivered,3
+ORD-301496,2026-08-28,West,Maharashtra,  Pune ,Health & Beauty,Hair Dryer,1,1728.02,Delivered,1
+ORD-301907,2026-02-22,EAST,Odisha,Bhubaneswar,Apparel,Kurta,1,873.28,Delivered,4
+ORD-300289,05/01/2026,North,Delhi,Delhi,Toys,Wireless Earbuds,1,2707.83,Shipped,
+ORD-301720,2026-09-25,Southern,,Kochi,Electronics,Wireless Earbuds,3,2381.22,Returned,3
+ORD-300366,yesterday,Western,  Gujarat ,Ahmedabad,Grocery,Basmati Rice 5kg,1,709.85,Canceled,
+ORD-301739,2026-07-07,Western,Goa,panaji,apparel,Cotton T-Shirt,1,495.41,Completed,2
+ORD-300674,2026-02-04,North,Delhi,Delhi,Health & Beauty,Hair Dryer,1,1484.06,Delivered,5
+ORD-301782,12/07/2026,North,rajasthan,Jaipur,GROCERY,Green Tea 100 Bags,5,331.48,Delivered,2
+ORD-301413,2026-08-29,East,Odisha,Bhubaneswar,Grocery,Dry Fruits 500g,4,768.92,Delivered,
+ORD-300271,2026-08-24,Central,Chhattisgarh,Raipur,Electronics,Smartphone,4,20409.05,Delivered,4
+ORD-300310,15-Mar-2026,South,kerala,Kochi,Home & Kitchen,LED Bulb Pack,2,432.60,Returned,3
+ORD-300277,2026-03-15,South,KARNATAKA,Bengaluru,Grocery,Basmati Rice 5kg,5,620.91,DELIVERED,3
+ORD-300042,2026-07-18,North,Chandigarh,Chandigarh,Health & Beauty,Sunscreen,1,441.29,delivered,1
+ORD-301616,2026-02-07,East,Assam,Guwahati,Health & Beauty,Face Wash,1,233.30,Pending,
+ORD-300125,29/04/2026,South,Telangana,hyderabad,Health & Beauty,Vitamin C Tablets,1,560.32,Delivered,4
+ORD-301600,2026-05-11,West,Goa,Panaji,Electronics,SMARTPHONE,2,20678.92,Delivered,2
+ORD-301825,2026-08-23,South,Karnataka,Bengaluru,Grocery,  Basmati Rice 5kg ,7,593.42,Pending,
+ORD-301333,19/03/2026,south,Telangana,Hyderabad,Electronics,Wireless Earbuds,1,2544.67,Completed,4
+ORD-301042,17/07/2026,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,3,511.07,Completed,3
+ORD-301629,2026-04-07,North,Chandigarh,Chandigarh,Grocery,Dry Fruits 500g,2,755.37,Delivered,1
+ORD-300553,2026-08-22,North,UTTAR PRADESH,Lucknow,Grocery,Cooking Oil 1L,3,203.82,Delivered,4
+ORD-301502,2026-03-19,North,Uttar Pradesh,Lucknow,Electronics,Bluetooth Speaker,2,3243.06,Delivered,3
+ORD-300339,23/05/2026,West,Maharashtra,Mumbai,Apparel,Kurta,1,936.62,DELIVERED,2
+ORD-301111,2026-07-05,North,Rajasthan,Jaipur,Health and Beauty,Face Wash,2,254.71,Shipped,
+ORD-301009,2026-01-03,South,Kerala,Kochi,Clothing,Cotton T-Shirt,1,523.43,Delivered,2
+ORD-300795,2026-09-25,West,Maharashtra,Mumbai,Grocery,DRY FRUITS 500G,5,743.28,Delivered,2
+ORD-300086,2026-08-17,South,Tamil Nadu,Chennai,electronics,Wireless Earbuds,2,2398.38,Delivered,4
+ORD-301579,2026-06-01,North,Rajasthan,Jaipur,Grocery,Dry Fruits 500g,1,742.12,Delivered,4
+ORD-301029,29/06/2026,North,,Jaipur,Health & Beauty,Sunscreen,1,444.94,delivered,3
+ORD-300359,2026-04-13,N,Chandigarh,Chandigarh,Grocery,Basmati Rice 5kg,2,608.86,Delivered,3
+ORD-300367,22/09/2026,Central,Maharashtra,Nagpur,Grocery,Dry Fruits 500g,4,749.59,delivered,2
+ORD-300549,2026-01-28,N,Haryana,Gurugram,  Electronics ,Smartwatch,2,4811.30,DELIVERED,2
+ORD-300879,2026-06-15,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,4,329.76,Delivered,3
+ORD-301008,2026-05-02,South,Kerala,Kochi,Apparel,Kurta,1,911.54,delivered,2
+ORD-301342,28/05/2026,central,madhya pradesh,Indore,Electronics,Power Bank,1,1232.10,  Delivered ,4
+ORD-300116,2026-08-16,Southern,Karnataka,Bengaluru,Electronics,Wireless Earbuds,2,2283.57,Pending,
+ORD-300921,2026-01-05,South,Telangana,Hyderabad,Apparel,Winter Jacket,1,2521.71,Pending,
+ORD-300679,2026-05-25,West,Maharashtra,Mumbai,  Health & Beauty ,Hair Dryer,1,1630.76,Delivered,3
+ORD-301671,2026-06-22,West,Maharashtra,Pune,Grocery,Dry Fruits 500g,3,727.62,Delivered,2
+ORD-301982,2026-09-18,West,maharashtra,Bombay,Electronics,SMARTWATCH,3,5029.55,  Delivered ,5
+ORD-301326,2026-08-15,West,Maharashtra,mumbai,Grocery,Green Tea 100 Bags,5,346.35,Cancelled,
+ORD-300343,15/08/2026,North,Chandigarh,CHANDIGARH,Grocery,Dry Fruits 500g,2,803.16,delivered,3
+ORD-301050,15-Sep-2026,North,  Chandigarh ,Chandigarh,Grocery,Basmati Rice 5kg,2,614.73,Delivered,3
+ORD-301314,13-Jun-2026,Central,Madhya Pradesh,Indore,Grocery,Green Tea 100 Bags,1,327.16,Delivered,3
+ORD-300051,2026-04-11,West,GUJARAT,Ahmedabad,Home & Kitchen,LED Bulb Pack,2,391.71,Delivered,1
+ORD-300150,15/01/2026,  North ,  Rajasthan ,Jaipur,Grocery,Dry Fruits 500g,1,818.42,delivered,3
+ORD-300272,2026-07-13,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,3,2730.65,Delivered,4
+ORD-301603,2026-03-27,  North ,uttar pradesh,Lucknow,Grocery,  Dry Fruits 500g ,2,764.82,Cancelled,
+ORD-300697,07/09/2026,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,5,3183.51,In Transit,
+ORD-300213,2026-01-20,West,Maharashtra,Mumbai,Health & Beauty,Hair Dryer,2,1612.62,Delivered,3
+ORD-300763,yesterday,West,MAHARASHTRA,Pune,Home & Kitchen,LED BULB PACK,1,419.42,SHIPPED,
+ORD-301263,30/08/2026,South,Tamil Nadu,chennai,Health & Beauty,vitamin c tablets,2,508.24,Delivered,2
+ORD-300721,13/04/2026,South,Karnataka,Bengaluru,Electronics,Wireless Earbuds,6,2423.99,Delivered,3
+ORD-301233,2026-02-28,north,Delhi,Delhi,Apparel,Kurta,3,848.74,shipped,
+ORD-300951,03/06/2026,west,Goa,Panaji,Apparel,kurta,1,833.16,Delivered,
+ORD-300372,2026-09-21,Central,Maharashtra,Nagpur,Electronics,bluetooth speaker,2,2995.33,Delivered,2
+ORD-301366,2026-09-21,North,Delhi,delhi,Electronics,Wireless Earbuds,2,2475.94,Delivered,4
+ORD-300848,20-Jul-2026,West,Maharashtra,Mumbai,Health & Beauty,Sunscreen,2,472.56,Shipped,
+ORD-301587,18/09/2026,South,telangana,hyderabad,Electronics,Smartphone,5,20800.63,Delivered,1
+ORD-301037,2026-09-02,North,,Jaipur,Electronics,Wireless Earbuds,1,2401.87,Delivered,3
+ORD-300787,2026-06-20,East,Bihar,Patna,Home & Kitchen,LED Bulb Pack,1,380.72,Pending,
+ORD-300923,2026-06-02,Central,Chhattisgarh,raipur,Home & Kitchen,LED Bulb Pack,1,431.23,DELIVERED,3
+ORD-300433,22/02/2026,N,Chandigarh,Chandigarh,Health & Beauty,Vitamin C Tablets,1,497.79,Delivered,2
+ORD-301350,2026-09-15,north,Chandigarh,  Chandigarh ,electronics,Bluetooth Speaker,2,3196.14,Delivered,
+ORD-300903,09/09/2026,East,Assam,Guwahati,home & kitchen,Pressure Cooker,1,1974.65,Delivered,6
+ORD-300375,30/05/2026,Central,Madhya Pradesh,Indore,clothing,Cotton T-Shirt,1,494.94,Delivered,1
+ORD-300897,2026-09-06,East,Odisha,Bhubaneswar,Grocery,Basmati Rice 5kg,6,707.59,Completed,
+ORD-300885,2026-08-20,South,Tamil Nadu,Madras,Electronics,Power Bank,1,1344.10,Cancelled,
+ORD-301201,05/05/2026,West,Goa,Panaji,Health & Beauty,Sunscreen,1,453.08,Delivered,2
+ORD-300652,2026-04-27,South,Tamil Nadu,CHENNAI,Electronics,Bluetooth Speaker,2,3033.16,Delivered,5
+ORD-301488,2026-07-28,Central,Chhattisgarh,Raipur,Electronics,Smartphone,2,19756.01,Delivered,2
+ORD-300672,15/09/2026,South,Kerala,Kochi,Apparel,Winter Jacket,3,2308.49,Shipped,
+ORD-301494,2026-04-19,Central,Madhya Pradesh,  Indore ,Home & Kitchen,  Non-Stick Pan ,2,1047.74,  Delivered ,5
+ORD-300248,2026-02-20,Central,chhattisgarh,Raipur,Home & Kitchen,Pressure Cooker,1,1929.80,Delivered,3
+ORD-300301,2026-06-15,North,Haryana,Gurugram,Health & Beauty,Shampoo 400ml,1,417.91,Cancelled,
+ORD-300997,2026-09-23,South,Karnataka,Bengaluru,Apparel,Kurta,1,956.02,Pending,
+ORD-300554,29/03/2026,  South ,Kerala,Kochi,Home & Kitchen,Bedsheet Set,1,1170.19,Delivered,1
+ORD-300944,19/02/2026,West,  Goa ,Panaji,Home & Kitchen,LED Bulb Pack,2,379.72,Delivered,5
+ORD-300084,2026-09-02,Western,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,2,2554.94,Completed,2
+ORD-300827,2026-05-21,West,Maharashtra,Pune,Grocery,cooking oil 1l,3,201.48,  Delivered ,4
+ORD-300500,19/01/2026,West,goa,Panaji,home and kitchen,LED Bulb Pack,1,373.39,DELIVERED,4
+ORD-301753,2026-09-26,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,2706.95,Delivered,3
+ORD-301307,19-Aug-2026,North,  Delhi ,Delhi,Apparel,Winter Jacket,3,2714.14,Delivered,3
+ORD-300365,2026-04-24,West,Maharashtra,Pune,Electronics,Smartwatch,1,4555.95,  Shipped ,
+ORD-300908,07-Aug-2026,North,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,1,1816.70,Completed,1
+ORD-301127,16/06/2026,West,Gujarat,Ahmedabad,Apparel,Cotton T-Shirt,2,461.55,Delivered,2
+ORD-301430,2026-08-04,central,Chhattisgarh,Raipur,Home & Kitchen,Pressure Cooker,1,1886.94,Delivered,3
+ORD-301569,2026-01-06,North,Uttar Pradesh,Lucknow,Health & Beauty,  Face Wash ,1,232.26,delivered,1
+ORD-300634,2026-09-10,North,Delhi,Delhi,Grocery,green tea 100 bags,3,317.67,delivered,3
+ORD-300982,02/08/2026,North,Chandigarh,Chandigarh,Apparel,Denim Jeans,2,1443.92,Cancelled,
+ORD-301572,2026-04-06,East,West Bengal,Kolkata,Health & Beauty,Sunscreen,3,476.10,Delivered,4
+ORD-301573,2026-03-25,West,Maharashtra,Mumbai,grocery,Cooking Oil 1L,4,207.21,Delivered,4
+ORD-300619,2026-04-19,  East ,Assam,Guwahati,Apparel,DENIM JEANS,1,1620.46,Delivered,3
+ORD-301631,08-Aug-2026,Central,Maharashtra,Nagpur,Grocery,atta 10kg,3,508.60,Delivered,5
+ORD-301361,2026-07-25,East,West Bengal,Kolkata,Health & Beauty,Hair Dryer,2,1610.35,Delivered,4
+ORD-301470,19-Jun-2026,West,Goa,panaji,Grocery,Cooking Oil 1L,3,205.19,Delivered,3
+ORD-301883,2026-03-09,East,Bihar,Patna,Health & Beauty,Sunscreen,1,447.14,Delivered,6
+ORD-300463,29/08/2026,North,Chandigarh,Chandigarh,Apparel,Denim Jeans,1,1505.78,Delivered,1
+ORD-300388,2026-01-23,North,CHANDIGARH,Chandigarh,apparel,Winter Jacket,1,2669.14,Delivered,2
+ORD-301058,2026-04-17,West,Gujarat,Ahmedabad,Health & Beauty,Vitamin C Tablets,2,587.77,Shipped,
+ORD-301904,2026-09-22,South,,Chennai,Electronics,Wireless Earbuds,1,2627.56,Completed,4
+ORD-301131,2026-08-25,North,  Haryana ,Gurgaon,Home & Kitchen,LED BULB PACK,2,416.98,  Delivered ,1
+ORD-300374,2026-09-21,West,Maharashtra,Pune,Grocery,Dry Fruits 500g,5,750.06,Delivered,1
+ORD-301530,13-Jul-2026,East,Bihar,patna,Apparel,Kurta,2,936.73,Delivered,3
+ORD-300552,29-Sep-2026,West,Gujarat,AHMEDABAD,Electronics,Wireless Earbuds,3,2622.14,Delivered,1
+ORD-300824,2026-04-24,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,3178.59,Delivered,4
+ORD-301718,19-Sep-2026,Western,,Pune,Apparel,Winter Jacket,1,2442.06,cancelled,
+ORD-301286,09/03/2026,West,  Gujarat ,Ahmedabad,Home & Kitchen,Non-Stick Pan,1,1038.67,Delivered,2
+ORD-300767,2026-09-21,Central,Chhattisgarh,Raipur,Grocery,Dry Fruits 500g,2,739.16,Delivered,2
+ORD-301870,2026-05-29,west,Maharashtra,mumbai,apparel,Kurta,2,967.38,Completed,4
+ORD-301855,2026-02-20,South,Karnataka,Bengaluru,Home & Kitchen,Non-Stick Pan,1,978.68,Delivered,3
+ORD-301364,2026-05-07,North,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,2,2301.05,Delivered,3
+ORD-300279,2026-09-15,Central,chhattisgarh,Raipur,Grocery,Dry Fruits 500g,1,754.85,Shipped,
+ORD-301867,2026-07-15,West,Goa,  Panaji ,Apparel,cotton t-shirt,2,455.54,Delivered,2
+ORD-300226,24/06/2026,West,  Goa ,  Panaji ,Electronics,  Bluetooth Speaker ,1,2928.72,Delivered,6
+ORD-301741,04/06/2026,East,West Bengal,Kolkata,ELECTRONICS,Smartwatch,2,5451.48,Delivered,2
+ORD-301291,02/03/2026,West,Maharashtra,Pune,Grocery,Cooking Oil 1L,3,192.87,Delivered,3
+ORD-300040,2026-08-29,East,Bihar,Patna,Electronics,Smartwatch,2,4588.13,Delivered,8
+ORD-300597,2026-07-29,West,Gujarat,Ahmedabad,Grocery,Basmati Rice 5kg,7,634.06,delivered,3
+ORD-300611,2026-06-16,North,Rajasthan,Jaipur,Electronics,  Wireless Earbuds ,2,2280.77,Delivered,4
+ORD-300446,16-Mar-2026,South,Telangana,Hyderabad,Electronics,Smartwatch,1,4579.23,Pending,
+ORD-301357,29-Jun-2026,North,Delhi,Delhi,Home and Kitchen,Pressure Cooker,1,2061.65,Pending,
+ORD-301491,2026-02-02,East,Bihar,Patna,Electronics,Power Bank,1,1180.19,Shipped,
+ORD-300837,03/08/2026,North,Chandigarh,Chandigarh,  Grocery ,Dry Fruits 500g,3,822.81,DELIVERED,3
+ORD-300708,10/01/2026,Central,Chhattisgarh,RAIPUR,Apparel,Kurta,2,852.73,  Returned ,3
+ORD-301284,2026-06-27,East,Bihar,patna,Electronics,Bluetooth Speaker,4,2835.95,Delivered,5
+ORD-301852,2026-09-27,Central,chhattisgarh,Raipur,Electronics,Bluetooth Speaker,1,3109.37,Delivered,4
+ORD-300546,11/01/2026,South,Telangana,Hyderabad,Home & Kitchen,Mixer Grinder,2,3176.05,Delivered,4
+ORD-301959,2026-01-16,Central,Madhya Pradesh,Indore,home & kitchen,NON-STICK PAN,abc,933.39,Shipped,
+ORD-301395,2026-08-26,North,,JAIPUR,Health & Beauty,Hair Dryer,1,1603.32,Shipped,
+ORD-300194,05-Sep-2026,East,West Bengal,  Kolkata ,Grocery,Basmati Rice 5kg,2,684.70,delivered,7
+ORD-301320,2026-07-31,Central,Maharashtra,Nagpur,Grocery,Dry Fruits 500g,3,720.81,Delivered,4
+ORD-300014,2026-01-22,Central,Madhya Pradesh,Bhopal,HOME & KITCHEN,LED Bulb Pack,1,432.31,delivered,5
+ORD-300438,2026-02-26,West,  Maharashtra ,Pune,Apparel,Winter Jacket,1,2681.36,Delivered,
+ORD-301736,22-Jun-2026,South,Kerala,Kochi,  Home and Kitchen ,Bedsheet Set,4,1191.72,  Delivered ,3
+ORD-300796,2026-08-08,central,Chhattisgarh,RAIPUR,Home and Kitchen,LED Bulb Pack,5,429.88,  Pending ,
+ORD-300441,18/09/2026,South,TELANGANA,Hyderabad,Apparel,Cotton T-Shirt,1,507.39,Delivered,2
+ORD-300845,06/08/2026,South,Telangana,Hyderabad,Apparel,Cotton T-Shirt,-3,520.25,Shipped,
+ORD-301420,2026-01-02,North,Delhi,Delhi,Grocery,Cooking Oil 1L,2,202.60,Pending,
+ORD-301215,2026-06-02,North,Delhi,Delhi,Home & Kitchen,Non-Stick Pan,2,974.26,Pending,
+ORD-300811,2026-06-19,North,Delhi,  Delhi ,Health and Beauty,Vitamin C Tablets,1,512.43,Delivered,6
+ORD-301924,13-Jul-2026,South,Tamil Nadu,Chennai,grocery,Atta 10kg,5,484.89,Completed,
+ORD-300965,12/01/2026,North,Uttar Pradesh,lucknow,  Grocery ,green tea 100 bags,2,368.78,Delivered,4
+ORD-300564,15/04/2026,South,Telangana,Hyderabad,home & kitchen,Non-Stick Pan,2,976.72,Delivered,2
+ORD-301410,03-May-2026,Central,Madhya Pradesh,Bhopal,Health and Beauty,Sunscreen,3,465.82,Delivered,5
+ORD-300028,17/07/2026,East,West Bengal,Kolkata,Groceries,Cooking Oil 1L,1,174.26,Delivered,3
+ORD-301088,2026-08-22,Western,Maharashtra,Pune,Apparel,Denim Jeans,3,1524.56,Delivered,1
+ORD-301257,2026-04-08,North,Uttar Pradesh,Lucknow,Grocery,Dry Fruits 500g,2,771.36,Delivered,
+ORD-301241,2026-01-13,  East ,Bihar,Patna,Electronics,Wireless Earbuds,1,2366.50,Shipped,
+ORD-300026,2026-08-20,West,Gujarat,Ahmedabad,Groceries,Atta 10kg,4,546.91,Delivered,4
+ORD-300053,2026-09-18,Western,Gujarat,AHMEDABAD,Electronics,Power Bank,1,1236.01,Delivered,3
+ORD-300312,2026-05-06,  South ,kerala,Kochi,Grocery,Atta 10kg,5,499.34,Delivered,4
+ORD-301068,2026-09-27,  Western ,Gujarat,Ahmedabad,Health & Beauty,Sunscreen,1,475.12,Delivered,3
+ORD-300264,2026-04-29,South,  Telangana ,hyderabad,Health and Beauty,  Sunscreen ,1,444.28,Delivered,2
+ORD-300195,04-Aug-2026,north,Uttar Pradesh,Lucknow,Groceries,Basmati Rice 5kg,3,594.80,Completed,4
+ORD-301149,2026-06-10,southern,Kerala,kochi,Electronics,Power Bank,1,1304.66,Cancelled,
+ORD-301227,20/09/2026,East,Bihar,Patna,Grocery,Basmati Rice 5kg,3,707.28,Shipped,
+ORD-301311,2026-09-24,East,Assam,Guwahati,Electronics,Power Bank,3,1342.29,delivered,7
+ORD-300297,2026-02-25,East,Assam,Guwahati,Grocery,  Basmati Rice 5kg ,3,585.93,Shipped,
+,2026-03-17,SOUTH,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,1,666.60,Delivered,4
+ORD-300491,07-May-2026,West,Goa,Panaji,Electronics,Bluetooth Speaker,1,2730.16,Delivered,3
+ORD-301200,2026-05-14,North,Rajasthan,Jaipur,,Sunscreen,1,482.94,Delivered,
+ORD-300306,2026-02-05,South,Tamil Nadu,  Chennai ,Clothing,Cotton T-Shirt,2,508.09,Lost,2
+ORD-301267,03/04/2026,North,Chandigarh,Chandigarh,Grocery,dry fruits 500g,3,761.88,delivered,2
+ORD-300930,22/05/2026,South,,Chennai,Grocery,Basmati Rice 5kg,5,626.43,Delivered,4
+ORD-300168,2026-04-29,Western,Maharashtra,MUMBAI,health & beauty,Shampoo 400ml,1,363.83,Delivered,3
+ORD-300575,2026-08-24,West,Gujarat,Ahmedabad,  Health & Beauty ,Face Wash,1,264.83,Delivered,3
+ORD-300584,23/05/2026,West,Maharashtra,Pune,Home and Kitchen,Pressure Cooker,1,1935.55,Delivered,2
+ORD-300568,2026-03-01,Western,,Panaji,Grocery,Dry Fruits 500g,1,857.29,Shipped,
+ORD-300815,2026-07-10,East,Bihar,Patna,Grocery,Dry Fruits 500g,5,765.91,Returned,5
+ORD-301838,06/07/2026,West,  Maharashtra ,Pune,  Grocery ,Atta 10kg,2,475.39,  Completed ,2
+ORD-301948,2026-03-20,West,Maharashtra,MUMBAI,Home & Kitchen,Bedsheet Set,1,1133.20,Delivered,3
+ORD-301812,2026-09-13,North,Delhi,Delhi,Electronics,Smartwatch,1,5184.28,Delivered,4
+ORD-300589,2026-08-25,North,Chandigarh,Chandigarh,  Grocery ,Green Tea 100 Bags,4,350.11,Delivered,3
+ORD-301100,2026-02-17,North,Rajasthan,Jaipur,Electronics,Power Bank,3,1334.86,Delivered,1
+ORD-300766,2026-09-04,North,Uttar Pradesh,Lucknow,Home & Kitchen,Non-Stick Pan,2,1097.61,Delivered,4
+ORD-301219,21/01/2026,South,Telangana,Hyderabad,Electronics,POWER BANK,2,1396.65,Delivered,1
+ORD-300758,2026-02-04,East,Assam,Guwahati,Home & Kitchen,Pressure Cooker,1,1724.12,Delivered,2
+ORD-300454,2026-02-08,West,Maharashtra,Pune,Grocery,Basmati Rice 5kg,5,669.16,Cancelled,
+,2026-07-05,East,Bihar,Patna,Groceries,Basmati Rice 5kg,1,669.80,Pending,
+ORD-300825,2026-06-23,North,Chandigarh,Chandigarh,home and kitchen,LED Bulb Pack,5,431.62,Delivered,2
+ORD-300260,29/04/2026,North,Rajasthan,Jaipur,Home & Kitchen,Bedsheet Set,2,1149.16,Delivered,2
+ORD-300783,07/09/2026,Western,Maharashtra,Pune,Electronics,Smartwatch,2,4827.07,Delivered,1
+ORD-301674,2026-06-12,North,Chandigarh,Chandigarh,Home & Kitchen,  Bedsheet Set ,3,1201.82,Shipped,
+ORD-300381,2026-08-03,Central,Chhattisgarh,Raipur,Electronics,Bluetooth Speaker,2,2943.43,Pending,
+ORD-301625,03/05/2026,South,Karnataka,Bengaluru,home & kitchen,Non-Stick Pan,1,939.83,Shipped,
+ORD-300328,2026-01-25,West,Gujarat,Ahmedabad,Health & Beauty,Hair Dryer,1,1553.74,  Delivered ,2
+ORD-301556,2026-07-11,South,TAMIL NADU,Chennai,Grocery,dry fruits 500g,4,811.26,Delivered,3
+ORD-301073,2026-06-26,  North ,Rajasthan,Jaipur,Apparel,cotton t-shirt,1,514.40,Shipped,
+ORD-301370,11-Sep-2026,Central,Chhattisgarh,Raipur,Electronics,Smartwatch,2,5143.34,Delivered,3
+ORD-300617,2026-05-12,West,MAHARASHTRA,Pune,Electronics,power bank,2,1349.07,  Delivered ,1
+ORD-301392,22/03/2026,east,West Bengal,Kolkata,Health & Beauty,  Sunscreen ,1,446.82,Delivered,5
+ORD-300420,13/05/2026,South,  Kerala ,Kochi,Apparel,  Cotton T-Shirt ,1,467.21,Delivered,3
+ORD-300178,2026-08-26,North,,Delhi,Health & Beauty,Shampoo 400ml,5,410.85,Shipped,
+ORD-300677,2026-08-17,East,Assam,Guwahati,Grocery,Atta 10kg,1,483.84,DELIVERED,9
+ORD-300066,27/09/2026,SOUTH,Kerala,Kochi,Groceries,atta 10kg,3,542.39,Delivered,3
+ORD-300969,2026-07-27,  South ,,Hyderabad,Grocery,dry fruits 500g,3,790.52,Shipped,
+ORD-301925,2027-03-15,north,Chandigarh,Chandigarh,Health & Beauty,Hair Dryer,1,1491.55,Delivered,2
+ORD-301807,2026-04-20,Central,Maharashtra,Nagpur,Electronics,Smartphone,1,19766.70,  Delivered ,4
+ORD-301634,02/09/2026,Central,Madhya Pradesh,Indore,Grocery,Dry Fruits 500g,4,843.26,Shipped,
+ORD-301055,15/07/2026,West,Maharashtra,PUNE,Apparel,  Denim Jeans ,3,1569.55,Completed,5
+ORD-300974,06/01/2026,Central,madhya pradesh,Bhopal,  Health & Beauty ,Hair Dryer,2,1540.86,Completed,4
+ORD-301389,2026-02-14,West,Maharashtra,Mumbai,Apparel,Running Shoes,1,2839.26,Delivered,2
+ORD-300047,29-Jun-2026,East,Bihar,Patna,Home & Kitchen,Pressure Cooker,2,1736.89,Delivered,4
+ORD-300253,2026-06-04,South,kerala,Kochi,Apparel,Winter Jacket,1,2395.34,Pending,
+ORD-301509,15/04/2026,South,Kerala,Kochi,Grocery,Atta 10kg,5,492.08,delivered,3
+ORD-301501,2026-03-03,West,Maharashtra,Mumbai,  Health & Beauty ,VITAMIN C TABLETS,1,541.89,Delivered,3
+ORD-300988,14-May-2026,North,Rajasthan,Jaipur,Apparel,Cotton T-Shirt,3,452.79,Delivered,3
+ORD-300858,2026-08-22,North,Chandigarh,Chandigarh,Electronics,Power Bank,1,1283.27,Delivered,2
+ORD-300173,22/03/2026,North,Delhi,Delhi,Health & Beauty,sunscreen,4,412.89,Delivered,4
+ORD-301798,15/07/2026,West,Maharashtra,Pune,home & kitchen,Bedsheet Set,2,1148.69,Delivered,2
+ORD-301679,2026-07-31,South,,KOCHI,Electronics,Smartwatch,2,4739.42,Delivered,
+ORD-301966,09-Jun-2026,southern,KERALA,Kochi,Grocery,Dry Fruits 500g,6,811.94,  Delivered ,3
+ORD-301265,2026-05-31,Central,Madhya Pradesh,Indore,Electronics,  Wireless Earbuds ,1,2571.95,Delivered,7
+ORD-301356,11/08/2026,West,Gujarat,Ahmedabad,Home & Kitchen,Non-Stick Pan,1,967.56,Delivered,4
+ORD-301727,17/08/2026,North,Haryana,Gurugram,Health & Beauty,Hair Dryer,1,1677.32,Delivered,3
+ORD-301534,16-Aug-2026,North,Rajasthan,jaipur,Apparel,DENIM JEANS,2,1521.24,CANCELLED,
+ORD-301567,09-Feb-2026,West,Maharashtra,Pune,Home & Kitchen,Non-Stick Pan,1,1083.42,Delivered,
+ORD-301898,2026-07-16,East,Assam,Guwahati,Electronics,Bluetooth Speaker,2,3049.29,Pending,
+ORD-300416,2026-04-28,South,Kerala,Kochi,Grocery,Atta 10kg,4,473.84,RETURNED,2
+ORD-300888,31/02/2026,South,Telangana,Hyderabad,Clothing,Denim Jeans,1,1360.41,Delivered,5
+ORD-300078,2026-05-25,South,Kerala,Kochi,Electronics,Bluetooth Speaker,2,3068.15,Delivered,3
+ORD-300553,2026-08-22,North,UTTAR PRADESH,Lucknow,Grocery,Cooking Oil 1L,3,203.82,Delivered,4
+ORD-301740,2026-02-14,north,Delhi,Delhi,Health & Beauty,Vitamin C Tablets,2,598.51,Delivered,1
+ORD-300658,25/09/2026,NORTH,Chandigarh,Chandigarh,Home & Kitchen,Mixer Grinder,2,3842.12,Cancelled,
+ORD-300324,2026-01-31,South,Tamil Nadu,Madras,home & kitchen,Non-Stick Pan,1,1069.91,Delivered,3
+ORD-301508,21/08/2026,Central,Maharashtra,Nagpur,Electronics,Wireless Earbuds,2,2549.51,  Delivered ,4
+ORD-301735,24-Jun-2026,West,Goa,Panaji,Grocery,Atta 10kg,2,513.75,Delivered,2
+ORD-301544,2026-04-19,East,Assam,Guwahati,Grocery,Dry Fruits 500g,2,797.37,Delivered,5
+ORD-301427,2026-05-04,West,Maharashtra,Pune,Apparel,Cotton T-Shirt,8,498.02,Delivered,3
+ORD-301282,2026-03-25,East,West Bengal,kolkata,Grocery,  Basmati Rice 5kg ,1,710.62,Shipped,
+ORD-301139,2026-09-14,North,Chandigarh,Chandigarh,Electronics,Power Bank,1,1182.21,Delivered,2
+ORD-300237,14/06/2026,  West ,Maharashtra,MUMBAI,Electronics,Bluetooth Speaker,1,2725.06,Completed,4
+ORD-301965,2026-01-25,north,Uttar Pradesh,Lucknow,home & kitchen,Pressure Cooker,3,2032.67,delivered,3
+ORD-301477,2026-04-24,East,Bihar,Patna,  Electronics ,Bluetooth Speaker,1,3270.84,Delivered,4
+ORD-300323,17/06/2026,North,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,1,1737.02,Delivered,2
+ORD-300696,2026-02-10,West,Gujarat,Ahmedabad,APPAREL,kurta,1,884.14,Delivered,3
+ORD-301571,2026-09-17,East,Assam,guwahati,Health & Beauty,Vitamin C Tablets,1,515.24,Pending,
+ORD-300889,2026-08-12,Southern,Tamil Nadu,Chennai,Home & Kitchen,Pressure Cooker,1,1748.66,Delivered,4
+ORD-300543,2026-01-27,North,Chandigarh,Chandigarh,Grocery,basmati rice 5kg,6,613.33,Delivered,3
+ORD-301315,2026-06-21,North,,Delhi,apparel,Running Shoes,1,3246.92,Delivered,2
+ORD-301094,26-Sep-2026,West,Maharashtra,Pune,Apparel,RUNNING SHOES,2,3054.08,Pending,
+ORD-301355,2026-06-20,North,Delhi,Delhi,Grocery,Dry Fruits 500g,4,876.45,  Delivered ,2
+ORD-300850,2026-01-30,Western,Maharashtra,Mumbai,Electronics,Smartphone,1,18602.17,Delivered,3
+ORD-301770,03/08/2026,West,Goa,PANAJI,Grocery,Dry Fruits 500g,5,736.08,PENDING,
+ORD-300861,2026-02-06,Central,Chhattisgarh,Raipur,  Electronics ,Bluetooth Speaker,1,3070.24,Delivered,4
+ORD-300079,2026-07-05,north,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,5,182.13,Delivered,4
+ORD-301688,2026-09-07,West,Maharashtra,Mumbai,  Electronics ,Smartwatch,1,4588.33,Delivered,2
+ORD-301014,04-Apr-2026,South,TELANGANA,Hyderabad,Grocery,Basmati Rice 5kg,2,663.15,Delivered,3
+ORD-301583,2026-09-11,East,Odisha,Bhubaneswar,Electronics,Smartwatch,1,5441.17,shipped,
+ORD-300128,31/07/2026,Central,Madhya Pradesh,Bhopal,Grocery,Basmati Rice 5kg,1,621.53,Cancelled,
+ORD-300725,2026-09-15,West,Goa,Panaji,Electronics,Wireless Earbuds,2,2598.39,Delivered,2
+ORD-301713,10/09/2026,South,Tamil Nadu,Chennai,Grocery,Dry Fruits 500g,3,771.59,Delivered,1
+ORD-300710,2026-06-14,West,Gujarat,Ahmedabad,  Grocery ,Dry Fruits 500g,4,831.83,Delivered,3
+ORD-300737,2026-04-29,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,2,2717.54,Delivered,2
+ORD-300187,04/05/2026,East,Odisha,Bhubaneswar,GROCERY,ATTA 10KG,3,526.80,Returned,1
+ORD-300479,2026-03-05,South,Telangana,Hyderabad,Grocery,Atta 10kg,3,534.12,Delivered,3
+ORD-300278,2026-09-11,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer Grinder,3,3711.81,Delivered,3
+ORD-301512,2026-02-11,West,Goa,Panaji,Electronics,Wireless Earbuds,1,2746.27,  Shipped ,
+ORD-300274,2026-09-14,South,Tamil Nadu,Chennai,Electronics,Smartwatch,1,4602.62,Delivered,1
+ORD-301561,2026-05-25,North,Chandigarh,Chandigarh,Grocery,COOKING OIL 1L,5,176.00,DELIVERED,2
+ORD-301704,2026-08-07,West,MAHARASHTRA,Pune,Grocery,Atta 10kg,6,469.57,Delivered,2
+ORD-300510,2026-05-06,North,Haryana,Gurugram,Grocery,Atta 10kg,1,466.81,Delivered,3
+ORD-301647,2026-07-31,North,Delhi,New Delhi,Grocery,Cooking Oil 1L,3,201.10,Delivered,2
+ORD-300294,2026-03-12,East,Bihar,patna,Home & Kitchen,LED Bulb Pack,1,375.64,Shipped,
+ORD-301778,02/07/2026,Central,Madhya Pradesh,Bhopal,Health & Beauty,hair dryer,2,1529.49,completed,
+ORD-300476,11/02/2026,North,  Delhi ,Delhi,Apparel,Running Shoes,1,2975.41,  Delivered ,3
+ORD-301506,2026-05-04,Southern,Karnataka,bengaluru,Home & Kitchen,Mixer Grinder,1,3296.63,Delivered,5
+ORD-300524,2026-09-12,West,Maharashtra,Pune,Grocery,Atta 10kg,3,453.29,Delivered,1
+ORD-300311,18-Jan-2026,WEST,maharashtra,Mumbai,Clothing,Cotton T-Shirt,2,478.76,Delivered,4
+ORD-300661,2026-09-18,South,Karnataka,Bengaluru,grocery,Atta 10kg,3,456.48,Delivered,1
+ORD-301345,2026-05-21,East,Assam,Guwahati,Apparel,Kurta,1,838.56,Returned,5
+ORD-301640,05/08/2026,West,Maharashtra,Mumbai,  Electronics ,smartphone,1,20218.71,Delivered,2
+ORD-300429,07/08/2026,North,Delhi,Delhi,Home & Kitchen,Bedsheet Set,1,1092.79,Delivered,1
+ORD-301239,22-Apr-2026,West,Goa,Panaji,Home & Kitchen,LED Bulb Pack,2,387.25,SHIPPED,
+ORD-301789,2026-07-16,N,Delhi,Delhi,Clothing,Denim Jeans,1,1463.83,Shipped,
+ORD-301274,2026-02-23,Southern,Telangana,Hyderabad,Grocery,Green Tea 100 Bags,2,379.33,Returned,1
+ORD-300716,2026-05-06,  South ,Karnataka,Bengaluru,health & beauty,Vitamin C Tablets,4,536.33,Cancelled,
+ORD-301217,2026-06-08,south,Telangana,Hyderabad,Grocery,Dry Fruits 500g,1,829.44,Delivered,3
+ORD-300189,2026-06-25,East,  West Bengal ,CALCUTTA,Apparel,Winter Jacket,1,2554.73,Delivered,5
+ORD-300466,2026-09-05,North,,Chandigarh,Electronics,Smartphone,2,18564.21,Delivered,2
+ORD-301635,09/02/2026,West,maharashtra,Pune,Grocery,Atta 10kg,2,457.96,Delivered,3
+ORD-300820,2026-05-11,Central,Madhya Pradesh,bhopal,Health & Beauty,Vitamin C Tablets,2,578.98,Shipped,
+ORD-300931,2026-09-29,Western,Goa,panaji,Home & Kitchen,Pressure Cooker,1,2080.16,Delivered,3
+ORD-300970,2026-07-21,South,Tamil Nadu,Chennai,Home & Kitchen,PRESSURE COOKER,4,1931.45,Delivered,2
+ORD-301861,20/05/2026,South,Karnataka,Bangalore,Grocery,Atta 10kg,5,522.20,Pending,
+ORD-301462,2026-05-14,South,Telangana,Hyderabad,Apparel,Running Shoes,3,3293.48,Delivered,1
+ORD-301353,16-Jul-2026,West,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,1,2587.31,Shipped,
+ORD-300183,2026-08-12,South,Tamil Nadu,Chennai,Grocery,  Green Tea 100 Bags ,2,329.32,Delivered,3
+ORD-301682,04/08/2026,West,goa,Panaji,Home & Kitchen,LED Bulb Pack,1,414.47,Pending,
+ORD-301900,2026-07-07,north,Uttar Pradesh,Lucknow,Home & Kitchen,Non-Stick Pan,3,1021.57,Pending,
+ORD-300778,05/09/2026,West,Maharashtra,Mumbai,Electronics,smartphone,1,19315.03,Pending,
+ORD-301976,2026-09-07,West,Goa,Panaji,  Grocery ,Basmati Rice 5kg,1,633.02,Delivered,3
+ORD-300573,2026-08-17,South,Karnataka,BANGALORE,Grocery,Green Tea 100 Bags,3,354.53,delivered,2
+12345,2026-04-10,West,Gujarat,Ahmedabad,groceries,Cooking Oil 1L,1,189.61,  Delivered ,3
+ORD-300050,07/05/2026,North,Delhi,Delhi,Electronics,Smartwatch,2,4654.42,Delivered,3
+ORD-301921,2026-02-26,South,karnataka,Bengaluru,Home & Kitchen,PRESSURE COOKER,2,2015.32,Delivered,2
+ORD-300802,05/02/2026,North,Chandigarh,Chandigarh,Grocery,  Green Tea 100 Bags ,1,381.95,Delivered,3
+ORD-301844,2026-04-25,South,Kerala,Kochi,Home & Kitchen,Pressure Cooker,1,2002.05,delivered,2
+ORD-300210,31/05/2026,East,West Bengal,Kolkata,Grocery,Dry Fruits 500g,6,845.48,Delivered,5
+ORD-300255,2026-08-28,South,Kerala,Kochi,Apparel,Winter Jacket,2,2446.47,In Transit,
+ORD-301416,2026-09-20,Central,Madhya Pradesh,Indore,Electronics,Bluetooth Speaker,1,3151.01,Delivered,4
+ORD-300044,2026-03-30,East,  West Bengal ,kolkata,Home and Kitchen,Mixer Grinder,1,3657.58,pending,
+ORD-301375,2026-02-28,East,Odisha,Bhubaneswar,Health & Beauty,Shampoo 400ml,3,373.90,Delivered,3
+ORD-301779,09-Jan-2026,West,Goa,Panaji,Health & Beauty,FACE WASH,1,269.17,Cancelled,
+ORD-300937,2026-05-11,South,KERALA,Kochi,Home & Kitchen,Non-Stick Pan,4,981.63,returned,3
+ORD-300806,2026-03-29,west,Gujarat,Ahmedabad,electronics,Smartwatch,2,5477.74,Delivered,2
+ORD-300092,2026-09-19,West,  Maharashtra ,Mumbai,Apparel,Denim Jeans,2,1491.22,Shipped,
+ORD-301196,30/04/2026,West,,Mumbai,Electronics,  Smartphone ,3,18901.66,Cancelled,
+ORD-301016,2026-06-08,West,Maharashtra,Pune,  Health & Beauty ,Face Wash,3,244.63,Delivered,3
+ORD-300400,2026-07-03,West,GOA,Panaji,Clothing,Denim Jeans,1,1594.80,  Delivered ,1
+ORD-301198,2026-03-02,West,Goa,Panaji,Grocery,BASMATI RICE 5KG,3,662.38,Shipped,
+ORD-301057,2026-05-08,Central,CHHATTISGARH,Raipur,Apparel,  Winter Jacket ,1,2603.26,Delivered,
+ORD-301445,2026-03-13,south,Telangana,Hyderabad,Grocery,Atta 10kg,2,476.48,Completed,2
+ORD-301330,2026-07-09,East,Bihar,Patna,Home & Kitchen,Pressure Cooker,2,2035.23,Delivered,4
+ORD-301733,19/02/2026,East,west bengal,Kolkata,Home & Kitchen,LED Bulb Pack,5,381.86,Delivered,2
+ORD-301299,2026-09-05,South,,Hyderabad,Electronics,Smartwatch,2,5423.84,Returned,3
+ORD-300610,2026-09-09,East,Odisha,Bhubaneswar,ELECTRONICS,Smartphone,3,18062.99,Delivered,9
+ORD-301748,14/07/2026,Central,Chhattisgarh,Raipur,  Home & Kitchen ,  LED Bulb Pack ,1,402.11,Delivered,4
+ORD-301850,yesterday,NORTH,Uttar Pradesh,Lucknow,Grocery,Atta 10kg,3,547.05,Shipped,
+ORD-301222,2026-02-14,North,Delhi,Delhi,Health & Beauty,  Hair Dryer ,1,1727.97,Delivered,1
+ORD-301608,14-Jun-2026,North,Uttar Pradesh,Lucknow,Grocery,  Basmati Rice 5kg ,3,689.64,Delivered,1
+ORD-300333,2026-06-05,North,Delhi,Delhi,Home and Kitchen,LED Bulb Pack,2,407.67,Pending,
+ORD-301586,15/03/2026,Central,Madhya Pradesh,bhopal,home & kitchen,Mixer Grinder,1,3724.08,Delivered,4
+ORD-300959,2026-06-08,Central,Madhya Pradesh,Bhopal,Grocery,Basmati Rice 5kg,4,676.70,Delivered,3
+ORD-301443,12-Aug-2026,n,  Rajasthan ,Jaipur,Grocery,Green Tea 100 Bags,5,314.94,Delivered,1
+ORD-301993,2026-03-06,South,  Karnataka ,Bengaluru,Electronics,BLUETOOTH SPEAKER,1,2809.92,Cancelled,
+ORD-301076,2026-03-23,North,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,5,1712.29,Delivered,1
+ORD-300570,23/08/2026,Southern,Kerala,Kochi,apparel,  Denim Jeans ,1,1592.81,Delivered,4
+ORD-301910,2026-02-03,East,Odisha,Bhubaneswar,Home & Kitchen,Pressure Cooker,2,2049.60,  Pending ,
+ORD-301811,2026-03-08,East,Bihar,  Patna ,Groceries,Atta 10kg,2,501.66,Shipped,
+ORD-301577,04/07/2026,  West ,Maharashtra,mumbai,Electronics,Power Bank,2,1348.84,DELIVERED,2
+ORD-300404,2026-05-15,West,Maharashtra,Mumbai,Electronics,Smartwatch,1,4638.93,Shipped,
+ORD-300233,2026-04-20,North,Rajasthan,Jaipur,Health & Beauty,Sunscreen,2,414.77,DELIVERED,3
+ORD-301312,09/01/2026,NORTH,Chandigarh,Chandigarh,  Apparel ,kurta,1,878.02,Delivered,4
+ORD-300497,2026-04-17,North,Haryana,gurugram,Grocery,Basmati Rice 5kg,3,616.86,Delivered,2
+ORD-300978,24/03/2026,West,Maharashtra,Mumbai,Health & Beauty,Face Wash,2,249.80,Delivered,2
+ORD-301609,2026-08-03,north,Delhi,Delhi,Home and Kitchen,Non-Stick Pan,3,1043.00,  In Transit ,
+ORD-301534,16-Aug-2026,North,Rajasthan,jaipur,Apparel,DENIM JEANS,2,1521.24,CANCELLED,
+ORD-300163,09/01/2026,  Central ,Chhattisgarh,Raipur,Home & Kitchen,Bedsheet Set,3,1143.75,Delivered,4
+ORD-300414,2026-04-20,West,Maharashtra,Pune,Health & Beauty,Hair Dryer,1,1742.87,Delivered,2
+ORD-301251,2026-08-30,West,Goa,Panaji,Grocery,Green Tea 100 Bags,7,365.98,Pending,
+ORD-301137,2026-08-04,Southern,Karnataka,  Bengaluru ,Electronics,Wireless Earbuds,1,2336.61,CANCELED,
+ORD-301546,2026-06-28,West,Maharashtra,Mumbai,Health & Beauty,Vitamin C Tablets,1,550.47,Cancelled,
+ORD-300724,2026-03-18,south,Karnataka,Bangalore,Grocery,Atta 10kg,3,539.62,Delivered,4
+ORD-301449,2026-08-19,Central,Madhya Pradesh,  Bhopal ,Grocery,Cooking Oil 1L,6,201.23,Delivered,4
+ORD-300536,31/02/2026,South,kerala,Kochi,Apparel,Cotton T-Shirt,1,541.93,  Delivered ,3
+ORD-300169,2026-06-24,South,Telangana,Hyderabad,Apparel,Kurta,1,876.23,Returned,5
+ORD-300374,2026-09-21,West,Maharashtra,Pune,Grocery,Dry Fruits 500g,5,750.06,Delivered,1
+ORD-301547,22/05/2026,West,Goa,Panaji,Grocery,Basmati Rice 5kg,1,639.89,Delivered,1
+ORD-300401,2026-05-16,North,Haryana,Gurugram,Apparel,running shoes,1,2900.15,Delivered,4
+ORD-300354,2026-04-23,CENTRAL,madhya pradesh,Bhopal,Grocery,Green Tea 100 Bags,7,349.97,Delivered,3
+ORD-300711,2026-08-28,West,gujarat,Ahmedabad,Electronics,Wireless Earbuds,2,2414.74,Shipped,
+ORD-300605,2026-07-14,North,Chandigarh,Chandigarh,Grocery,Atta 10kg,3,454.95,Delivered,
+ORD-301450,18/01/2026,West,MAHARASHTRA,Mumbai,  Grocery ,Dry Fruits 500g,5,795.04,Pending,
+ORD-300644,2026-08-11,South,Tamil Nadu,Chennai,  Grocery ,  Basmati Rice 5kg ,3,637.83,Cancelled,
+ORD-301517,2026-07-02,West,Maharashtra,  Pune ,Grocery,Basmati Rice 5kg,6,697.39,Pending,
+ORD-300600,2026-05-27,West,Maharashtra,  Pune ,  Health & Beauty ,Sunscreen,3,421.01,Delivered,1
+ORD-301933,2026-05-11,South,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,8,810.39,Delivered,2
+ORD-301231,2026-04-14,Central,Maharashtra,Nagpur,Apparel,Denim Jeans,1,1476.02,Delivered,4
+ORD-300391,2026-09-13,South,Telangana,Hyderabad,GROCERY,Cooking Oil 1L,2,205.07,Shipped,
+ORD-300234,2026-06-03,North,Chandigarh,Chandigarh,grocery,Basmati Rice 5kg,2,692.82,Delivered,3
+ORD-301402,2026-07-26,West,Goa,Panaji,Electronics,Smartphone,2,20399.03,Returned,3
+ORD-300779,2026-08-27,North,  Delhi ,Delhi,Grocery,  Green Tea 100 Bags ,5,364.91,Delivered,2
+ORD-300911,2026-03-29,West,Maharashtra,Pune,Electronics,Power Bank,1,1174.69,Delivered,3
+ORD-301615,11/09/2026,West,Gujarat,Ahmedabad,Electronics,Smartwatch,1,5085.42,Delivered,5
+ORD-300865,2026-09-27,West,Maharashtra,Pune,Electronics,wireless earbuds,1,2738.05,Shipped,
+ORD-301044,2026-04-27,North,RAJASTHAN,Jaipur,Grocery,Green Tea 100 Bags,3,339.52,Shipped,
+ORD-300656,2026-07-17,North,Uttar Pradesh,  Lucknow ,HOME & KITCHEN,bedsheet set,1,1176.99,Delivered,2
+ORD-300378,2026-05-21,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,2,3254.82,shipped,
+ORD-301611,2026-08-31,Central,Madhya Pradesh,Bhopal,Health & Beauty,shampoo 400ml,3,431.74,Completed,4
+ORD-301570,2026-08-30,North,Delhi,Delhi,Home & Kitchen,LED Bulb Pack,1,400.01,Delivered,2
+ORD-301787,12/01/2026,E,Bihar,PATNA,Electronics,Power Bank,1,1408.94,Delivered,3
+ORD-300114,2026-09-05,Central,Madhya Pradesh,Bhopal,Electronics,Smartphone,2,17525.11,Delivered,3
+ORD-301104,16/03/2026,West,Gujarat,Ahmedabad,Electronics,  Smartphone ,1,20422.62,Shipped,
+ORD-301543,2026-07-29,west,Goa,Panaji,Home & Kitchen,pressure cooker,3,1963.10,Delivered,2
+ORD-300956,2026-06-09,North,Chandigarh,Chandigarh,Health & Beauty,Face Wash,2,260.07,Delivered,3
+ORD-300800,2026-08-23,South,Karnataka,Bengaluru,Groceries,Dry Fruits 500g,5,780.79,Delivered,4
+ORD-300514,2026-04-22,South,  Telangana ,Hyderabad,  Health & Beauty ,Shampoo 400ml,1,410.35,Delivered,4
+ORD-301914,2026-04-14,West,Gujarat,Ahmedabad,Grocery,Green Tea 100 Bags,3,352.18,Lost,
+ORD-300967,2026-03-23,Central,Madhya Pradesh,Bhopal,  Electronics ,Bluetooth Speaker,1,3255.75,shipped,
+ORD-301575,2026-03-18,N,  Rajasthan ,JAIPUR,Grocery,Basmati Rice 5kg,1,N/A,Cancelled,
+ORD-301118,29-Sep-2026,East,Bihar,Patna,Grocery,Basmati Rice 5kg,4,669.54,Delivered,6
+ORD-300817,09-Jun-2026,South,tamil nadu,Chennai,Grocery,  Green Tea 100 Bags ,4,369.30,Delivered,1
+ORD-301182,04-Apr-2026,Central,Chhattisgarh,Raipur,Electronics,SMARTWATCH,2,5279.78,Delivered,3
+ORD-301916,2026-08-16,Central,Maharashtra,Nagpur,electronics,Wireless Earbuds,1,2267.14,Delivered,2
+ORD-301992,2026-04-02,West,Gujarat,  Ahmedabad ,Electronics,Smartwatch,3,4926.84,Returned,2
+ORD-301624,2026-03-06,South,Karnataka,Bengaluru,Grocery,Green Tea 100 Bags,4,332.93,  Pending ,
+ORD-301119,2026-01-19,Central,Chhattisgarh,Raipur,Home & Kitchen,Pressure Cooker,2,1728.24,Cancelled,
+ORD-301912,09-Aug-2026,  South ,Tamil Nadu,Chennai,Grocery,Dry Fruits 500g,4,721.41,delivered,3
+ORD-300292,2026-07-16,West,,Mumbai,Apparel,  Running Shoes ,1,3118.71,Cancelled,
+ORD-300284,2026-08-21,South,Karnataka,Bengaluru,Grocery,  Atta 10kg ,1,504.66,DELIVERED,1
+ORD-300283,2026-09-03,Central,Madhya Pradesh,Bhopal,Electronics,Smartphone,1,19716.08,Delivered,4
+ORD-301112,2026-05-06,North,  Rajasthan ,Jaipur,Electronics,Bluetooth Speaker,1,3200.65,Delivered,2
+ORD-300033,2026-02-17,WEST,Goa,Panaji,  Grocery ,Cooking Oil 1L,4,182.14,Delivered,2
+ORD-301352,2026-07-15,East,Odisha,Bhubaneswar,Grocery,green tea 100 bags,1,349.23,Completed,4
+ORD-301033,2026-08-06,NORTH,,Gurugram,Home & Kitchen,Pressure Cooker,3,1716.45,Delivered,1
+ORD-301340,2026-03-21,Central,Madhya Pradesh,  Indore ,Grocery,Green Tea 100 Bags,3,383.50,Delivered,3
+ORD-300240,2026-07-24,E,West Bengal,Kolkata,Clothing,RUNNING SHOES,1,2743.39,Delivered,2
+ORD-300315,2026-02-02,South,,Hyderabad,Electronics,Smartphone,1,20211.32,Delivered,3
+ORD-301208,02/07/2026,West,Maharashtra,Mumbai,Home & Kitchen,Pressure Cooker,1,1845.17,Delivered,1
+ORD-300250,2026-05-29,North,Chandigarh,Chandigarh,Grocery,Dry Fruits 500g,1,869.66,Completed,1
+ORD-300385,2026-09-19,East,Bihar,Patna,Home & Kitchen,Pressure Cooker,2,2017.01,DELIVERED,7
+ORD-300521,2026-02-27,West,Gujarat,Ahmedabad,apparel,Cotton T-Shirt,2,507.32,Shipped,
+ORD-300803,2026-04-17,South,Telangana,Hyderabad,Grocery,Cooking Oil 1L,1,191.84,Cancelled,
+ORD-301207,2026-08-19,South,  Karnataka ,bangalore,home & kitchen,Pressure Cooker,1,1740.84,Cancelled,
+ORD-300641,09/01/2026,South,Kerala,Kochi,Grocery,Basmati Rice 5kg,4,624.68,Delivered,3
+ORD-301116,2026-07-15,North,  Uttar Pradesh ,Lucknow,Apparel,Kurta,1,972.60,DELIVERED,4
+ORD-301592,2026-02-23,North,Delhi,Delhi,Home & Kitchen,Pressure Cooker,5,2045.15,Shipped,
+ORD-301178,2026-02-05,North,Rajasthan,Jaipur,Apparel,COTTON T-SHIRT,4,516.80,Delivered,
+ORD-301909,2026-09-01,North,Chandigarh,Chandigarh,Electronics,Wireless Earbuds,1,2303.06,Delivered,3
+ORD-300899,25/03/2026,North,Haryana,Gurugram,Grocery,  Basmati Rice 5kg ,4,605.71,Delivered,3
+ORD-300992,29-Sep-2026,West,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,2,2830.61,Delivered,3
+ORD-301172,2026-08-07,West,maharashtra,Mumbai,Toys,Smartphone,2,18571.59,  Pending ,
+ORD-301327,2026-02-19,South,telangana,Hyderabad,Home & Kitchen,Non-Stick Pan,2,933.16,Delivered,4
+ORD-301454,2026-02-24,South,kerala,Kochi,Apparel,Cotton T-Shirt,1,499.88,Delivered,4
+ORD-300673,2026-02-16,Central,Madhya Pradesh,Bhopal,  Home & Kitchen ,LED Bulb Pack,1,423.07,  Delivered ,3
+ORD-300789,20/09/2026,west,Maharashtra,Pune,Home & Kitchen,Non-Stick Pan,1,998.85,Delivered,3
+ORD-300439,2026-08-14,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,1,1274.47,Shipped,
+ORD-300649,2026-05-12,North,Delhi,Delhi,Electronics,wireless earbuds,1,2267.93,Pending,
+ORD-301707,2026-09-21,West,GUJARAT,Ahmedabad,Grocery,Dry Fruits 500g,4,827.69,  Shipped ,
+ORD-301972,14/09/2026,North,,  Gurgaon ,Health & Beauty,Vitamin C Tablets,4,529.76,Delivered,2
+ORD-301331,2026-05-15,central,Madhya Pradesh,Bhopal,Home & Kitchen,LED Bulb Pack,1,402.57,Delivered,2
+ORD-300196,21-Jan-2026,South,Kerala,Kochi,grocery,Dry Fruits 500g,1,825.26,Delivered,3
+ORD-300875,2026-04-18,  N ,Haryana,Gurugram,  Electronics ,Smartwatch,2,4513.20,Cancelled,
+ORD-300405,2026-04-29,South,Telangana,Hyderabad,  Home & Kitchen ,Bedsheet Set,2,1092.32,Pending,
+ORD-301281,2026-07-13,North,Rajasthan,Jaipur,GROCERY,Green Tea 100 Bags,3,360.36,Returned,3
+ORD-300261,2026-04-10,North,chandigarh,Chandigarh,Home & Kitchen,Mixer Grinder,3,3607.52,Cancelled,
+ORD-301854,2026-09-24,Central,Chhattisgarh,Raipur,Electronics,Bluetooth Speaker,2,3064.96,DELIVERED,5
+ORD-301161,2026-02-25,Southern,Karnataka,Bangalore,Electronics,Smartwatch,1,5018.12,Delivered,1
+ORD-301604,2026-04-20,South,Karnataka,Bengaluru,Health & Beauty,Vitamin C Tablets,1,562.43,  Delivered ,2
+ORD-301419,21-Jan-2026,West,Goa,Panaji,Toys,Kurta,2,877.10,Shipped,
+ORD-301313,2026-06-23,WEST,Gujarat,Ahmedabad,Electronics,Smartphone,1,20619.16,Delivered,1
+ORD-301678,2026-07-05,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer Grinder,2,3606.89,Delivered,3
+ORD-301941,2026-05-06,North,Haryana,Gurugram,Grocery,Atta 10kg,1,530.76,Delivered,3
+ORD-300838,08/05/2026,South,,Chennai,Home & Kitchen,LED Bulb Pack,2,392.82,Delivered,2
+ORD-300291,04-Apr-2026,North,  Uttar Pradesh ,lucknow,Electronics,Smartwatch,2,4846.28,Canceled,
+ORD-301769,2026-04-12,North,  Delhi ,Delhi,Grocery,Dry Fruits 500g,3,780.97,Delivered,4
+ORD-301896,2026-04-01,West,Goa,Panaji,Health & Beauty,Face Wash,1,224.45,Delivered,1
+ORD-300757,2026-02-24,South,Kerala,Kochi,Home & Kitchen,Mixer Grinder,1,3150.94,Delivered,1
+ORD-301422,2026-09-02,WEST,Maharashtra,  Mumbai ,Apparel,Running Shoes,3,2794.03,Delivered,1
+ORD-300586,2026-08-18,West,Maharashtra,mumbai,  Electronics ,POWER BANK,1,1417.58,Cancelled,
+ORD-301339,2026-05-02,North,Chandigarh,Chandigarh,Apparel,Kurta,1,947.53,Shipped,
+ORD-300105,07/09/2026,West,Maharashtra,  Pune ,Groceries,Cooking Oil 1L,1,180.12,Delivered,4
+ORD-300174,08-Apr-2026,South,Karnataka,Bengaluru,Home & Kitchen,led bulb pack,1,359.52,Delivered,
+ORD-300607,2026-06-24,South,Kerala,Kochi,  Electronics ,Smartwatch,-3,5460.67,Delivered,2
+ORD-301766,31/02/2026,West,  Goa ,PANAJI,Home & Kitchen,Pressure Cooker,1,1970.14,Delivered,1
+ORD-300398,2026-05-04,East,,KOLKATA,Home & Kitchen,Mixer Grinder,1,3808.27,Delivered,3
+ORD-300316,2026-04-03,South,Karnataka,Bengaluru,Electronics,Power Bank,1,1369.44,Delivered,4
+ORD-300692,29-Aug-2026,West,Maharashtra,  Pune ,Grocery,Basmati Rice 5kg,4,677.82,Delivered,1
+ORD-300761,2026-07-18,NORTH,Rajasthan,jaipur,  Apparel ,Denim Jeans,2,1558.51,Delivered,2
+ORD-300643,2026-09-03,South,KERALA,Kochi,Electronics,Wireless Earbuds,1,2406.07,Delivered,3
+ORD-301771,2026-09-22,CENTRAL,Chhattisgarh,Raipur,Grocery,Cooking Oil 1L,3,206.64,Cancelled,
+ORD-300326,2026-04-15,west,Maharashtra,Mumbai,Home & Kitchen,Non-Stick Pan,1,936.58,Canceled,
+ORD-301433,2026-04-09,  South ,Telangana,Hyderabad,APPAREL,Cotton T-Shirt,2,463.44,delivered,2
+ORD-301005,18-Aug-2026,South,Kerala,Kochi,Grocery,Atta 10kg,7,500.70,Completed,4
+ORD-301923,2026-08-23,Central,,Raipur,ELECTRONICS,Smartphone,3,19992.85,Delivered,3
+ORD-301711,2026-08-07,Southern,Karnataka,Bengaluru,health & beauty,Sunscreen,4,435.15,  Shipped ,
+ORD-301651,2026-08-23,North,Rajasthan,Jaipur,Grocery,Cooking Oil 1L,1,176.00,delivered,1
+ORD-301915,2026-04-03,West,Gujarat,Ahmedabad,Apparel,Cotton T-Shirt,2,462.43,Completed,3
+ORD-300551,21/05/2026,Central,Chhattisgarh,Raipur,Home and Kitchen,mixer grinder,1,3575.50,Delivered,5
+ORD-300996,2026-08-08,west,Maharashtra,Mumbai,GROCERY,Atta 10kg,5,523.16,Delivered,2
+12345,2026-03-13,N,Haryana,Gurugram,HOME AND KITCHEN,pressure cooker,3,1962.79,Shipped,
+ORD-300098,16/08/2026,Central,  Maharashtra ,Nagpur,Grocery,Green Tea 100 Bags,3,342.24,Delivered,3
+ORD-301474,18-Apr-2026,South,Tamil Nadu,Chennai,electronics,Bluetooth Speaker,1,3179.74,Cancelled,
+ORD-301841,16/08/2026,East,Odisha,  Bhubaneswar ,Grocery,Cooking Oil 1L,2,193.99,  Delivered ,7
+ORD-301273,01/05/2026,North,Chandigarh,Chandigarh,Grocery,Dry Fruits 500g,4,792.55,Delivered,1
+ORD-300528,2026-02-26,North,  Uttar Pradesh ,Lucknow,Health & Beauty,Shampoo 400ml,3,413.78,Shipped,
+ORD-301023,23-Feb-2026,East,Odisha,  Bhubaneswar ,Health & Beauty,Face Wash,2,251.96,Delivered,4
+ORD-301511,2026-08-20,North,Rajasthan,  Jaipur ,ELECTRONICS,Bluetooth Speaker,1,3025.42,Delivered,
+ORD-301024,2026-02-26,North,Delhi,Delhi,apparel,Winter Jacket,2,2383.86,Delivered,3
+ORD-301524,2026-01-31,West,  Gujarat ,Ahmedabad,Home and Kitchen,Mixer Grinder,1,3344.51,Cancelled,
+ORD-300590,2026-04-20,  East ,West Bengal,Kolkata,Electronics,Smartwatch,3,4906.92,Delivered,1
+ORD-301032,2026-02-06,Southern,telangana,Hyderabad,Groceries,Basmati Rice 5kg,3,586.13,Delivered,2
+ORD-301075,2026-04-27,East,Odisha,Bhubaneswar,GROCERIES,atta 10kg,2,530.36,Delivered,2
+ORD-300790,2026-04-17,  West ,Goa,Panaji,Apparel,  Running Shoes ,4,3016.24,Pending,
+ORD-300403,10/02/2026,North,Chandigarh,Chandigarh,Health & Beauty,  Shampoo 400ml ,4,400.85,Shipped,
+ORD-300067,2026-03-18,Southern,Kerala,Kochi,Apparel,Winter Jacket,1,2601.88,Returned,5
+ORD-301874,05-Feb-2026,South,Telangana,Hyderabad,Home & Kitchen,LED BULB PACK,1,377.53,Cancelled,
+ORD-300604,2026-09-20,North,  Delhi ,delhi,Home & Kitchen,Pressure Cooker,3,1959.92,Delivered,3
+ORD-300780,2026-06-17,South,Telangana,hyderabad,Apparel,  Kurta ,1,950.74,Delivered,4
+ORD-300723,2026-01-26,West,gujarat,Ahmedabad,Grocery,Cooking Oil 1L,2,207.28,Shipped,
+ORD-301800,30/01/2026,SOUTH,Telangana,Hyderabad,Grocery,Atta 10kg,5,470.58,Delivered,1
+ORD-301596,29-Aug-2026,South,Tamil Nadu,Chennai,Grocery,Basmati Rice 5kg,3,595.26,Delivered,3
+ORD-300999,2026-09-19,West,GUJARAT,Ahmedabad,Electronics,  Smartwatch ,2,5117.34,delivered,6
+ORD-300170,2026-03-01,Central,Madhya Pradesh,Indore,Grocery,Dry Fruits 500g,4,782.43,Cancelled,
+ORD-301492,2026-09-01,Central,Maharashtra,Nagpur,Apparel,Running Shoes,1,2992.40,Delivered,4
+ORD-301441,2026-08-24,Central,Maharashtra,Nagpur,Health & Beauty,Hair Dryer,2,1550.56,Delivered,4
+ORD-300468,2026-06-16,E,,Bhubaneswar,Apparel,Kurta,3,980.09,Delivered,5
+ORD-301801,2026-07-07,North,Rajasthan,Jaipur,Grocery,Dry Fruits 500g,4,808.20,Delivered,4
+ORD-301963,2026-09-26,North,Rajasthan,Jaipur,HEALTH & BEAUTY,Sunscreen,1,455.35,Delivered,2
+ORD-300773,2026-06-09,Southern,Tamil Nadu,chennai,Apparel,kurta,2,824.03,Completed,4
+ORD-300926,16-Mar-2026,North,Haryana,Gurugram,Grocery,Atta 10kg,6,523.48,Delivered,1
+ORD-300295,2026-04-20,West,Maharashtra,Mumbai,Apparel,Running Shoes,abc,2913.86,Completed,3
+ORD-300361,01-Apr-2026,SOUTH,Telangana,Hyderabad,Home & Kitchen,Bedsheet Set,2,1159.28,Shipped,
+ORD-300508,2026-05-07,  North ,,Chandigarh,  Grocery ,Basmati Rice 5kg,1,695.08,Cancelled,
+ORD-300701,14-Jul-2026,East,Assam,Guwahati,Grocery,Dry Fruits 500g,3,818.86,Delivered,2
+ORD-300011,2026-04-12,Central,Madhya Pradesh,Indore,Health & Beauty,Vitamin C Tablets,1,568.04,Delivered,5
+ORD-301605,2026-08-25,North,Haryana,Gurugram,health & beauty,Vitamin C Tablets,2,521.84,Returned,5
+ORD-301747,31-Jul-2026,west,Maharashtra,  Mumbai ,Home & Kitchen,Bedsheet Set,1,1270.33,Cancelled,
+ORD-300200,2026-05-24,North,Chandigarh,Chandigarh,APPAREL,Cotton T-Shirt,2,526.37,Returned,3
+ORD-301038,2026-04-06,West,,Pune,Health & Beauty,Hair Dryer,3,1625.77,Delivered,2
+ORD-300659,13-Sep-2026,Central,maharashtra,NAGPUR,Electronics,Smartwatch,1,4900.14,Delivered,4
+ORD-301273,01/05/2026,North,Chandigarh,Chandigarh,Grocery,Dry Fruits 500g,4,792.55,Delivered,1
+ORD-301434,08/08/2026,Central,Madhya Pradesh,Indore,Home & Kitchen,Pressure Cooker,2,1989.89,Delivered,4
+ORD-301533,2026-04-01,South,Tamil Nadu,chennai,Grocery,Atta 10kg,5,484.66,Delivered,3
+ORD-300266,2026-07-23,  East ,West Bengal,Kolkata,  Groceries ,GREEN TEA 100 BAGS,2,362.44,Completed,4
+ORD-300227,2026-06-17,Central,maharashtra,Nagpur,Electronics,Smartwatch,1,5084.04,Delivered,4
+ORD-301065,2026-01-31,North,Uttar Pradesh,Lucknow,Electronics,Smartphone,2,19552.84,Delivered,
+ORD-301842,2026-01-07,West,Gujarat,AHMEDABAD,Grocery,Basmati Rice 5kg,1,594.10,Delivered,3
+ORD-300793,2026-07-04,West,goa,Panaji,Grocery,  Cooking Oil 1L ,4,196.66,Cancelled,
+ORD-301451,27/05/2026,South,,bengaluru,Grocery,BASMATI RICE 5KG,2,694.43,Delivered,1
+ORD-301377,2026-09-12,South,Telangana,Hyderabad,Apparel,Running Shoes,1,3297.34,delivered,4
+ORD-301620,2026-06-04,West,Maharashtra,Mumbai,Home & Kitchen,Mixer Grinder,3,3195.04,DELIVERED,3
+ORD-300487,19/06/2026,North,Haryana,Gurugram,Electronics,Smartwatch,1,4904.01,Delivered,1
+ORD-300389,2026-04-26,North,Rajasthan,Jaipur,Electronics,Wireless Earbuds,2,2264.82,Delivered,1
+ORD-301221,2026-09-20,South,Tamil Nadu,  Chennai ,Apparel,Cotton T-Shirt,1,541.88,delivered,3
+ORD-300290,2026-08-19,North,Chandigarh,Chandigarh,Electronics,Smartphone,1,20737.05,Delivered,4
+ORD-300017,2026-05-07,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,3,N/A,Delivered,4
+ORD-301639,2026-01-13,West,maharashtra,Mumbai,Grocery,Dry Fruits 500g,3,873.61,Pending,
+ORD-301440,2026-03-29,West,Goa,Panaji,Health & Beauty,Hair Dryer,4,1551.20,Shipped,
+ORD-301578,13/01/2026,NORTH,Chandigarh,Chandigarh,Home & Kitchen,Mixer Grinder,1,3463.67,Delivered,2
+ORD-301701,02-Mar-2026,West,Maharashtra,Mumbai,Electronics,Power Bank,2,1182.67,Delivered,1
+ORD-300976,2026-09-12,Central,Chhattisgarh,Raipur,Electronics,Bluetooth Speaker,1,2771.86,Delivered,7
+ORD-301186,2026-09-08,Central,Chhattisgarh,Raipur,Groceries,Dry Fruits 500g,1,792.71,Returned,2
+ORD-301999,2026-09-29,West,Maharashtra,Pune,Electronics,  Power Bank ,1,1194.03,canceled,
+ORD-301657,2026-01-24,North,Chandigarh,Chandigarh,Home & Kitchen,  Non-Stick Pan ,1,931.46,Delivered,5
+ORD-301637,2026-07-23,North,Haryana,Gurugram,Grocery,Basmati Rice 5kg,2,697.58,DELIVERED,4
+ORD-300235,31/01/2026,North,Haryana,Gurugram,Grocery,Atta 10kg,2,507.95,DELIVERED,2
+ORD-301154,2026-05-09,South,Telangana,Hyderabad,Grocery,  Green Tea 100 Bags ,4,356.37,Delivered,2
+ORD-301696,22-Sep-2026,West,Goa,Panaji,ELECTRONICS,Power Bank,1,1172.71,Shipped,
+ORD-301750,2026-08-23,west,Maharashtra,Pune,Electronics,Smartwatch,1,4872.83,Cancelled,
+ORD-300394,2026-07-06,West,Maharashtra,Pune,Electronics,Smartwatch,2,4756.64,In Transit,
+ORD-301145,2026-03-06,North,Haryana,Gurugram,grocery,Cooking Oil 1L,1,193.78,Delivered,4
+ORD-301025,2026-04-21,N,Uttar Pradesh,Lucknow,Electronics,Power Bank,2,1418.90,Delivered,4
+ORD-300595,2026-03-01,West,Goa,Panaji,Home & Kitchen,LED Bulb Pack,1,385.16,Returned,3
+ORD-301041,2026-08-06,West,Goa,Panaji,Electronics,Smartwatch,2,5036.89,Delivered,2
+ORD-301489,2026-02-11,North,Uttar Pradesh,Lucknow,Apparel,Cotton T-Shirt,1,522.87,Delivered,2
+ORD-301589,2026-07-08,central,Madhya Pradesh,Indore,Grocery,Cooking Oil 1L,1,176.40,  Returned ,5
+ORD-301103,10-May-2026,South,Kerala,KOCHI,Electronics,Smartphone,2,20459.91,  Cancelled ,
+ORD-300513,31/02/2026,southern,Telangana,Hyderabad,Grocery,Green Tea 100 Bags,2,338.37,Cancelled,
+ORD-301479,2026-07-27,East,Odisha,Bhubaneswar,Grocery,atta 10kg,5,523.49,Delivered,6
+ORD-300191,2026-07-09,South,Karnataka,bengaluru,Electronics,Power Bank,1,1322.02,Shipped,
+ORD-300882,10-Jul-2026,East,West Bengal,Kolkata,Health & Beauty,Shampoo 400ml,1,417.36,Cancelled,
+ORD-301376,2026-08-11,South,Karnataka,Bengaluru,Grocery,Atta 10kg,3,501.21,Delivered,3
+ORD-300087,2026-07-21,North,Chandigarh,Chandigarh,  Electronics ,Smartphone,1,18601.33,Completed,1
+ORD-300541,02-Jul-2026,East,,Patna,Home & Kitchen,LED Bulb Pack,1,378.46,Delivered,2
+ORD-301763,2026-05-02,South,  Telangana ,Hyderabad,Grocery,  Cooking Oil 1L ,1,190.55,Delivered,1
+ORD-301666,16-Jun-2026,West,Gujarat,Ahmedabad,Electronics,SMARTPHONE,2,17606.19,Pending,
+ORD-301857,2026-03-28,West,Goa,Panaji,Home & Kitchen,Pressure Cooker,2,1811.77,Delivered,4
+ORD-301763,2026-05-02,South,  Telangana ,Hyderabad,Grocery,  Cooking Oil 1L ,1,190.55,Delivered,1
+ORD-301738,08/06/2026,South,Tamil Nadu,Chennai,HOME & KITCHEN,LED Bulb Pack,1,395.71,Delivered,1
+ORD-300860,2026-05-20,West,Goa,  Panaji ,Apparel,Winter Jacket,1,2436.43,Delivered,4
+ORD-300035,2026-09-30,North,Uttar Pradesh,Lucknow,Apparel,Kurta,1,889.09,Delivered,6
+ORD-300205,10/05/2026,North,Chandigarh,Chandigarh,Electronics,Smartphone,1,18597.41,Delivered,3
+ORD-300459,2026-04-04,South,Kerala,Kochi,Home and Kitchen,Bedsheet Set,1,1237.69,Shipped,
+ORD-301790,2026-03-25,East,Assam,guwahati,Home & Kitchen,Non-Stick Pan,3,905.16,Pending,
+ORD-301820,2026-02-27,North,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,3,3228.17,Shipped,
+ORD-300302,2026-03-14,West,MAHARASHTRA,Mumbai,Electronics,Power Bank,2,1325.41,Delivered,3
+ORD-300448,28/08/2026,South,Telangana,Hyderabad,Grocery,Dry Fruits 500g,4,873.57,  Delivered ,6
+ORD-301548,14-Aug-2026,West,Maharashtra,Pune,Grocery,  Dry Fruits 500g ,1,776.92,Delivered,1
+ORD-301953,2026-03-17,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,2,330.82,Delivered,3
+ORD-301110,2026-01-29,E,West Bengal,Kolkata,Electronics,Wireless Earbuds,1,2473.65,Delivered,5
+ORD-301262,2026-07-03,  South ,Tamil Nadu,Chennai,Electronics,Wireless Earbuds,3,2355.05,Delivered,2
+ORD-300567,2026-04-18,  Central ,Chhattisgarh,Raipur,Electronics,Wireless Earbuds,4,2471.92,Delivered,3
+ORD-301814,2026-06-14,East,Assam,Guwahati,CLOTHING,Running Shoes,2,2752.13,  Delivered ,4
+ORD-300410,2026-05-01,Central,Madhya Pradesh,Bhopal,Home & Kitchen,Pressure Cooker,6,1964.14,Delivered,
+ORD-300356,18/09/2026,West,Gujarat,Ahmedabad,Electronics,Smartwatch,1,5344.11,Delivered,3
+12345,2026-04-06,South,Tamil Nadu,Chennai,Grocery,Cooking Oil 1L,2,187.99,Delivered,4
+ORD-300137,12-Aug-2026,West,  Maharashtra ,Pune,Health & Beauty,face wash,1,227.09,  Delivered ,2
+ORD-301928,2026-05-28,Central,Madhya Pradesh,Indore,Grocery,Atta 10kg,4,465.04,Shipped,
+ORD-301004,2026-05-10,Central,Madhya Pradesh,Bhopal,Apparel,Kurta,3,876.23,Delivered,4
+ORD-301979,08-Apr-2026,West,Maharashtra,Pune,Health & Beauty,Vitamin C Tablets,1,594.36,Shipped,
+ORD-301694,2026-06-27,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,6,1270.00,Delivered,2
+ORD-301381,2026-08-14,South,Telangana,Hyderabad,grocery,Cooking Oil 1L,3,206.57,Pending,
+ORD-300207,06-Jul-2026,South,Tamil Nadu,Chennai,Electronics,Power Bank,1,1229.06,Shipped,
+ORD-300439,2026-08-14,South,Kerala,Kochi,Home & Kitchen,Bedsheet Set,1,1274.47,Shipped,
+ORD-300671,08-Mar-2026,South,KERALA,Kochi,Electronics,Wireless Earbuds,1,2397.85,Shipped,
+ORD-300901,2026-03-07,North,Uttar Pradesh,Lucknow,Apparel,  Kurta ,1,907.92,Delivered,4
+ORD-301773,2026-03-25,  South ,Tamil Nadu,Chennai,Grocery,Atta 10kg,5,534.54,Delivered,2
+ORD-300084,2026-09-02,Western,Gujarat,Ahmedabad,Electronics,Wireless Earbuds,2,2554.94,Completed,2
+ORD-301799,2026-06-17,Southern,Kerala,kochi,Electronics,Smartphone,1,19418.22,Delivered,3
+ORD-300005,09-Feb-2026,South,  Tamil Nadu ,Chennai,APPAREL,Kurta,1,872.40,Delivered,2
+ORD-301306,2026-08-23,South,Tamil Nadu,Chennai,Apparel,Kurta,4,813.23,Delivered,4
+ORD-301114,2026-05-19,Central,Maharashtra,Nagpur,home & kitchen,LED BULB PACK,2,394.46,Returned,3
+ORD-300499,2026-06-27,North,Chandigarh,Chandigarh,Apparel,Cotton T-Shirt,2,546.00,delivered,3
+ORD-301868,2026-08-15,West,Goa,PANAJI,electronics,Wireless Earbuds,2,2450.58,  Delivered ,3
+ORD-301325,2026-07-12,West,,Mumbai,Apparel,Cotton T-Shirt,1,547.91,Delivered,3
+ORD-300353,2026-01-07,East,Odisha,Bhubaneswar,Home & Kitchen,Pressure Cooker,2,1917.67,Cancelled,
+ORD-300077,2026-07-12,West,  Goa ,PANAJI,Apparel,Winter Jacket,1,2480.60,delivered,1
+ORD-300202,2026-06-12,South,Karnataka,Bengaluru,Home & Kitchen,led bulb pack,4,414.85,  Completed ,3
+ORD-300117,2026-08-21,West,goa,panaji,Electronics,Wireless Earbuds,4,2499.86,Pending,
+ORD-300190,2026-08-31,North,Rajasthan,Jaipur,  Electronics ,Smartwatch,1,4692.68,Completed,2
+ORD-301617,2026-07-11,South,Tamil Nadu,Chennai,Electronics,Power Bank,4,1295.01,Pending,
+ORD-300399,26/04/2026,East,West Bengal,Kolkata,  Health & Beauty ,hair dryer,2,1521.46,delivered,4
+ORD-300124,2026-07-25,North,Haryana,Gurugram,Apparel,winter jacket,1,2743.82,Shipped,
+ORD-301346,03/09/2026,North,Uttar Pradesh,Lucknow,Electronics,Wireless Earbuds,1,2426.32,Delivered,4
+ORD-300021,2026-07-02,West,Goa,Panaji,Apparel,Kurta,4,816.55,Shipped,
+ORD-301270,2026-07-03,  West ,Maharashtra,  Mumbai ,Electronics,Smartphone,1,18382.07,  Completed ,4
+ORD-301259,18-May-2026,West,Goa,Panaji,Home & Kitchen,Mixer Grinder,3,3721.47,DELIVERED,2
+ORD-301560,2026-05-09,West,Gujarat,Ahmedabad,Grocery,Green Tea 100 Bags,6,326.54,Delivered,2
+ORD-300836,2026-05-14,East,odisha,Bhubaneswar,  Grocery ,dry fruits 500g,2,805.44,Pending,
+ORD-300854,01/07/2026,West,Gujarat,Ahmedabad,Grocery,Green Tea 100 Bags,5,344.76,Delivered,2
+ORD-300529,2026-08-13,South,Karnataka,Bangalore,health & beauty,Face Wash,1,227.19,Delivered,3
+ORD-301717,2026-09-10,n,Chandigarh,,Apparel,Kurta,1,830.35,Delivered,3
+ORD-301031,05-Mar-2026,SOUTHERN,Kerala,Kochi,Apparel,Denim Jeans,3,1484.40,Delivered,1
+ORD-301238,12-Jun-2026,Central,  Maharashtra ,Nagpur,Grocery,Basmati Rice 5kg,2,625.75,Returned,4
+ORD-300331,2026-02-26,West,Goa,Panaji,Health & Beauty,Sunscreen,2,415.78,Delivered,1
+ORD-301622,26/04/2026,east,Bihar,Patna,Grocery,atta 10kg,3,495.82,Delivered,4
+ORD-301700,2026-05-22,North,Haryana,Gurgaon,health & beauty,Hair Dryer,2,1715.14,Delivered,3
+ORD-300918,2026-06-29,South,Telangana,Hyderabad,Electronics,Bluetooth Speaker,1,3225.88,Delivered,3
+ORD-300864,2026-05-02,North,Delhi,  Delhi ,Health & Beauty,Shampoo 400ml,1,423.38,Delivered,3
+ORD-301039,2026-05-15,South,Telangana,Hyderabad,grocery,  Green Tea 100 Bags ,5,373.21,Delivered,4
+ORD-300299,2026-09-02,South,,Hyderabad,Grocery,Atta 10kg,3,509.88,Delivered,3
+ORD-300350,08/07/2026,East,assam,Guwahati,electronics,Bluetooth Speaker,2,3189.48,Completed,5
+ORD-301776,2026-03-25,South,,Bengaluru,Electronics,Bluetooth Speaker,1,3265.56,Delivered,1
+ORD-300342,21/07/2026,  South ,Tamil Nadu,chennai,Electronics,Wireless Earbuds,4,2692.60,Delivered,3
+ORD-300022,2026-01-31,South,telangana,Hyderabad,Apparel,Cotton T-Shirt,2,493.84,Delivered,3
+ORD-301391,2026-05-12,  Central ,Chhattisgarh,Raipur,Clothing,Denim Jeans,1,1524.16,Delivered,3
+ORD-301869,2026-03-20,South,  Karnataka ,Bengaluru,  Groceries ,Basmati Rice 5kg,5,671.13,Delivered,2
+ORD-301516,19/08/2026,South,Telangana,Hyderabad,Electronics,Smartwatch,3,5118.01,Delivered,4
+ORD-301070,24/05/2026,South,kerala,Kochi,Apparel,Kurta,1,962.55,Cancelled,
+ORD-301737,2026-07-27,South,Kerala,kochi,Grocery,Atta 10kg,2,512.15,Completed,3
+ORD-300058,2026-09-04,Central,Madhya Pradesh,Bhopal,Apparel,Denim Jeans,1,1426.33,Delivered,3
+ORD-300258,2026-07-04,North,Delhi,Delhi,Electronics,Power Bank,2,1261.89,Delivered,3
+ORD-301183,05/08/2026,East,West Bengal,Kolkata,Home & Kitchen,led bulb pack,2,371.21,Pending,
+ORD-301845,04-Jul-2026,North,Delhi,Delhi,Home & Kitchen,Bedsheet Set,1,1232.28,Delivered,4
+ORD-301831,24/08/2026,South,Karnataka,Bengaluru,Grocery,Dry Fruits 500g,1,812.24,Delivered,2
+ORD-300148,2026-04-30,West,Goa,Panaji,Grocery,Green Tea 100 Bags,1,382.48,Delivered,3
+ORD-300083,05-Mar-2026,SOUTH,Telangana,Hyderabad,Electronics,Wireless Earbuds,2,2533.46,Delivered,4
+ORD-300434,18-May-2026,  West ,Goa,  Panaji ,Grocery,Atta 10kg,4,507.35,Delivered,3
+ORD-300828,14/02/2026,South,Karnataka,Bengaluru,Health & Beauty,hair dryer,3,1449.30,Pending,
+ORD-300470,2026-09-12,North,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,1,3083.30,Delivered,2
+ORD-301875,25/08/2026,West,Gujarat,Ahmedabad,ELECTRONICS,Smartphone,2,19313.86,Delivered,1
+ORD-300690,21/02/2026,N,Uttar Pradesh,Lucknow,  Apparel ,Winter Jacket,2,2645.62,Delivered,2
+ORD-301012,2026-08-23,South,Telangana,Hyderabad,Electronics,SMARTPHONE,5,20328.89,Returned,2
+ORD-301723,2026-06-20,West,Gujarat,Ahmedabad,Clothing,Winter Jacket,1,2559.44,Pending,
+ORD-300249,2026-06-16,North,Uttar Pradesh,Lucknow,Electronics,Smartphone,1,20288.28,Shipped,
+ORD-300221,2026-03-29,East,West Bengal,Calcutta,Health & Beauty,Face Wash,1,237.45,DELIVERED,2
+ORD-300225,2026-09-26,NORTH,Uttar Pradesh,Lucknow,Grocery,Atta 10kg,1,453.81,Delivered,1
+ORD-300461,19/05/2026,North,Rajasthan,jaipur,Apparel,Kurta,3,983.42,Delivered,4
+ORD-301363,2026-09-20,North,Chandigarh,  Chandigarh ,Apparel,Winter Jacket,1,2669.71,Delivered,2
+ORD-301467,2026-02-09,North,delhi,Delhi,Health & Beauty,Hair Dryer,3,1657.75,Delivered,1
+ORD-300182,03/04/2026,South,Karnataka,  Bengaluru ,Electronics,Power Bank,2,1411.74,delivered,5
+ORD-300445,27/05/2026,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer Grinder,2,3351.54,Shipped,
+ORD-300395,2026-09-20,  North ,Rajasthan,jaipur,  Apparel ,Running Shoes,2,2713.73,Delivered,2
+ORD-300741,2026-07-28,South,  Telangana ,  Hyderabad ,GROCERY,Dry Fruits 500g,4,801.93,DELIVERED,4
+ORD-300415,20-May-2026,Central,MAHARASHTRA,Nagpur,Grocery,Basmati Rice 5kg,4,614.92,Delivered,3
+ORD-300576,2026-07-23,North,chandigarh,Chandigarh,Health & Beauty,Face Wash,6,242.88,Delivered,3
+ORD-301956,30/03/2026,Central,,indore,Grocery,Cooking Oil 1L,5,183.93,Delivered,5
+ORD-300176,2026-08-31,East,West Bengal,Kolkata,Electronics,Wireless Earbuds,1,2746.43,Delivered,9
+ORD-301574,2026-01-14,West,Maharashtra,pune,Grocery,Cooking Oil 1L,2,204.53,Delivered,2
+ORD-300376,2026-08-24,North,Haryana,Gurugram,Home and Kitchen,Pressure Cooker,1,1710.38,returned,1
+ORD-301292,2026-05-27,North,Delhi,Delhi,Health & Beauty,Vitamin C Tablets,1,561.58,Delivered,3
+ORD-300455,29-Sep-2026,SOUTH,Telangana,  Hyderabad ,Health & Beauty,Vitamin C Tablets,1,587.70,Delivered,2
+ORD-301431,2026-07-28,North,  Delhi ,  Delhi ,Apparel,Kurta,5,826.14,Returned,2
+ORD-301980,2026-03-28,Central,Madhya Pradesh,Indore,Electronics,Wireless Earbuds,3,2377.78,Delivered,2
+ORD-301957,22/07/2026,south,Tamil Nadu,Chennai,  Grocery ,cooking oil 1l,1,193.00,Delivered,4
+ORD-300426,2026-01-22,South,Tamil Nadu,Chennai,  Health & Beauty ,Shampoo 400ml,1,385.67,Delivered,1
+ORD-301019,01/05/2026,North,Uttar Pradesh,Lucknow,Home & Kitchen,LED Bulb Pack,1,372.80,Delivered,4
+ORD-301394,2026-04-01,West,Goa,Panaji,Health & Beauty,VITAMIN C TABLETS,2,500.57,Delivered,3
+ORD-301926,06-Jul-2026,North,Uttar Pradesh,Lucknow,Grocery,Cooking Oil 1L,1,178.04,Lost,3
+ORD-300585,2026-08-09,West,Goa,Panaji,Grocery,Atta 10kg,2,463.50,Completed,2
+ORD-301606,11/03/2026,South,telangana,Hyderabad,Health & Beauty,Vitamin C Tablets,1,560.51,Delivered,2
+ORD-301469,2026-09-14,South,Telangana,Hyderabad,ELECTRONICS,Wireless Earbuds,1,2651.76,Shipped,
+ORD-301862,2026-06-27,North,Chandigarh,Chandigarh,Health & Beauty,  Hair Dryer ,1,1469.19,Delivered,2
+ORD-300819,2027-03-15,N,,Delhi,Health & Beauty,Vitamin C Tablets,5,536.60,Delivered,1
+ORD-301382,22/05/2026,West,Gujarat,Ahmedabad,Groceries,Cooking Oil 1L,1,179.14,Delivered,3
+ORD-301662,15-Mar-2026,East,West Bengal,Kolkata,Grocery,COOKING OIL 1L,4,185.32,Delivered,3
+ORD-300204,2026-09-15,SOUTH,Telangana,Hyderabad,Electronics,Bluetooth Speaker,1,3294.64,Delivered,2
+ORD-300493,14/03/2026,North,Delhi,Delhi,Apparel,Cotton T-Shirt,1,458.23,Delivered,1
+ORD-301232,26/05/2026,South,Tamil Nadu,Chennai,Apparel,Cotton T-Shirt,1,499.63,Delivered,3
+ORD-300314,2026-05-07,Central,Chhattisgarh,Raipur,Health & Beauty,Hair Dryer,1,1736.62,Delivered,2
+ORD-300386,2026-01-29,  Central ,Maharashtra,Nagpur,Electronics,Smartwatch,1,4563.52,Delivered,4
+ORD-301400,2026-09-06,east,BIHAR,Patna,Home & Kitchen,Non-Stick Pan,3,1087.42,Delivered,5
+ORD-300612,29-May-2026,north,Chandigarh,Chandigarh,Home & Kitchen,LED Bulb Pack,2,382.18,Delivered,3
+ORD-301772,2026-04-30,West,Maharashtra,Mumbai,Grocery,Cooking Oil 1L,7,179.50,Delivered,1
+ORD-301823,14/03/2026,West,Maharashtra,Mumbai,Home & Kitchen,LED Bulb Pack,4,406.31,Delivered,1
+ORD-300747,2026-08-07,West,Maharashtra,Mumbai,Home and Kitchen,Non-Stick Pan,3,964.34,Delivered,2
+ORD-300498,2026-03-16,  North ,Uttar Pradesh,LUCKNOW,Home & Kitchen,Bedsheet Set,2,1093.36,Delivered,3
+ORD-301472,2026-09-02,East,Bihar,patna,Apparel,Winter Jacket,2,2468.25,Shipped,
+ORD-300821,2026-04-26,North,Haryana,Gurugram,Apparel,Kurta,2,883.62,Pending,
+ORD-301783,21/06/2026,South,Karnataka,Bengaluru,Grocery,Atta 10kg,3,513.40,Pending,
+ORD-301695,30/03/2026,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,1,375.77,Shipped,
+ORD-300598,2026-03-28,  N ,Uttar Pradesh,Lucknow,health & beauty,SUNSCREEN,2,488.49,  Delivered ,3
+ORD-300129,2026-09-29,North,Delhi,New Delhi,Grocery,Basmati Rice 5kg,6,669.65,Delivered,2
+ORD-301421,2026-09-24,West,Maharashtra,  Mumbai ,Grocery,  Basmati Rice 5kg ,5,694.21,Delivered,4
+ORD-300417,2026-08-19,Central,  Madhya Pradesh ,Indore,Grocery,Cooking Oil 1L,6,173.95,Delivered,4
+ORD-300523,25/03/2026,South,tamil nadu,  Chennai ,Grocery,Cooking Oil 1L,1,184.89,Delivered,4
+ORD-301255,2026-07-06,West,maharashtra,Pune,Electronics,Smartwatch,1,4547.10,Delivered,5
+ORD-301318,2026-05-28,Central,Chhattisgarh,Raipur,Health and Beauty,Face Wash,3,238.18,Delivered,3
+ORD-301097,2026-08-15,EAST,Assam,  Guwahati ,Apparel,Winter Jacket,3,2360.37,  Cancelled ,
+ORD-301387,05/04/2026,North,Haryana,Gurugram,Home & Kitchen,Mixer Grinder,2,3584.06,Delivered,3
+ORD-301944,2026-07-21,West,Maharashtra,Pune,Electronics,Bluetooth Speaker,2,3046.18,Delivered,1
+ORD-301099,2026-09-01,West,Maharashtra,pune,Electronics,Wireless Earbuds,4,2590.88,Delivered,2
+ORD-301514,2026-09-23,West,Goa,Panaji,home & kitchen,bedsheet set,1,1248.45,Shipped,
+ORD-300120,2026-03-19,South,,Kochi,Electronics,smartwatch,1,4990.33,Delivered,
+ORD-301319,2026-04-22,Central,Madhya Pradesh,Indore,  Grocery ,Basmati Rice 5kg,1,675.09,Delivered,4
+ORD-301115,2026-06-17,East,Bihar,Patna,Apparel,Denim Jeans,4,1446.21,DELIVERED,5
+ORD-301936,05/04/2026,East,Assam,Guwahati,Electronics,power bank,1,1281.67,Delivered,4
+ORD-301555,2026-05-16,North,Uttar Pradesh,Lucknow,Electronics,Smartwatch,1,4523.05,Delivered,3
+ORD-301654,2026-01-07,Western,,Panaji,Groceries,Basmati Rice 5kg,2,612.57,delivered,3
+ORD-301305,2026-08-27,North,Rajasthan,Jaipur,Apparel,Denim Jeans,1,1496.19,Delivered,4
+ORD-301195,2026-06-27,East,Bihar,Patna,Health & Beauty,Vitamin C Tablets,3,593.61,Completed,2
+ORD-300006,2026-02-09,South,Karnataka,Bengaluru,Home & Kitchen,Bedsheet Set,1,1138.85,Delivered,4
+ORD-301323,05-Apr-2026,  West ,Gujarat,Ahmedabad,Electronics,  Bluetooth Speaker ,3,2904.81,Delivered,4
+ORD-301142,2026-08-02,South,Kerala,Kochi,Home & Kitchen,Pressure Cooker,1,1783.72,Delivered,1
+ORD-301442,2026-08-18,West,Goa,Panaji,Grocery,Basmati Rice 5kg,1,601.59,Cancelled,
+ORD-300321,17/07/2026,NORTH,,Gurugram,Clothing,Denim Jeans,1,1487.61,Delivered,2
+ORD-301882,2026-05-11,West,Maharashtra,pune,Apparel,  Winter Jacket ,3,2464.56,Delivered,2
+ORD-300165,01/09/2026,South,Tamil Nadu,Chennai,Electronics,  Bluetooth Speaker ,1,2916.86,Shipped,
+ORD-301040,15/08/2026,North,Chandigarh,Chandigarh,Electronics,Smartphone,2,17918.87,Delivered,3
+ORD-301457,2026-09-20,NORTH,Rajasthan,Jaipur,Grocery,Cooking Oil 1L,3,202.78,Delivered,2
+ORD-301795,2026-07-05,Central,Madhya Pradesh,Bhopal,Grocery,Green Tea 100 Bags,4,382.82,Returned,3
+ORD-301188,2026-04-28,Central,Chhattisgarh,Raipur,Home & Kitchen,Non-Stick Pan,3,1060.78,Delivered,5
+ORD-301476,15-Sep-2026,South,Karnataka,Bengaluru,Home & Kitchen,Mixer Grinder,1,3226.51,Pending,
+ORD-301991,2026-05-22,West,Maharashtra,Pune,Home & Kitchen,Non-Stick Pan,1,930.87,PENDING,
+ORD-301628,09/08/2026,Central,Madhya Pradesh,Indore,Apparel,Kurta,4,835.67,Shipped,
+ORD-300680,2026-02-23,  West ,Maharashtra,Pune,Electronics,Bluetooth Speaker,1,3040.27,Delivered,3
+ORD-301710,04/02/2026,North,Haryana,Gurugram,Health & Beauty,Vitamin C Tablets,3,548.99,Delivered,2
+ORD-301595,2026-05-26,East,  Bihar ,  Patna ,Electronics,Power Bank,2,1358.58,Completed,5
+ORD-300070,2026-05-08,East,West Bengal,Calcutta,Grocery,Basmati Rice 5kg,3,621.16,Completed,3
+ORD-301250,2026-09-04,West,Goa,Panaji,Grocery,Atta 10kg,3,543.69,Delivered,4
+ORD-300638,2026-05-27,South,Telangana,Hyderabad,Groceries,Cooking Oil 1L,5,194.30,Pending,
+ORD-300074,2026-07-12,East,Odisha,Bhubaneswar,Apparel,Kurta,4,921.15,Delivered,4
+ORD-301427,2026-05-04,West,Maharashtra,Pune,Apparel,Cotton T-Shirt,1,498.02,Delivered,3
+ORD-300955,2026-07-15,Central,Madhya Pradesh,Indore,Apparel,Kurta,3,895.43,Delivered,6
+ORD-300357,2026-04-26,North,chandigarh,  Chandigarh ,Health & Beauty,Hair Dryer,3,1501.87,  Pending ,
+ORD-300639,2026-01-28,North,chandigarh,Chandigarh,GROCERY,Basmati Rice 5kg,2,687.08,Delivered,3
+ORD-301438,24/05/2026,North,Delhi,Delhi,Home & Kitchen,Pressure Cooker,1,1841.51,Delivered,1
+ORD-301537,2026-09-04,South,  Telangana ,hyderabad,Electronics,SMARTPHONE,1,19365.85,Cancelled,
+ORD-300932,2026-03-21,West,Gujarat,Ahmedabad,Apparel,Kurta,3,977.80,Delivered,1
+ORD-300041,22-Jun-2026,East,Odisha,bhubaneswar,electronics,Bluetooth Speaker,1,2772.52,Shipped,
+ORD-301781,2026-07-13,south,Karnataka,bengaluru,Grocery,Atta 10kg,3,512.78,Shipped,
+ORD-301287,2026-06-30,Central,,raipur,Electronics,Smartwatch,1,4623.11,Delivered,4
+ORD-300772,25/08/2026,N,Uttar Pradesh,Lucknow,Apparel,Denim Jeans,1,1581.97,Delivered,1
+ORD-300650,2026-07-24,South,Tamil Nadu,Chennai,Grocery,atta 10kg,1,463.52,Delivered,2
+ORD-300769,2026-03-28,EAST,,Guwahati,Grocery,Dry Fruits 500g,3,770.79,Delivered,4
+ORD-301277,24-Feb-2026,North,,Chandigarh,Home and Kitchen,Mixer Grinder,2,3399.84,cancelled,
+ORD-300393,2026-08-23,Southern,Tamil Nadu,Chennai,Apparel,Cotton T-Shirt,2,465.83,Delivered,
+ORD-300591,12/07/2026,West,maharashtra,MUMBAI,Apparel,Running Shoes,1,2936.46,Delivered,1
+ORD-301245,2026-03-16,Central,Madhya Pradesh,Indore,Home & Kitchen,Non-Stick Pan,4,915.14,Cancelled,
+ORD-301156,2026-03-25,East,Assam,Guwahati,Grocery,Green Tea 100 Bags,4,383.29,Delivered,5
+ORD-301415,2026-01-17,South,Telangana,hyderabad,Grocery,Basmati Rice 5kg,2,661.72,Delivered,4
+ORD-300023,2026-03-05,e,West Bengal,Kolkata,Health & Beauty,Hair Dryer,1,1754.76,Pending,
+ORD-300916,14/07/2026,West,Goa,Panaji,Apparel,Running Shoes,1,2917.82,Shipped,
+ORD-301690,2026-05-28,North,  Rajasthan ,Jaipur,GROCERY,Dry Fruits 500g,3,785.39,Delivered,4
+ORD-300377,2026-06-01,West,Maharashtra,Pune,Groceries,Basmati Rice 5kg,3,N/A,  Pending ,
+ORD-301079,2026-08-21,N,Uttar Pradesh,lucknow,Grocery,Atta 10kg,2,502.74,Pending,
+ORD-301465,2026-09-05,South,Kerala,Kochi,Electronics,Power Bank,2,1417.57,Delivered,6
+ORD-301564,2026-04-10,Central,Maharashtra,Nagpur,Grocery,Dry Fruits 500g,6,806.89,Delivered,6
+ORD-301107,2026-06-24,East,Bihar,Patna,Health & Beauty,Vitamin C Tablets,4,537.00,Shipped,
+ORD-301064,2026-06-26,West,Gujarat,Ahmedabad,Apparel,Denim Jeans,1,1626.07,Delivered,3
+ORD-301243,2026-07-04,West,Maharashtra,Pune,Health & Beauty,Face Wash,2,252.54,Completed,1
+ORD-300054,2026-08-29,west,Gujarat,  Ahmedabad ,Apparel,Cotton T-Shirt,2,527.96,Delivered,5
+ORD-301446,25/07/2026,West,maharashtra,Pune,Home & Kitchen,Bedsheet Set,1,1081.88,Pending,
+ORD-300000,2026-05-09,North,Chandigarh,Chandigarh,Grocery,Dry Fruits 500g,3,730.35,Delivered,3
+ORD-301244,2026-06-05,West,Goa,Panaji,Grocery,Green Tea 100 Bags,4,376.98,Pending,
+ORD-300920,26/08/2026,North,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,2,2780.57,Delivered,2
+ORD-300667,31/03/2026,East,,Kolkata,Home & Kitchen,LED Bulb Pack,1,438.64,Delivered,3
+ORD-301931,2026-06-20,Central,Maharashtra,NAGPUR,Home & Kitchen,Non-Stick Pan,3,1049.64,Shipped,
+ORD-301082,11/09/2026,West,Gujarat,Ahmedabad,Grocery,Green Tea 100 Bags,abc,362.00,  Delivered ,2
+ORD-301453,2026-06-06,North,Delhi,delhi,Health & Beauty,Sunscreen,1,410.43,Delivered,4
+ORD-301463,2026-06-08,North,Rajasthan,Jaipur,Grocery,Dry Fruits 500g,2,812.63,Delivered,2
+ORD-301304,2026-08-22,CENTRAL,Madhya Pradesh,Indore,Health & Beauty,Shampoo 400ml,2,386.58,Delivered,4
+ORD-301554,23/08/2026,South,Karnataka,Bengaluru,Apparel,Denim Jeans,2,1570.25,delivered,3
+ORD-300265,2026-04-26,Central,Chhattisgarh,raipur,Grocery,Basmati Rice 5kg,1,663.22,Delivered,6
+ORD-300753,27/08/2026,South,  Karnataka ,Bangalore,Grocery,Atta 10kg,3,498.94,Delivered,4
+ORD-300730,2026-09-09,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,1,2824.65,  Completed ,4
+ORD-301206,2026-06-10,Central,Maharashtra,Nagpur,Grocery,Dry Fruits 500g,2,840.93,Delivered,5
+ORD-301752,2026-05-17,West,Maharashtra,Pune,Groceries,basmati rice 5kg,3,701.86,Delivered,2
+ORD-301958,02/08/2026,West,Gujarat,Ahmedabad,Electronics,Power Bank,1,1370.72,delivered,4
+ORD-301411,2026-05-26,  N ,Chandigarh,chandigarh,ELECTRONICS,Bluetooth Speaker,3,3188.55,Delivered,1
+ORD-301171,2026-02-22,North,Haryana,Gurugram,Apparel,Cotton T-Shirt,2,490.14,Delivered,3
+ORD-301505,24-Mar-2026,WEST,Maharashtra,Mumbai,Home & Kitchen,Pressure Cooker,2,2051.74,  Delivered ,2
+ORD-300942,25/03/2026,North,Haryana,  Gurugram ,Home & Kitchen,Pressure Cooker,2,1865.15,Delivered,4
+ORD-301487,2026-07-10,Central,,Nagpur,Grocery,Green Tea 100 Bags,3,322.28,Delivered,1
+ORD-300729,2026-06-08,N,Rajasthan,Jaipur,Electronics,Power Bank,1,1373.67,Delivered,3
+ORD-301421,2026-09-24,West,Maharashtra,  Mumbai ,Grocery,  Basmati Rice 5kg ,5,694.21,Delivered,4
+ORD-300571,2026-06-05,South,Karnataka,  Bengaluru ,Grocery,Green Tea 100 Bags,1,332.23,Delivered,4
+ORD-300565,2026-03-16,South,TELANGANA,HYDERABAD,Home & Kitchen,Pressure Cooker,3,2020.69,Pending,
+ORD-300557,2026-05-25,  West ,MAHARASHTRA,Mumbai,Health & Beauty,Hair Dryer,1,1691.04,Delivered,1
+ORD-301063,2026-04-02,East,bihar,Patna,Health & Beauty,Shampoo 400ml,4,391.02,Delivered,5
+ORD-301802,2026-08-29,Western,Goa,Panaji,Health & Beauty,Face Wash,1,258.16,Delivered,5
+ORD-301181,2026-03-31,East,Assam,Guwahati,Grocery,  Cooking Oil 1L ,5,192.97,Delivered,4
+ORD-301967,15-Aug-2026,Western,Maharashtra,Mumbai,Home & Kitchen,Mixer Grinder,1,3408.97,Shipped,
+ORD-300498,2026-03-16,  North ,Uttar Pradesh,LUCKNOW,Home & Kitchen,Bedsheet Set,2,1093.36,Delivered,3
+ORD-301294,2026-03-14,North,Uttar Pradesh,Lucknow,Home & Kitchen,Bedsheet Set,1,1102.43,Pending,
+ORD-300401,2026-05-16,North,Haryana,Gurugram,Apparel,running shoes,1,2900.15,Delivered,4
+ORD-300039,2026-03-25,West,Maharashtra,Pune,Electronics,Power Bank,3,1237.44,Cancelled,
+ORD-301352,2026-07-15,East,Odisha,Bhubaneswar,Grocery,green tea 100 bags,1,349.23,Completed,4
+ORD-300580,2026-06-05,South,Telangana,Hyderabad,Grocery,Dry Fruits 500g,2,747.23,Pending,
+ORD-301067,2026-05-20,Southern,Karnataka,Bengaluru,electronics,Smartwatch,1,4513.29,Delivered,3
+ORD-300654,2026-06-07,South,telangana,Hyderabad,Home & Kitchen,Non-Stick Pan,3,916.54,Shipped,
+ORD-300872,2026-08-22,South,Karnataka,BENGALURU,Apparel,  Cotton T-Shirt ,1,527.93,Cancelled,
+ORD-300319,2026-02-15,East,Assam,Guwahati,Electronics,Bluetooth Speaker,1,3292.54,Delivered,5
+ORD-300511,2026-05-11,North,Rajasthan,Jaipur,apparel,Running Shoes,2,2938.10,Cancelled,
+ORD-301062,2026-01-30,SOUTH,Tamil Nadu,Chennai,Health and Beauty,Vitamin C Tablets,3,581.97,Shipped,
+ORD-301580,17-Aug-2026,  Western ,Goa,Panaji,Electronics,power bank,1,1306.78,Delivered,2
+ORD-301388,2026-06-15,West,  Gujarat ,Ahmedabad,home & kitchen,Mixer Grinder,3,3707.41,Delivered,2
+ORD-300081,2026-03-17,  East ,BIHAR,  Patna ,Grocery,Cooking Oil 1L,2,196.22,Pending,
+ORD-301216,2026-09-15,  West ,Maharashtra,Pune,Home & Kitchen,  Mixer Grinder ,1,3272.70,Delivered,2
+ORD-301211,15/06/2026,South,Telangana,Hyderabad,Home & Kitchen,Pressure Cooker,1,2001.83,Delivered,4
+ORD-300759,2026-06-25,North,Delhi,Delhi,Electronics,Smartphone,1,18194.26,Delivered,2
+ORD-301805,2026-02-26,central,  Madhya Pradesh ,INDORE,Apparel,Cotton T-Shirt,1,517.99,  Delivered ,5
+ORD-300685,10-Feb-2026,West,Goa,Panaji,Apparel,Denim Jeans,2,1357.31,Shipped,
+ORD-301210,2026-06-27,South,Karnataka,Bengaluru,Health & Beauty,Face Wash,2,256.05,Shipped,
+ORD-301860,22/01/2026,North,,Chandigarh,Grocery,Basmati Rice 5kg,5,681.44,Returned,3
+ORD-301699,2026-07-02,West,Goa,Panaji,Home & Kitchen,Pressure Cooker,2,1969.36,Delivered,1
+ORD-300805,2026-01-19,South,Kerala,Kochi,Grocery,Dry Fruits 500g,5,833.46,Delivered,5
+ORD-301962,17/06/2026,Central,Madhya Pradesh,Indore,Electronics,Smartphone,1,17302.03,Delivered,2
+ORD-300139,2026-09-20,West,Maharashtra,Mumbai,Home & Kitchen,Non-Stick Pan,2,977.95,Delivered,2
+ORD-300537,2026-07-12,Central,Chhattisgarh,Raipur,Home & Kitchen,LED Bulb Pack,4,406.44,Delivered,4
+ORD-301474,18-Apr-2026,South,Tamil Nadu,Chennai,electronics,Bluetooth Speaker,1,3179.74,Cancelled,
+ORD-301881,23-Jul-2026,East,Odisha,bhubaneswar,HEALTH & BEAUTY,Face Wash,1,262.04,Delivered,4
+ORD-301460,2026-04-14,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer Grinder,1,3464.47,  Delivered ,
+ORD-301675,2026-06-24,  South ,Kerala,Kochi,Electronics,Smartwatch,1,5315.50,Pending,
+ORD-300462,22/01/2026,North,Uttar Pradesh,Lucknow,Electronics,smartphone,2,17132.75,  In Transit ,
+ORD-300531,14-Jun-2026,West,Maharashtra,Pune,Home & Kitchen,Pressure Cooker,1,2031.99,Shipped,
+ORD-300231,2026-08-21,North,Haryana,Gurugram,Grocery,Green Tea 100 Bags,2,334.27,  Delivered ,1
+ORD-300948,2026-07-05,North,Haryana,gurugram,Grocery,Basmati Rice 5kg,2,627.02,Delivered,1
+ORD-301557,2026-02-01,East,Assam,Guwahati,Apparel,Cotton T-Shirt,4,499.98,Delivered,5
+ORD-301223,20/02/2026,South,Kerala,Kochi,Electronics,Bluetooth Speaker,2,2973.23,Cancelled,
+ORD-301385,27-May-2026,South,  Karnataka ,Bengaluru,Health & Beauty,Face Wash,1,245.04,Delivered,1
+ORD-301336,18/09/2026,Central,  Chhattisgarh ,  Raipur ,ELECTRONICS,Wireless Earbuds,4,2368.84,delivered,5
+ORD-301803,12/05/2026,West,Maharashtra,Mumbai,Grocery,Atta 10kg,4,503.68,In Transit,
+ORD-300475,2026-01-29,South,Telangana,  Hyderabad ,Apparel,kurta,3,983.56,Delivered,1
+ORD-300939,07-May-2026,central,Madhya Pradesh,Indore,Apparel,Denim Jeans,1,1423.86,Completed,5
+ORD-301843,2026-09-19,West,,Mumbai,Electronics,SMARTPHONE,2,19647.69,Pending,
+ORD-300547,2026-06-10,South,tamil nadu,chennai,Apparel,Running Shoes,1,3199.20,Completed,4
+ORD-300504,2026-01-07,N,Delhi,Delhi,Electronics,Wireless Earbuds,1,2381.77,Completed,1
+ORD-300424,2026-04-11,South,Tamil Nadu,chennai,Apparel,Cotton T-Shirt,2,482.18,Returned,5
+ORD-301013,2026-07-06,West,Maharashtra,Pune,Health & Beauty,Shampoo 400ml,2,436.35,Delivered,2
+ORD-301538,17-Apr-2026,South,Tamil Nadu,chennai,Grocery,Cooking Oil 1L,4,N/A,Delivered,
+ORD-301166,2026-09-21,South,Tamil Nadu,chennai,Grocery,Basmati Rice 5kg,2,703.98,Delivered,4
+ORD-300633,2026-03-12,North,,Chandigarh,  Electronics ,BLUETOOTH SPEAKER,2,2884.18,Delivered,3
+ORD-301192,2026-03-07,North,Uttar Pradesh,Lucknow,Grocery,Atta 10kg,1,512.34,Delivered,3
+ORD-300287,09/05/2026,CENTRAL,Maharashtra,nagpur,Electronics,Bluetooth Speaker,1,2910.24,Delivered,5
+ORD-301199,31/08/2026,South,Kerala,Kochi,Health & Beauty,Face Wash,1,267.25,Pending,
+ORD-300332,yesterday,western,Maharashtra,PUNE,grocery,Atta 10kg,1,465.17,Delivered,2
+ORD-301797,2026-07-05,SOUTH,Telangana,Hyderabad,Grocery,Green Tea 100 Bags,4,361.96,delivered,4
+ORD-300029,2026-04-24,West,Gujarat,AHMEDABAD,Health & Beauty,Vitamin C Tablets,3,523.05,delivered,3
+ORD-301499,2026-07-19,South,Telangana,Hyderabad,Apparel,Denim Jeans,2,1566.43,Delivered,2
+ORD-301672,2026-09-15,West,maharashtra,Pune,Electronics,Bluetooth Speaker,abc,3130.62,Completed,1
+ORD-301755,2026-04-28,NORTH,  Uttar Pradesh ,Lucknow,Apparel,Running Shoes,1,3098.11,Delivered,2
+ORD-300126,2026-09-02,North,,Jaipur,home & kitchen,LED Bulb Pack,1,434.01,Cancelled,
+ORD-300369,2026-03-12,South,Kerala,Kochi,Home & Kitchen,Non-Stick Pan,1,933.23,Shipped,
+ORD-300259,25-Aug-2026,South,,Kochi,Apparel,Cotton T-Shirt,2,498.57,Cancelled,
+ORD-300363,2026-06-04,North,Rajasthan,jaipur,electronics,Bluetooth Speaker,1,3246.70,Delivered,4
+ORD-301515,2026-09-23,West,,PANAJI,Grocery,Atta 10kg,4,521.21,Lost,2
+ORD-300915,03-Aug-2026,South,,bengaluru,grocery,cooking oil 1l,2,197.93,Returned,2
+ORD-301034,2026-07-19,West,Maharashtra,Mumbai,Home & Kitchen,Non-Stick Pan,1,1058.23,DELIVERED,2
+ORD-300799,2026-09-25,Central,Madhya Pradesh,Bhopal,Electronics,Power Bank,2,1247.26,Shipped,
+ORD-301593,2026-07-14,South,Telangana,Hyderabad,Apparel,Running Shoes,3,2878.33,completed,2
+ORD-300133,2026-09-13,West,Maharashtra,Pune,Electronics,  Smartwatch ,2,4718.94,In Transit,
+ORD-300309,2026-03-14,North,,Chandigarh,Clothing,Winter Jacket,1,2487.03,Delivered,1
+ORD-301594,2026-05-03,West,Goa,panaji,Health and Beauty,Vitamin C Tablets,2,580.78,Delivered,1
+ORD-301164,2026-07-26,West,Goa,Panaji,Health & Beauty,Sunscreen,2,419.34,Completed,2
+ORD-301758,2026-04-03,N,  Haryana ,Gurugram,Apparel,Running Shoes,1,2714.17,Cancelled,
+ORD-300336,05/07/2026,North,Delhi,Delhi,Grocery,Dry Fruits 500g,3,731.70,Pending,
+ORD-300043,15-Aug-2026,South,Telangana,Hyderabad,Home & Kitchen,Pressure Cooker,2,1791.02,Shipped,
+ORD-300925,2026-06-16,North,Rajasthan,Jaipur,Grocery,Basmati Rice 5kg,1,697.83,Delivered,3
+ORD-301078,2026-01-04,South,  Kerala ,Kochi,Apparel,Winter Jacket,2,2396.75,Delivered,
+ORD-301728,2026-03-22,Central,Maharashtra,Nagpur,Electronics,Bluetooth Speaker,2,2930.03,Delivered,
+ORD-300596,17/02/2026,North,Haryana,Gurugram,Electronics,Smartphone,2,19157.19,Returned,3
+ORD-300307,2026-09-05,South,Karnataka,Bengaluru,Health & Beauty,Hair Dryer,1,1607.03,Delivered,1
+ORD-300435,2026-07-09,East,west bengal,Kolkata,Apparel,Winter Jacket,2,2275.71,Delivered,2
+ORD-301358,2026-03-06,Central,Madhya Pradesh,Indore,Electronics,Bluetooth Speaker,2,3122.46,Delivered,3
+ORD-301087,2026-04-13,South,Karnataka,Bengaluru,Health & Beauty,Hair Dryer,2,1582.22,  Shipped ,
+ORD-301938,26/09/2026,North,Haryana,Gurgaon,APPAREL,Running Shoes,1,2699.39,Completed,4
+ORD-301648,20-Jul-2026,Central,Maharashtra,Nagpur,Apparel,Denim Jeans,3,1522.66,Cancelled,
+ORD-300936,2026-03-08,Central,Madhya Pradesh,Bhopal,Apparel,Kurta,2,881.32,PENDING,
+ORD-301101,2026-03-19,East,Bihar,  Patna ,Electronics,Wireless Earbuds,2,2511.98,PENDING,
+ORD-300841,2026-09-07,East,Odisha,Bhubaneswar,Electronics,Smartwatch,1,5163.92,Delivered,7
+ORD-301906,2026-05-02,North,rajasthan,Jaipur,Apparel,Kurta,2,979.69,Shipped,
+ORD-300143,2026-03-14,West,,Mumbai,Grocery,Atta 10kg,5,456.22,shipped,
+ORD-300175,2026-07-13,North,Delhi,Delhi,Health & Beauty,Shampoo 400ml,1,379.56,Delivered,2
+ORD-301767,09/04/2026,north,Uttar Pradesh,Lucknow,grocery,Dry Fruits 500g,1,867.69,Delivered,2
+ORD-300089,06/08/2026,East,Bihar,Patna,Apparel,Running Shoes,1,2772.40,Shipped,
+ORD-300093,18/07/2026,South,Telangana,Hyderabad,Grocery,Atta 10kg,8,510.57,Delivered,3
+ORD-300181,23/02/2026,NORTH,Haryana,Gurugram,Health & Beauty,Hair Dryer,2,1514.91,delivered,3
+ORD-301997,2026-03-20,North,  Rajasthan ,Jaipur,Health & Beauty,vitamin c tablets,1,515.96,Delivered,1
+ORD-300370,18/05/2026,Central,maharashtra,Nagpur,Health & Beauty,Hair Dryer,3,1599.43,Delivered,4
+ORD-301348,2026-05-19,North,Chandigarh,Chandigarh,Electronics,Power Bank,1,1245.07,Delivered,1
+ORD-301163,2026-03-02,North,Chandigarh,CHANDIGARH,Electronics,Power Bank,1,1428.65,Delivered,2
+ORD-300744,30/05/2026,South,Kerala,Kochi,Health & Beauty,Hair Dryer,1,1483.75,Delivered,2
+ORD-301317,2026-05-10,South,Telangana,Hyderabad,Home & Kitchen,led bulb pack,2,434.52,  Delivered ,2
+ORD-301140,2026-05-13,Central,Chhattisgarh,Raipur,Apparel,Kurta,1,836.22,Delivered,5
+ORD-300689,2026-05-13,South,Kerala,Kochi,HOME & KITCHEN,Bedsheet Set,1,1176.38,Delivered,1
+ORD-301746,08/02/2026,North,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,2,170.14,Delivered,3
+ORD-301768,01-Mar-2026,  East ,Assam,Guwahati,Home & Kitchen,Mixer Grinder,4,3636.18,Delivered,5
+ORD-300798,20/09/2026,North,Haryana,Gurugram,home and kitchen,Pressure Cooker,1,1922.06,  Pending ,
+ORD-301623,2026-09-03,West,Maharashtra,pune,Electronics,Smartphone,1,19802.07,Shipped,
+ORD-301541,2026-06-03,South,Kerala,  Kochi ,Electronics,Smartwatch,4,4510.34,Delivered,5
+ORD-300480,2026-05-09,N,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,3,2966.87,Completed,1
+ORD-301602,12/09/2026,north,Haryana,Gurgaon,Apparel,RUNNING SHOES,2,3271.27,Returned,2
+ORD-300010,19-Jun-2026,West,Goa,Panaji,Home & Kitchen,PRESSURE COOKER,3,1726.20,Pending,
+ORD-301109,2026-05-09,East,odisha,Bhubaneswar,  Health and Beauty ,Face Wash,1,228.78,  Completed ,4
+ORD-300214,02-Feb-2026,West,Goa,Panaji,Health & Beauty,  Hair Dryer ,1,1453.92,Delivered,1
+ORD-301393,2026-09-30,North,  Chandigarh ,Chandigarh,Grocery,Atta 10kg,2,525.43,Shipped,
+ORD-301521,19/04/2026,Central,Madhya Pradesh,Bhopal,Apparel,winter jacket,1,2572.29,Shipped,
+ORD-300437,2026-07-02,west,Maharashtra,Bombay,Apparel,Kurta,2,897.03,Shipped,
+ORD-300966,2026-07-05,West,Maharashtra,Mumbai,Electronics,Smartwatch,4,5083.84,Delivered,
+ORD-301865,2026-09-08,Central,Madhya Pradesh,Indore,Home & Kitchen,Pressure Cooker,1,1739.98,Delivered,4
+ORD-301069,2026-07-27,North,,Delhi,Home and Kitchen,Mixer Grinder,2,3598.97,Delivered,2
+ORD-301272,2026-08-05,east,Odisha,Bhubaneswar,  Home and Kitchen ,Non-Stick Pan,1,1092.02,Delivered,6
+ORD-300122,2026-07-23,South,Tamil Nadu,Chennai,Apparel,Running Shoes,1,3278.79,Pending,
+ORD-301218,2026-07-15,East,,Kolkata,Grocery,DRY FRUITS 500G,5,724.38,Delivered,4
+ORD-300113,2026-08-12,West,Maharashtra,Pune,Electronics,smartphone,1,17281.46,Delivered,
+ORD-301328,2026-08-18,  Central ,  Madhya Pradesh ,Bhopal,Home & Kitchen,  Non-Stick Pan ,3,1036.57,Pending,
+ORD-301373,2026-09-07,west,GUJARAT,Ahmedabad,ELECTRONICS,power bank,1,1211.50,Delivered,2
+ORD-300177,07-Mar-2026,West,Maharashtra,pune,Home & Kitchen,Pressure Cooker,6,2055.10,Delivered,2
+ORD-300046,2026-02-14,South,Tamil Nadu,Chennai,Apparel,Running Shoes,2,3032.11,Shipped,
+ORD-300544,2026-07-15,North,Rajasthan,Jaipur,Apparel,Running Shoes,2,2891.22,Delivered,2
+ORD-300839,03/05/2026,East,Bihar,Patna,Health & Beauty,Face Wash,2,227.15,Delivered,
+ORD-301751,2026-06-28,West,Maharashtra,Bombay,  Apparel ,Winter Jacket,2,2722.59,Delivered,1
+ORD-301849,03/05/2026,n,uttar pradesh,Lucknow,Home & Kitchen,Non-Stick Pan,1,1037.42,  Completed ,4
+ORD-301535,15/09/2026,North,Haryana,Gurugram,Electronics,Wireless Earbuds,1,2434.93,Delivered,2
+ORD-300473,04-Apr-2026,South,Tamil Nadu,Chennai,Apparel,  Denim Jeans ,3,1638.92,Delivered,4
+ORD-301077,24-Jun-2026,North,Uttar Pradesh,Lucknow,Groceries,Dry Fruits 500g,1,778.65,Delivered,3
+ORD-301664,2026-06-08,  Western ,,Panaji,Electronics,smartphone,1,18061.15,  Delivered ,3
+ORD-301697,2026-04-18,North,Haryana,Gurugram,Electronics,Smartwatch,3,4675.52,Delivered,1
+ORD-301343,2026-03-29,North,Delhi,Delhi,Grocery,Green Tea 100 Bags,1,377.57,Delivered,4
+ORD-301043,2026-01-29,East,Assam,guwahati,grocery,Green Tea 100 Bags,6,320.94,Delivered,3
+ORD-300538,2026-06-03,Central,  Madhya Pradesh ,Indore,Health & Beauty,  Vitamin C Tablets ,1,552.36,Completed,5
+ORD-301113,2026-09-21,West,Maharashtra,Mumbai,Electronics,Bluetooth Speaker,1,2831.40,Delivered,4
+ORD-300881,2026-09-28,South,Tamil Nadu,chennai,Health and Beauty,Shampoo 400ml,1,431.03,Pending,
+ORD-300496,2026-08-12,South,Tamil Nadu,  Chennai ,ELECTRONICS,Bluetooth Speaker,1,3263.46,Shipped,
+ORD-300830,2026-02-17,Central,Chhattisgarh,Raipur,Health & Beauty,Sunscreen,2,N/A,Delivered,4
+ORD-301935,2026-04-06,N,Delhi,Delhi,electronics,Wireless Earbuds,1,2418.98,Delivered,2
+ORD-301001,2026-06-22,Central,Maharashtra,Nagpur,Clothing,Running Shoes,1,2712.63,Delivered,1
+ORD-301566,2026-04-04,West,MAHARASHTRA,Mumbai,grocery,Green Tea 100 Bags,4,360.57,  Delivered ,4
+ORD-301417,25/07/2026,West,Maharashtra,Pune,Apparel,Cotton T-Shirt,4,482.44,Canceled,
+ORD-300285,2026-04-25,South,Tamil Nadu,CHENNAI,GROCERY,COOKING OIL 1L,3,205.80,Delivered,5
+ORD-301471,03/02/2026,Central,,Indore,Health & Beauty,Shampoo 400ml,1,415.24,Delivered,4
+ORD-300532,2026-06-14,North,Delhi,Delhi,Grocery,Green Tea 100 Bags,4,359.28,Shipped,
+ORD-301138,22/03/2026,  North ,Chandigarh,Chandigarh,Home & Kitchen,LED Bulb Pack,1,383.90,COMPLETED,4
+ORD-300601,29-Jul-2026,South,Telangana,Hyderabad,Apparel,Denim Jeans,2,1487.16,Returned,1
+ORD-301703,20/07/2026,South,tamil nadu,Chennai,Home & Kitchen,BEDSHEET SET,1,1136.90,Pending,
+ORD-300668,11/09/2026,North,Delhi,Delhi,Home & Kitchen,Pressure Cooker,2,1785.91,  Shipped ,
+ORD-301718,19-Sep-2026,Western,,Pune,Apparel,Winter Jacket,1,2442.06,cancelled,
+ORD-300503,12/03/2026,West,Gujarat,Ahmedabad,Home and Kitchen,Pressure Cooker,1,1746.20,Delivered,4
+ORD-300624,02/06/2026,North,chandigarh,Chandigarh,Electronics,Smartwatch,2,4861.14,  Delivered ,3
+ORD-300665,05/07/2026,West,Maharashtra,Mumbai,Electronics,Wireless Earbuds,1,2571.41,delivered,1
+ORD-300964,2026-09-18,Central,Madhya Pradesh,Indore,Home & Kitchen,Non-Stick Pan,3,1039.59,Delivered,2
+ORD-301301,06-Jul-2026,north,Uttar Pradesh,Lucknow,Home & Kitchen,Pressure Cooker,3,1934.69,Shipped,
+ORD-301409,2026-08-04,WEST,,Panaji,Clothing,Winter Jacket,1,2337.70,Cancelled,
+ORD-300397,14/05/2026,West,Maharashtra,Pune,  Groceries ,atta 10kg,4,485.68,Delivered,4
+ORD-301824,10-Sep-2026,E,ODISHA,Bhubaneswar,Apparel,Winter Jacket,3,2623.48,Shipped,
+ORD-301098,2026-05-06,North,Uttar Pradesh,Lucknow,Grocery,Dry Fruits 500g,2,822.68,Delivered,1
+ORD-300145,06-Feb-2026,East,Bihar,Patna,Health & Beauty,Shampoo 400ml,1,434.69,Delivered,4
+ORD-301794,2026-08-22,South,Telangana,Hyderabad,Grocery,Basmati Rice 5kg,6,N/A,Completed,3
+ORD-301384,2026-05-06,north,Chandigarh,Chandigarh,Grocery,Cooking Oil 1L,2,170.49,Delivered,4
+ORD-300440,2026-05-20,South,  Karnataka ,Bengaluru,Home & Kitchen,Bedsheet Set,1,1162.91,delivered,5
+ORD-300540,29/09/2026,South,Kerala,Kochi,Apparel,Winter Jacket,3,2394.87,delivered,3
+ORD-300582,10/07/2026,North,Uttar Pradesh,Lucknow,Electronics,Bluetooth Speaker,2,3001.42,Shipped,
+ORD-301015,2026-04-01,South,Tamil Nadu,Chennai,Apparel,Kurta,3,915.47,Delivered,2
+ORD-300096,2026-08-17,West,Maharashtra,  Pune ,Apparel,Kurta,2,930.41,Delivered,4
+ORD-301486,2026-07-30,N,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,2,2869.36,Shipped,
+ORD-301599,2026-04-27,west,Gujarat,AHMEDABAD,Apparel,Running Shoes,1,3263.47,Completed,4
+ORD-301791,2026-01-20,North,Chandigarh,Chandigarh,Groceries,BASMATI RICE 5KG,2,607.69,Shipped,
+ORD-300578,2026-04-22,East,Odisha,BHUBANESWAR,Apparel,Denim Jeans,2,1386.73,PENDING,
+ORD-300530,2026-01-12,West,Gujarat,Ahmedabad,grocery,Dry Fruits 500g,1,735.81,Delivered,2
+ORD-300320,2026-09-02,West,Gujarat,Ahmedabad,Home & Kitchen,Bedsheet Set,4,1218.93,DELIVERED,2
+ORD-301275,2027-03-15,West,,Panaji,Electronics,Smartphone,2,19919.98,Delivered,2
+ORD-301439,2026-08-09,Central,Madhya Pradesh,Indore,Apparel,Winter Jacket,3,2270.02,Delivered,1
+ORD-301362,22-Apr-2026,South,Kerala,Kochi,,Non-Stick Pan,1,1063.04,Delivered,2
+ORD-300563,2026-07-16,South,Telangana,Hyderabad,Apparel,Kurta,1,969.64,Delivered,4
+,2026-05-08,west,MAHARASHTRA,Pune,Grocery,Dry Fruits 500g,3,776.05,Delivered,2
+ORD-301558,2026-01-30,East,bihar,patna,home & kitchen,Non-Stick Pan,1,962.45,Delivered,4
+ORD-300410,2026-05-01,Central,Madhya Pradesh,Bhopal,Home & Kitchen,Pressure Cooker,1,1964.14,Delivered,
+ORD-300675,2026-05-24,South,tamil nadu,  Chennai ,Electronics,Power Bank,1,1251.39,DELIVERED,6
+ORD-300110,25/07/2026,south,  Telangana ,Hyderabad,Apparel,  Winter Jacket ,1,2276.23,Completed,2
+ORD-301234,2026-07-06,West,Goa,Panaji,Apparel,Cotton T-Shirt,1,546.64,Delivered,2
+ORD-301000,2026-02-26,West,Goa,Panaji,Apparel,cotton t-shirt,3,494.08,delivered,2
+ORD-300280,03/07/2026,south,Kerala,KOCHI,Home & Kitchen,  Bedsheet Set ,1,1202.00,  Delivered ,3
+ORD-301011,24/05/2026,South,Karnataka,Bengaluru,Grocery,Basmati Rice 5kg,2,704.70,Delivered,3
+ORD-301786,22/05/2026,Central,Madhya Pradesh,Bhopal,Apparel,Winter Jacket,1,2289.13,Lost,
+ORD-300968,2026-08-15,Central,Maharashtra,Nagpur,Electronics,Wireless Earbuds,1,2349.97,pending,
+ORD-300185,2026-03-01,South,Karnataka,Bengaluru,Electronics,Smartphone,1,19756.07,SHIPPED,
+ORD-300539,2026-06-09,WEST,Maharashtra,Pune,Apparel,Denim Jeans,1,1502.00,completed,1
+ORD-301663,2026-03-29,West,Goa,Panaji,Electronics,Power Bank,1,1283.86,Shipped,
+ORD-300892,26/02/2026,EAST,West Bengal,  Kolkata ,Apparel,Winter Jacket,1,2279.57,Delivered,
+ORD-300485,2026-09-13,West,Maharashtra,Pune,HOME & KITCHEN,LED Bulb Pack,4,381.56,Delivered,3
+ORD-300269,2026-08-20,South,Telangana,  Hyderabad ,Home & Kitchen,Pressure Cooker,1,2026.07,Delivered,3
+ORD-300698,2026-01-26,E,Bihar,patna,Electronics,Power Bank,4,1395.62,Shipped,
+ORD-300526,26/06/2026,East,West Bengal,Kolkata,Grocery,basmati rice 5kg,abc,667.45,Pending,
+ORD-300707,2026-07-11,Central,Madhya Pradesh,Bhopal,Grocery,Atta 10kg,1,480.03,Delivered,4
+ORD-300902,2026-01-21,Western,Goa,  Panaji ,Home & Kitchen,Pressure Cooker,1,1929.58,In Transit,
+ORD-300053,2026-09-18,Western,Gujarat,AHMEDABAD,Electronics,Power Bank,1,1236.01,Delivered,3
+ORD-300134,2026-06-21,North,Chandigarh,Chandigarh,Electronics,power bank,1,1352.31,Delivered,4
+ORD-300488,2026-08-31,South,Telangana,Hyderabad,Health & Beauty,Face Wash,1,267.87,Delivered,2
+ORD-300954,2026-02-10,West,Maharashtra,Pune,Grocery,Green Tea 100 Bags,2,317.98,shipped,
+ORD-300469,2026-03-25,North,Uttar Pradesh,Lucknow,Health & Beauty,Vitamin C Tablets,1,538.47,Completed,2
+ORD-300211,2026-03-02,South,Kerala,Kochi,Grocery,Green Tea 100 Bags,5,321.13,Delivered,3
+ORD-300857,2026-04-30,South,KARNATAKA,Bengaluru,Electronics,Bluetooth Speaker,4,2891.67,Pending,

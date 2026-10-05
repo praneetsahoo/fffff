@@ -60,6 +60,27 @@ saves screenshots.
 3. Any failure marks the upload `FAILED` with a readable message; nothing is half-written and the
    raw file is kept, so the upload can be retried. Interrupted jobs resume on restart.
 
+## Deployment (AWS, ap-southeast-2)
+
+See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full design and the reason for each
+service, and [`docs/DEMO.md`](docs/DEMO.md) for the judging walkthrough.
+
+| Resource | Name |
+|---|---|
+| EC2 (Amazon Linux 2023, nginx + FastAPI via systemd) | `opsintel-app` |
+| RDS MySQL 8.4 (private, encrypted) | `opsintel-db` |
+| S3 (private, encrypted, versioned, TLS-only) | `opsintel-data-748348797173` |
+| IAM role (one bucket, `/opsintel/db/*` SSM params) | `opsintel-ec2-role` |
+| Security groups | `opsintel-app-sg` (80 only), `opsintel-db-sg` (3306 from app SG) |
+| SSM SecureString | `/opsintel/db/master_password`, `/opsintel/db/app_password` |
+
+* **First boot:** `deploy/user_data.sh` clones this repo and runs `deploy/install.sh`.
+* **Redeploy after a push:** run `bash /opt/opsintel/app/deploy/update.sh` on the server via
+  SSM Run Command (no SSH port is open).
+* **Verify a deployment:** `python scripts/smoke_test.py http://<server>` (34 live checks).
+* **Teardown order:** EC2 → RDS → SSM parameters → empty and delete the versioned bucket →
+  IAM role/instance profile → DB subnet group → security groups (after RDS is gone).
+
 ## Security notes
 
 * No credentials in code or git. On AWS the app uses the EC2 instance role for S3 and reads the

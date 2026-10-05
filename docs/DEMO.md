@@ -1,9 +1,13 @@
 # OpsIntel — Demo script (about 6 minutes)
 
 Before judging: open the site, check the top bar shows **Database connected** and **Amazon S3**
-with green dots, and download `operations_orders.csv` from the Upload page if it is not on the
-demo laptop already. If the demo files were already uploaded during rehearsal, use
-`operations_orders_batch2.csv` for the live upload, or upload any new CSV in the same format.
+with green dots, and download `operations_orders_live_demo.csv` from the Upload page if it is not on the
+demo laptop already.
+
+The live site is pre-loaded with `operations_orders.csv` and `operations_orders_batch2.csv`, so the
+dashboard is full from the first second. For the live upload in front of judges use
+**`operations_orders_live_demo.csv`** (2,060 rows, never uploaded). Re-uploading either
+pre-loaded file shows the duplicate-file protection.
 
 ## 1. The problem (30 s)
 "Operations teams get CSV exports from many branches: duplicates, three date formats,
@@ -11,10 +15,10 @@ demo laptop already. If the demo files were already uploaded during rehearsal, u
 was changed. OpsIntel makes that automatic and auditable."
 
 ## 2. Upload (1 min) — Upload page
-1. Drag `operations_orders.csv` onto the drop zone.
+1. Drag `operations_orders_live_demo.csv` onto the drop zone.
 2. Point at the steps as they light up: **stored → validated → saved → loaded → ready**.
-3. Read the row-accounting bar: *"5,150 rows in: 4,800 loaded, 208 rejected with reasons,
-   142 duplicates removed — every row is accounted for."*
+3. Read the row-accounting bar: *"every row received is accounted for: loaded, rejected with a
+   reason, or removed as a duplicate."* Then click **Open dashboard** — the numbers have grown.
 
 ## 3. Break it on purpose (45 s)
 Upload `missing_columns.csv`, then `not_really_csv.csv` (both downloadable under
