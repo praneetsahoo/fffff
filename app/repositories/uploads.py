@@ -104,7 +104,8 @@ def save_results(session: Session, upload: Upload, result: PipelineResult,
     for i in range(0, len(rows), CHUNK):
         session.execute(insert(Order), rows[i:i + CHUNK])
 
-    rejected = [{"upload_id": upload.id, "row_number": r["row_number"], "raw_data": r["raw"],
+    rejected = [{"upload_id": upload.id, "row_number": r["row_number"], "kind": r["kind"],
+                 "raw_data": r["raw"],
                  "reasons": "; ".join(r["reasons"])} for r in result.rejected]
     for i in range(0, len(rejected), CHUNK):
         session.execute(insert(RejectedRow), rejected[i:i + CHUNK])

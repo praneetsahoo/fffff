@@ -20,6 +20,7 @@ from app.errors import (AppError, DuplicateUploadError, InvalidFileError, NotFou
                         StorageError)
 from app.models import Upload, UploadStatus
 from app.pipeline import clean_csv_bytes, rejected_csv_bytes, run_pipeline
+from app.pipeline.reader import parse_csv
 from app.pipeline.pipeline import DERIVED_COLUMNS
 from app.profile import load_profile
 from app.repositories import uploads as repo
@@ -48,6 +49,11 @@ def accept_upload(session: Session, filename: str, data: bytes) -> Upload:
     if len(data) > settings.max_upload_bytes:
         raise InvalidFileError(f"The file is larger than the {settings.max_upload_mb} MB limit.",
                                code="file_too_large", status_code=413)
+
+    # Structural check (binary content, header, required columns, any data rows) takes
+    # milliseconds, so the user gets an immediate, specific error instead of a job that
+    # fails later. Row-level validation still happens in the background pipeline.
+    parse_csv(data, name, load_profile(settings.dataset_profile))
 
     file_hash = hashlib.sha256(data).hexdigest()
     existing = repo.get_upload_by_hash(session, file_hash)

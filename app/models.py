@@ -96,8 +96,11 @@ class RejectedRow(Base):
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
     upload_id: Mapped[str] = mapped_column(ForeignKey("uploads.id"), index=True)
     row_number: Mapped[int] = mapped_column(Integer)  # 1-based line in the CSV (header = 1)
+    kind: Mapped[str] = mapped_column(String(16), default="invalid")  # invalid|duplicate|malformed
     raw_data: Mapped[dict] = mapped_column(JSON)
     reasons: Mapped[str] = mapped_column(Text)  # "; "-joined list of every failed rule
+
+    __table_args__ = (Index("ix_rejected_upload_kind_row", "upload_id", "kind", "row_number"),)
 
 
 class QualityIssue(Base):

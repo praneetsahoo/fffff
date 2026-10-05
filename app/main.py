@@ -17,7 +17,7 @@ from app.db import init_db
 from app.errors import register_error_handlers
 from app.logging_config import request_id_var, setup_logging
 from app.profile import load_profile
-from app.routers import health
+from app.routers import dashboard, health, records, uploads
 from app.services import jobs
 
 log = logging.getLogger("opsintel")
@@ -63,6 +63,9 @@ def create_app() -> FastAPI:
             request_id_var.reset(token)
 
     app.include_router(health.router)
+    app.include_router(uploads.router)
+    app.include_router(records.router)
+    app.include_router(dashboard.router)
     return app
 
 

@@ -99,11 +99,22 @@ def test_rejected_before_storage(db_env, name, data, code):
     assert count(Upload) == 0
 
 
-def test_unusable_file_fails_with_message_and_keeps_raw(db_env):
-    up = upload_and_process("m.csv", b"order_id,region\nORD-000001,North\n")
+def test_structurally_broken_file_rejected_at_upload(db_env):
+    with new_session() as s, pytest.raises(InvalidFileError) as exc:
+        ingest.accept_upload(s, "m.csv", b"order_id,region\nORD-000001,North\n")
+    assert exc.value.code == "missing_columns"
+    assert count(Upload) == 0
+
+
+def test_processing_crash_is_recorded_and_raw_kept(db_env, monkeypatch):
+    def crash(*a, **k):
+        raise ValueError("unexpected bug")
+
+    monkeypatch.setattr(ingest, "run_pipeline", crash)
+    up = upload_and_process("a.csv", csv(GOOD))
     assert up.status == UploadStatus.FAILED
-    assert "Missing required column" in up.error_message
-    assert get_storage().get(up.raw_key)  # original kept for traceability
+    assert "Processing failed unexpectedly" in up.error_message
+    assert get_storage().get(up.raw_key)  # original kept for traceability / retry
 
 
 def test_db_failure_mid_load_rolls_back_then_retry_succeeds(db_env, monkeypatch):
