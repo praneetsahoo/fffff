@@ -1,0 +1,24 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local runtime data (local storage backend, SQLite dev DB, generated samples)
+data/storage/
+data/*.db
+data/generated/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
