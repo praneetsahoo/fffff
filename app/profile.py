@@ -23,11 +23,14 @@ class ColumnSpec:
     synonyms: dict[str, str] = field(default_factory=dict)
     case: str | None = None          # "title" | "upper" | None
     pattern: str | None = None
+    pattern_hint: str | None = None
     min: float | str | None = None
     max: float | None = None
     formats: tuple[str, ...] = ()
     not_future: bool = False
     fill: str | None = None          # value used when an optional field is missing
+    # optional field that SHOULD be present when another column has certain values
+    expected_when: dict | None = None
 
 
 @dataclass(frozen=True)
@@ -63,9 +66,10 @@ def _parse(raw: dict) -> DatasetProfile:
         cols.append(ColumnSpec(
             name=c["name"], type=c["type"], required=c.get("required", False),
             allowed=tuple(c["allowed"]) if "allowed" in c else None,
-            synonyms=c.get("synonyms", {}), case=c.get("case"), pattern=c.get("pattern"),
+            synonyms=c.get("synonyms", {}), case=c.get("case"), pattern=c.get("pattern"), pattern_hint=c.get("pattern_hint"),
             min=c.get("min"), max=c.get("max"), formats=tuple(c.get("formats", ())),
             not_future=c.get("not_future", False), fill=c.get("fill"),
+            expected_when=c.get("expected_when"),
         ))
     profile = DatasetProfile(
         name=raw["name"], title=raw["title"], description=raw.get("description", ""),

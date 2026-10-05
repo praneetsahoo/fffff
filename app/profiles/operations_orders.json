@@ -16,7 +16,7 @@
   "sla_days": 5,
   "columns": [
     {"name": "order_id", "type": "string", "required": true,
-     "pattern": "^ORD-\\d{6}$", "case": "upper"},
+     "pattern": "^ORD-\\d{6}$", "pattern_hint": "ORD-123456", "case": "upper"},
     {"name": "order_date", "type": "date", "required": true,
      "formats": ["%Y-%m-%d", "%d/%m/%Y", "%d-%b-%Y"],
      "min": "2020-01-01", "not_future": true},
@@ -41,6 +41,7 @@
      "allowed": ["Delivered", "Shipped", "Pending", "Cancelled", "Returned"],
      "synonyms": {"Completed": "Delivered", "Canceled": "Cancelled", "In Transit": "Shipped",
                   "Dispatched": "Shipped", "Processing": "Pending"}},
-    {"name": "delivery_days", "type": "integer", "required": false, "min": 0, "max": 60}
+    {"name": "delivery_days", "type": "integer", "required": false, "min": 0, "max": 60,
+     "expected_when": {"column": "status", "values": ["Delivered", "Returned"]}}
   ]
 }
