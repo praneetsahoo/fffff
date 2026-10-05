@@ -11,6 +11,7 @@ from __future__ import annotations
 import io
 import logging
 from collections import Counter
+from collections.abc import Callable, Iterable
 from dataclasses import dataclass, field
 from datetime import date
 
@@ -59,7 +60,10 @@ class PipelineResult:
 
 def run_pipeline(data: bytes, filename: str, profile: DatasetProfile, *,
                  existing_keys: set[str] | frozenset[str] = frozenset(),
+                 existing_keys_lookup: Callable[[Iterable[str]], set[str]] | None = None,
                  today: date | None = None) -> PipelineResult:
+    """existing_keys / existing_keys_lookup: keys already stored by earlier uploads.
+    The lookup form is used with the database so only this file's keys are queried."""
     today = today or date.today()
     parsed = parse_csv(data, filename, profile)
     df = parsed.df
@@ -139,6 +143,8 @@ def run_pipeline(data: bytes, filename: str, profile: DatasetProfile, *,
     exact = valid.duplicated(subset=profile.column_names, keep="first")
     remaining = valid[~exact]
     conflict = remaining.duplicated(subset=[key], keep="first")
+    if existing_keys_lookup is not None and len(remaining):
+        existing_keys = existing_keys_lookup(remaining[key].unique().tolist())
     already = remaining[key].isin(existing_keys) & ~conflict
 
     dup_reason: dict[int, str] = {}

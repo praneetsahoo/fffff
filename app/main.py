@@ -18,6 +18,7 @@ from app.errors import register_error_handlers
 from app.logging_config import request_id_var, setup_logging
 from app.profile import load_profile
 from app.routers import health
+from app.services import jobs
 
 log = logging.getLogger("opsintel")
 
@@ -28,9 +29,11 @@ async def lifespan(_: FastAPI):
     setup_logging(settings.log_level)
     load_profile(settings.dataset_profile)  # fail fast if the data contract is broken
     init_db()
+    jobs.resume_pending()
     log.info("OpsIntel started (storage=%s, profile=%s)",
              settings.storage_backend, settings.dataset_profile)
     yield
+    jobs.shutdown(wait=True)
     log.info("OpsIntel stopped")
 
 

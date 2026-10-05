@@ -36,6 +36,9 @@ class Settings(BaseSettings):
     max_upload_mb: int = 10
     log_level: str = "INFO"
     dataset_profile: str = "operations_orders"
+    # "thread": uploads processed by a background worker (production)
+    # "sync":   processed inline before the request returns (tests)
+    job_mode: Literal["thread", "sync"] = "thread"
 
     @property
     def max_upload_bytes(self) -> int:
