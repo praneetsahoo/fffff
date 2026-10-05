@@ -1,0 +1,20 @@
+[server]
+headless = true
+maxUploadSize = 10            # MB — larger files are refused by Streamlit itself
+enableXsrfProtection = true   # blocks cross-site form posts to the upload widget
+enableCORS = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"       # hide developer menus from end users
+showErrorDetails = "none"     # never show Python tracebacks to users
+
+[theme]
+base = "dark"
+primaryColor = "#5a9ff0"
+backgroundColor = "#0d1218"
+secondaryBackgroundColor = "#151b24"
+textColor = "#e7ebf1"
+font = "sans serif"
