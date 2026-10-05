@@ -101,7 +101,7 @@ button, input, select { font: inherit; color: inherit; }
   border-bottom: 3px solid transparent; border-top: 3px solid transparent;
 }
 .nav a:hover { color: #fff; }
-.nav a[aria-current="page"] { color: #fff; border-bottom-color: #fff; }
+.nav a[aria-current="page"] { color: #fff; }
 .health { margin-left: auto; display: flex; gap: var(--space-3); font-size: var(--step--1); color: #c9d6e6; }
 .health .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
 .health .ok .dot { background: #4cd44c; }
@@ -282,7 +282,7 @@ details.table-view th, details.table-view td { padding: 4px 8px; }
 .matrix td.cell span { display: inline-block; min-width: 56px; padding: 2px 8px; border-radius: 3px; }
 .tabs { display: flex; gap: var(--space-1); padding: 0 var(--space-5); border-bottom: 1px solid var(--rule); }
 .tabs button { all: unset; cursor: pointer; padding: var(--space-3) var(--space-3); border-bottom: 3px solid transparent; color: var(--ink-2); font-weight: 500; }
-.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.tabs button[aria-selected="true"] { color: var(--ink); }
 .tabs button:focus-visible { outline: 2px solid var(--focus); outline-offset: -2px; }
 
 /* ---------- states ---------- */
@@ -333,4 +333,114 @@ details.table-view th, details.table-view td { padding: 4px 8px; }
   .insight { grid-template-columns: 22px minmax(0, 1fr); }
   .insight .metric { grid-column: 2; }
   th, td { padding: 8px var(--space-3); }
+}
+
+/* =====================================================================
+   Motion — subtle, purposeful, and off for prefers-reduced-motion.
+   One easing curve everywhere so the whole product moves the same way.
+   ===================================================================== */
+:root {
+  --ease-out: cubic-bezier(.2, .7, .2, 1);
+  --t-fast: .15s;
+  --t-med: .35s;
+  --t-slow: .7s;
+}
+html { scroll-behavior: smooth; }
+
+/* Page change: the old view fades out quickly, the new one rises in. */
+.main.page-leave { opacity: 0; transform: translateY(-4px); transition: opacity .14s ease, transform .14s ease; }
+.main.page-enter { animation: page-in .38s var(--ease-out) both; }
+@keyframes page-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+/* Sliding underline for the main nav and tab bars. */
+.nav, .tabs { position: relative; }
+.indicator {
+  position: absolute; left: 0; bottom: 0; height: 3px; border-radius: 3px 3px 0 0;
+  background: #fff; pointer-events: none;
+  transition: transform var(--t-med) var(--ease-out), width var(--t-med) var(--ease-out), opacity var(--t-fast);
+}
+.tabs .indicator { background: var(--accent); }
+.indicator.no-anim { transition: none; }
+
+/* Scroll reveal: sections ease up as they arrive, top to bottom (--d set by motion.js). */
+.reveal:not(.chart):not(.ledger) {
+  opacity: 0; transform: translateY(14px);
+  transition: opacity .55s var(--ease-out), transform .55s var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+.reveal.in-view:not(.chart):not(.ledger) { opacity: 1; transform: none; }
+
+/* Children that cascade once their section is in view (--k = order). */
+.insights .insight, .upload-hero h1, .upload-hero .lede, .upload-hero .flow li,
+.upload-hero .dropzone, .upload-hero .samples {
+  opacity: 0; transform: translateY(8px);
+  transition: opacity .5s var(--ease-out), transform .5s var(--ease-out),
+              border-color var(--t-fast), background-color var(--t-fast);
+  transition-delay: calc(var(--d, 0ms) + 120ms + var(--k, 0) * 70ms);
+}
+.in-view .insights .insight, .in-view.upload-hero h1, .upload-hero.in-view h1,
+.upload-hero.in-view .lede, .upload-hero.in-view .flow li,
+.upload-hero.in-view .dropzone, .upload-hero.in-view .samples { opacity: 1; transform: none; }
+.upload-hero.in-view .dropzone:hover { transition-delay: 0s; }
+
+/* Charts: bars grow from their baseline when the chart scrolls into view, one after another;
+   value labels follow. New data (filters) replays it, which reads as "updated". */
+.chart svg .bar {
+  transform-box: fill-box;
+  transition: transform var(--t-slow) var(--ease-out), fill var(--t-fast) ease;
+  transition-delay: calc(var(--d, 0ms) + var(--i, 0) * 55ms), 0s;
+}
+.chart svg.hbars .bar { transform-origin: left center; }
+.chart svg.vbars .bar { transform-origin: center bottom; }
+.chart:not(.in-view) svg.hbars .bar { transform: scaleX(0); }
+.chart:not(.in-view) svg.vbars .bar { transform: scaleY(0); }
+.chart svg .val, .chart svg .threshold {
+  transition: opacity .4s ease;
+  transition-delay: calc(var(--d, 0ms) + 450ms + var(--i, 0) * 55ms);
+}
+.chart:not(.in-view) svg .val, .chart:not(.in-view) svg .threshold { opacity: 0; }
+.chart svg .grid line, .chart svg .axis text { transition: opacity .5s ease; }
+.chart:not(.in-view) svg .grid line, .chart:not(.in-view) svg .axis text { opacity: 0; }
+
+/* Row-accounting bar sweeps left to right; the legend follows. */
+.ledger .ledger-bar { clip-path: inset(0 100% 0 0 round 4px); transition: clip-path 1s var(--ease-out); transition-delay: calc(var(--d, 0ms) + 150ms); }
+.ledger.in-view .ledger-bar { clip-path: inset(0 0 0 0 round 4px); }
+.ledger .ledger-legend { opacity: 0; transition: opacity .5s ease; transition-delay: calc(var(--d, 0ms) + 700ms); }
+.ledger.in-view .ledger-legend { opacity: 1; }
+
+/* Content swapped in place (sorting, paging, tab change) cross-fades instead of jumping. */
+.swap-in { animation: swap-in .32s var(--ease-out) both; }
+@keyframes swap-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+
+/* Upload steps fill smoothly as the pipeline advances. */
+.steps li::before { transition: background-color .4s ease; }
+.steps li { transition: color .3s ease; }
+
+/* Micro-interactions */
+.btn, .input, .select, .nav a, .tabs button, a, .btn-link {
+  transition: background-color var(--t-fast) ease, border-color var(--t-fast) ease,
+              color var(--t-fast) ease, transform var(--t-fast) ease, opacity var(--t-fast) ease;
+}
+.btn:active:not(:disabled) { transform: scale(.98); }
+.btn-primary { box-shadow: 0 0 0 0 rgba(90, 159, 240, 0); transition: background-color var(--t-fast), box-shadow .25s ease, transform var(--t-fast); }
+.btn-primary:hover { box-shadow: 0 0 0 4px rgba(90, 159, 240, .18); }
+.dropzone { transition: border-color .2s ease, background-color .2s ease; }
+.dropzone svg { transition: transform .25s var(--ease-out); }
+.dropzone:hover svg, .dropzone.drag svg { transform: translateY(-3px); }
+tbody tr { transition: background-color var(--t-fast) ease; }
+.tooltip:not([hidden]) { animation: tip-in .14s ease-out; }
+@keyframes tip-in { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+.toast { animation: toast-in .3s var(--ease-out) both; }
+@keyframes toast-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+.health .dot { transition: background-color .3s ease; }
+.alert { animation: swap-in .3s var(--ease-out) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .reveal, .chart svg .bar, .ledger .ledger-bar, .ledger .ledger-legend,
+  .insights .insight, .upload-hero h1, .upload-hero .lede, .upload-hero .flow li,
+  .upload-hero .dropzone, .upload-hero .samples, .chart svg .val, .chart svg .threshold,
+  .chart svg .grid line, .chart svg .axis text {
+    opacity: 1 !important; transform: none !important; clip-path: none !important;
+  }
 }

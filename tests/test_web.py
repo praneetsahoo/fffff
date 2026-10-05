@@ -25,7 +25,7 @@ def test_index_served_with_security_headers(web):
 
 
 @pytest.mark.parametrize("path", ["/static/app.css", "/static/js/app.js", "/static/js/ui.js",
-                                  "/static/js/api.js", "/static/js/charts.js",
+                                  "/static/js/api.js", "/static/js/charts.js", "/static/js/motion.js",
                                   "/static/js/pages/upload.js", "/static/js/pages/dashboard.js",
                                   "/static/js/pages/records.js", "/static/js/pages/quality.js"])
 def test_static_assets(web, path):
@@ -34,7 +34,7 @@ def test_static_assets(web, path):
 
 def test_frontend_never_uses_innerhtml(web):
     """Uploaded CSV values are rendered as text only (XSS protection)."""
-    for path in ("/static/js/ui.js", "/static/js/charts.js", "/static/js/pages/upload.js",
+    for path in ("/static/js/ui.js", "/static/js/charts.js", "/static/js/motion.js", "/static/js/pages/upload.js",
                  "/static/js/pages/dashboard.js", "/static/js/pages/records.js",
                  "/static/js/pages/quality.js"):
         src = web.get(path).text

@@ -64,14 +64,16 @@ export function barsH(items, opts = {}) {
     const valueW = 76;
     const plotW = W - labelW - valueW;
     const x = (v) => (max ? (v / max) * plotW : 0);
-    const svg = s("svg", { viewBox: `0 0 ${W} ${height}`, width: W, height, role: "img", "aria-label": opts.title || "Bar chart" });
+    const svg = s("svg", { class: "hbars", viewBox: `0 0 ${W} ${height}`, width: W, height, role: "img", "aria-label": opts.title || "Bar chart" });
     items.forEach((d, i) => {
       const y = top + i * (row + gap);
       const bw = Math.max(2, x(d.value));
       const flagged = opts.flag?.(d);
+      const bar = s("path", { class: `bar${flagged ? " flag" : ""}`, d: hBarPath(labelW, y + 6, bw, row - 12) });
+      bar.style.setProperty("--i", i); // entrance order (CSSOM: allowed by the CSP)
       const g = s("g", { class: "row" },
         s("text", { class: "lbl", x: labelW - 10, y: y + row / 2 + 4, "text-anchor": "end" }, d.label),
-        s("path", { class: `bar${flagged ? " flag" : ""}`, d: hBarPath(labelW, y + 6, bw, row - 12) }),
+        bar,
         s("text", { class: "val", x: labelW + bw + 8, y: y + row / 2 + 4 }, fmt(d.value)),
         s("rect", { class: "hit", x: 0, y, width: W, height: row,
           onmouseenter: (e) => showTip(e, ...(opts.tip ? opts.tip(d) : [h("b", {}, d.label), ` ${fmt(d.value)}`])),
@@ -114,7 +116,7 @@ export function columns(items, opts = {}) {
     const step = plotW / items.length;
     const bw = Math.max(6, Math.min(48, step * 0.62));
     const y = (v) => top + plotH - (v / max) * plotH;
-    const svg = s("svg", { viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: "img", "aria-label": opts.title || "Column chart" });
+    const svg = s("svg", { class: "vbars", viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: "img", "aria-label": opts.title || "Column chart" });
     const grid = s("g", { class: "grid" });
     const axis = s("g", { class: "axis" });
     for (let i = 0; i <= 4; i++) {
@@ -128,8 +130,10 @@ export function columns(items, opts = {}) {
       const cx = left + step * i + step / 2;
       const hgt = Math.max(1, top + plotH - y(d.value));
       const showLabel = i % every === 0 || i === items.length - 1 && every === 1;
+      const col = s("path", { class: "bar", d: vBarPath(cx - bw / 2, y(d.value), bw, hgt) });
+      col.style.setProperty("--i", i);
       const g = s("g", { class: "row" },
-        s("path", { class: "bar", d: vBarPath(cx - bw / 2, y(d.value), bw, hgt) }),
+        col,
         showLabel ? s("text", { class: "lbl", x: cx, y: H - 8, "text-anchor": "middle" }, d.label) : null,
         s("rect", { class: "hit", x: cx - step / 2, y: top, width: step, height: plotH,
           onmouseenter: (e) => showTip(e, ...(opts.tip ? opts.tip(d) : [h("b", {}, d.label), ` ${fmt(d.value)}`])),

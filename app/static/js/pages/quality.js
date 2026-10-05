@@ -2,6 +2,7 @@
 import { get, post } from "../api.js";
 import { ledger } from "../charts.js";
 import { h, icon, num, pct, when, statusChip, alertBox, emptyState, errorState, loading, toast } from "../ui.js";
+import { slideIndicator, swapIn } from "../motion.js";
 
 const PROBLEMS = [["missing", "Missing"], ["invalid_type", "Wrong type"], ["invalid_value", "Invalid value"], ["duplicate", "Duplicate"], ["malformed", "Malformed line"]];
 const FIXES = [["standardized", "Standardised"], ["filled", "Default filled"]];
@@ -124,9 +125,12 @@ function rejectedPanel(id) {
   const tabBar = h("div", { class: "tabs", role: "tablist", "aria-label": "Rejected row type" });
   const list = h("div", { role: "tabpanel" }, loading(4));
 
+  const tabButtons = tabs.map(([k, label]) => h("button", { role: "tab", "aria-selected": String(k === kind),
+    onclick: () => { kind = k; page = 1; drawTabs(); load(); } }, label));
+  tabBar.append(...tabButtons);
   function drawTabs() {
-    tabBar.replaceChildren(...tabs.map(([k, label]) => h("button", { role: "tab", "aria-selected": String(k === kind),
-      onclick: () => { kind = k; page = 1; drawTabs(); load(); } }, label)));
+    tabButtons.forEach((b, i) => b.setAttribute("aria-selected", String(tabs[i][0] === kind)));
+    slideIndicator(tabBar, tabButtons[tabs.findIndex(([k]) => k === kind)]);
   }
 
   async function load() {
@@ -140,6 +144,7 @@ function rejectedPanel(id) {
       const kindChip = (k) => k === "duplicate"
         ? h("span", { class: "chip chip-warn" }, icon("copy"), "Duplicate")
         : h("span", { class: "chip chip-crit" }, icon("cross"), k === "malformed" ? "Malformed" : "Invalid");
+      swapIn(list);
       list.replaceChildren(
         h("div", { class: "table-wrap" }, h("table", {},
           h("thead", {}, h("tr", {}, h("th", { class: "num" }, "Line"), h("th", {}, "Type"), h("th", {}, "Why it was refused"))),
@@ -160,8 +165,8 @@ function rejectedPanel(id) {
     }
   }
 
-  drawTabs();
   load();
+  requestAnimationFrame(drawTabs); // measure once the tab bar is on the page
   return h("section", { class: "panel" },
     h("div", { class: "panel-head" }, h("h2", {}, "Refused rows"), h("span", { class: "hint" }, "Kept with every reason, so they can be corrected at the source")),
     tabBar, list);

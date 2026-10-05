@@ -1,6 +1,7 @@
 // Records explorer: search, filter, sort, paginate and export the clean records.
 import { get, queryString } from "../api.js";
 import { h, icon, num, money2, emptyState, errorState, loading } from "../ui.js";
+import { swapIn } from "../motion.js";
 
 const KEYS = ["q", "region", "category", "status", "city", "date_from", "date_to", "sla_breached", "upload_id", "sort", "order", "page", "page_size"];
 const COLS = [
@@ -116,6 +117,7 @@ export async function renderRecords(root, { params }) {
     const pageNum = Number(state.page), size = Number(state.page_size);
     const from = (pageNum - 1) * size + 1, to = Math.min(p.total, pageNum * size);
     const go = (n) => { state.page = String(n); syncUrl(); load(); results.scrollIntoView({ block: "start" }); };
+    swapIn(results);
     results.replaceChildren(
       h("div", { class: "table-wrap" }, h("table", {},
         h("caption", { class: "sr-only" }, "Processed records"),

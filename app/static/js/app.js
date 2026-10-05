@@ -1,6 +1,7 @@
 // Hash router + live system health in the top bar.
 import { get } from "./api.js";
 import { h } from "./ui.js";
+import { watch, leave, enter, slideIndicator } from "./motion.js";
 import { renderUpload } from "./pages/upload.js";
 import { renderDashboard } from "./pages/dashboard.js";
 import { renderRecords } from "./pages/records.js";
@@ -31,12 +32,15 @@ async function route() {
     if (a.dataset.route === name) a.setAttribute("aria-current", "page");
     else a.removeAttribute("aria-current");
   });
+  placeNavIndicator();
   document.title = `${titles[name]} · OpsIntel`;
   const main = document.getElementById("main");
+  await leave(main);
   main.replaceChildren();
+  window.scrollTo({ top: 0, behavior: "instant" });
+  enter(main);
   cleanup = await routes[name](main, { args, params });
   main.focus({ preventScroll: true });
-  window.scrollTo(0, 0);
 }
 
 async function refreshHealth() {
@@ -55,7 +59,15 @@ async function refreshHealth() {
   }
 }
 
+function placeNavIndicator() {
+  const nav = document.querySelector(".nav");
+  slideIndicator(nav, nav.querySelector('a[aria-current="page"]'));
+}
+
+watch(document.getElementById("main"));
 window.addEventListener("hashchange", route);
+window.addEventListener("resize", placeNavIndicator);
+document.fonts?.ready.then(placeNavIndicator); // re-measure once the web font has loaded
 route();
 refreshHealth();
 setInterval(refreshHealth, 30000);
