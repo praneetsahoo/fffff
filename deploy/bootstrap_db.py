@@ -29,7 +29,7 @@ def secret(name: str) -> str:
 
 def connect(password: str):
     last = None
-    for attempt in range(30):  # RDS can take a moment to accept connections after creation
+    for attempt in range(90):  # up to ~15 min: the server may boot before RDS is available
         try:
             return pymysql.connect(host=HOST, user="opsintel_admin", password=password,
                                    ssl={"ca": CA}, connect_timeout=10, autocommit=True)
