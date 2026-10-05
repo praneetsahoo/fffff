@@ -74,7 +74,7 @@ systemctl reload nginx
 
 echo "[opsintel] waiting for the app to report healthy"
 for i in $(seq 1 30); do
-  if curl -fsS http://127.0.0.1/api/health >/dev/null; then
+  if curl -fs http://127.0.0.1/api/health >/dev/null; then
     echo "[opsintel] healthy"; curl -sS http://127.0.0.1/api/health; echo; exit 0
   fi
   sleep 2
