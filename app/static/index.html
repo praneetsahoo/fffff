@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpsIntel — Operations data you can trust</title>
+  <meta name="description" content="Upload operational CSV data, validate and clean it automatically, and explore trusted insights.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/static/app.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23173B5E'/%3E%3Crect x='6' y='19' width='4' height='7' fill='%23fff'/%3E%3Crect x='14' y='13' width='4' height='13' fill='%23fff'/%3E%3Crect x='22' y='7' width='4' height='19' fill='%23fff'/%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="#/upload" aria-label="OpsIntel home">
+        <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6"/><rect x="6" y="19" width="4" height="7"/><rect x="14" y="13" width="4" height="13"/><rect x="22" y="7" width="4" height="19"/></svg>
+        <span class="brand-name">OpsIntel</span>
+      </a>
+      <nav class="nav" aria-label="Main">
+        <a href="#/upload" data-route="upload">Upload</a>
+        <a href="#/dashboard" data-route="dashboard">Dashboard</a>
+        <a href="#/records" data-route="records">Records</a>
+        <a href="#/quality" data-route="quality">Data quality</a>
+      </nav>
+      <div class="health" id="health" aria-live="polite"></div>
+    </header>
+    <main id="main" class="main" tabindex="-1"></main>
+  </div>
+  <div class="toast-region" id="toasts" aria-live="polite"></div>
+  <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+  <script type="module" src="/static/js/app.js"></script>
+</body>
+</html>

@@ -11,13 +11,14 @@ import uuid
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request
+from fastapi.staticfiles import StaticFiles
 
 from app.config import get_settings
 from app.db import init_db
 from app.errors import register_error_handlers
 from app.logging_config import request_id_var, setup_logging
 from app.profile import load_profile
-from app.routers import dashboard, health, records, uploads
+from app.routers import dashboard, health, records, uploads, web
 from app.services import jobs
 
 log = logging.getLogger("opsintel")
@@ -66,6 +67,23 @@ def create_app() -> FastAPI:
     app.include_router(uploads.router)
     app.include_router(records.router)
     app.include_router(dashboard.router)
+    app.include_router(web.router)
+    app.mount("/static", StaticFiles(directory=web.STATIC_DIR), name="static")
+
+    @app.middleware("http")
+    async def security_headers(request: Request, call_next):
+        response = await call_next(request)
+        response.headers.setdefault("X-Content-Type-Options", "nosniff")
+        response.headers.setdefault("X-Frame-Options", "DENY")
+        response.headers.setdefault("Referrer-Policy", "same-origin")
+        if not request.url.path.startswith(("/docs", "/redoc")):  # Swagger UI uses a CDN
+            response.headers.setdefault(
+                "Content-Security-Policy",
+                "default-src 'self'; style-src 'self' https://fonts.googleapis.com; "
+                "font-src https://fonts.gstatic.com; img-src 'self' data:; "
+                "script-src 'self'; connect-src 'self'; frame-ancestors 'none'")
+        return response
+
     return app
 
 

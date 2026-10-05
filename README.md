@@ -24,7 +24,8 @@ Dashboard · Records · Quality report  ◄── REST API (SQL aggregations)
 | `app/pipeline/` | Parse → validate → clean → de-duplicate → derive → score |
 | `app/repositories/` | All SQL for uploads/results |
 | `app/services/` | Upload workflow + background job queue |
-| `app/routers/` | API endpoints |
+| `app/routers/` | API endpoints (+ web app and sample files) |
+| `app/static/` | Web app: HTML/CSS + ES modules, hand-built SVG charts, no build step |
 | `scripts/generate_data.py` | Messy demo data + edge-case files |
 | `sample_data/` | Generated demo CSVs and edge cases |
 | `tests/` | pytest suite (S3 mocked with moto) |
@@ -39,6 +40,15 @@ pytest -q
 # also run the DB tests against real MySQL/MariaDB (same engine family as RDS):
 TEST_MYSQL_URL='mysql+pymysql://user:password@127.0.0.1/opsintel_test' pytest -q
 ```
+
+## Web app
+
+Open `http://localhost:8000/`. Four views: **Upload** (drag & drop, live pipeline progress,
+row accounting), **Dashboard** (KPIs, automatic insights, charts — filterable),
+**Records** (search, filter, sort, paginate, CSV export) and **Data quality** (issues per column,
+every refused row with reasons, raw/cleaned/rejected downloads).
+`python scripts/browser_check.py http://localhost:8000` drives the UI in headless Chromium and
+saves screenshots.
 
 ## How an upload is processed
 
